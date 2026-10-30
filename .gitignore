@@ -1,0 +1,20 @@
+# secrets - NEVER upload
+.env
+
+# made on each person's own computer
+.venv/
+__pycache__/
+.DS_Store
+
+# big data - lives in the shared Google Drive
+*.zip
+*.jpg
+images/
+val.json
+train.json
+test.json
+
+# test runs, not real results
+demo_*.csv
+mock_scores.csv
+judge/judge_scores.csv
