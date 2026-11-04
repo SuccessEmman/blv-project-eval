@@ -1,0 +1,11 @@
+{
+  "threshold": 164.67810814512066,
+  "prediction_rule": "blurry if score < threshold; otherwise clear",
+  "selection_metric": "balanced_accuracy",
+  "tie_rule": "middle candidate among tied best thresholds",
+  "calibration_images": 100,
+  "calibration_balanced_accuracy": 0.77,
+  "longest_side_pixels": 512,
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.1.3"
+}

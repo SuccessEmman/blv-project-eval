@@ -1,0 +1,287 @@
+image_id,file_name,split,stratum,text_detected,BLR,DRK,NON,unrecognizable_votes,manual_text_review,expected_text,laplacian_variance,review_round
+25,VizWiz_train_00000025.jpg,train,blurry,False,3,0,1,0,,,147.5567155901119,1
+126,VizWiz_train_00000126.jpg,train,blurry,False,4,0,0,3,,,101.26813788204971,1
+149,VizWiz_train_00000149.jpg,train,blurry,False,3,0,2,0,,,102.80753580356638,1
+264,VizWiz_train_00000264.jpg,train,blurry,False,3,0,0,1,,,167.35459664198578,1
+867,VizWiz_train_00000867.jpg,train,blurry,False,4,0,1,1,,,95.33830434580643,1
+1183,VizWiz_train_00001183.jpg,train,blurry,False,4,1,0,3,,,99.17787765580204,1
+1261,VizWiz_train_00001261.jpg,train,blurry,False,3,1,1,3,,,245.62902539262834,1
+1297,VizWiz_train_00001297.jpg,train,blurry,False,4,0,1,0,,,25.58563329711454,1
+2522,VizWiz_train_00002522.jpg,train,blurry,False,4,1,1,1,,,147.17400603824197,1
+3221,VizWiz_train_00003221.jpg,train,blurry,False,3,0,2,0,,,567.6150755524253,1
+3479,VizWiz_train_00003479.jpg,train,blurry,False,4,0,1,0,,,45.004710077592684,1
+4231,VizWiz_train_00004231.jpg,train,blurry,False,4,1,0,2,,,19.487271230021076,1
+4535,VizWiz_train_00004535.jpg,train,blurry,False,4,0,0,0,,,149.132808641803,1
+5561,VizWiz_train_00005561.jpg,train,blurry,False,5,0,0,3,,,67.9291742059805,1
+5853,VizWiz_train_00005853.jpg,train,blurry,False,5,0,0,4,,,49.2368155071874,1
+6280,VizWiz_train_00006280.jpg,train,blurry,False,4,1,0,3,,,16.711269720673595,1
+7010,VizWiz_train_00007010.jpg,train,blurry,False,4,0,1,0,,,60.34366952004428,1
+7117,VizWiz_train_00007117.jpg,train,blurry,False,5,1,0,5,,,16.421981557970867,1
+7125,VizWiz_train_00007125.jpg,train,blurry,False,3,0,1,1,,,388.1821393468934,1
+7402,VizWiz_train_00007402.jpg,train,blurry,False,3,0,1,3,,,33.83080003814151,1
+7883,VizWiz_train_00007883.jpg,train,blurry,False,5,0,0,5,,,75.00336889526807,1
+7899,VizWiz_train_00007899.jpg,train,blurry,False,4,0,0,2,,,81.4307507264281,1
+7948,VizWiz_train_00007948.jpg,train,blurry,False,3,0,0,4,,,6.501514299229409,1
+8905,VizWiz_train_00008905.jpg,train,blurry,False,5,0,0,0,,,136.17590289645725,1
+9212,VizWiz_train_00009212.jpg,train,blurry,False,5,0,0,5,,,11.61856775003313,1
+9617,VizWiz_train_00009617.jpg,train,blurry,False,4,0,0,4,,,4.034330315241177,1
+9867,VizWiz_train_00009867.jpg,train,blurry,False,5,0,0,4,,,7.716496542070266,1
+10173,VizWiz_train_00010173.jpg,train,blurry,False,3,0,1,1,,,43.52761804847978,1
+10460,VizWiz_train_00010460.jpg,train,blurry,False,5,0,0,5,,,35.126136367416215,1
+10654,VizWiz_train_00010654.jpg,train,blurry,False,3,0,1,2,,,150.05562867898956,1
+10684,VizWiz_train_00010684.jpg,train,blurry,False,4,0,0,2,,,5.548654718483484,1
+10970,VizWiz_train_00010970.jpg,train,blurry,False,3,0,0,0,,,16.777765358877573,1
+11339,VizWiz_train_00011339.jpg,train,blurry,False,5,0,0,0,,,81.38513151926195,1
+11455,VizWiz_train_00011455.jpg,train,blurry,False,3,1,1,5,,,26.233261953610967,1
+11611,VizWiz_train_00011611.jpg,train,blurry,False,3,0,0,2,,,35.76969437981543,1
+11636,VizWiz_train_00011636.jpg,train,blurry,False,3,0,1,1,,,566.9763702760296,1
+11707,VizWiz_train_00011707.jpg,train,blurry,False,5,0,0,3,,,91.3536541055267,1
+13408,VizWiz_train_00013408.jpg,train,blurry,False,4,0,1,0,,,109.94071145874739,1
+14652,VizWiz_train_00014652.jpg,train,blurry,False,4,0,1,3,,,72.29173601625693,1
+14682,VizWiz_train_00014682.jpg,train,blurry,False,5,0,0,2,,,7.245812310112847,1
+14742,VizWiz_train_00014742.jpg,train,blurry,False,4,0,0,0,,,125.20130270172679,1
+15281,VizWiz_train_00015281.jpg,train,blurry,False,4,0,0,4,,,6.153207069883744,1
+15873,VizWiz_train_00015873.jpg,train,blurry,False,4,0,1,1,,,27.571878013408014,1
+17552,VizWiz_train_00017552.jpg,train,blurry,False,4,0,0,4,,,39.69085455973012,1
+17670,VizWiz_train_00017670.jpg,train,blurry,False,3,0,0,0,,,152.28261795877998,1
+18434,VizWiz_train_00018434.jpg,train,blurry,False,4,0,1,0,,,26.00168782172472,1
+18519,VizWiz_train_00018519.jpg,train,blurry,False,4,0,1,0,,,191.91819702197685,1
+20253,VizWiz_train_00020253.jpg,train,blurry,False,3,1,0,4,,,41.01755404454705,1
+20431,VizWiz_train_00020431.jpg,train,blurry,False,3,0,1,1,,,75.26829315719401,1
+20435,VizWiz_train_00020435.jpg,train,blurry,False,3,0,1,2,,,48.02601623511873,1
+20473,VizWiz_train_00020473.jpg,train,blurry,False,5,0,0,0,,,23.28099919480479,1
+20505,VizWiz_train_00020505.jpg,train,blurry,False,5,0,0,2,,,61.406736902224544,1
+21012,VizWiz_train_00021012.jpg,train,blurry,False,3,0,1,1,,,22.33220938225103,1
+21439,VizWiz_train_00021439.jpg,train,blurry,False,3,0,2,0,,,112.60960676231319,1
+21777,VizWiz_train_00021777.jpg,train,blurry,False,3,0,0,2,,,13.920448501664083,1
+21883,VizWiz_train_00021883.jpg,train,blurry,False,4,0,0,5,,,82.57837320240729,1
+21896,VizWiz_train_00021896.jpg,train,blurry,False,3,0,2,0,,,134.83912492304896,1
+22286,VizWiz_train_00022286.jpg,train,blurry,False,4,0,1,0,,,248.37299516649605,1
+23050,VizWiz_train_00023050.jpg,train,blurry,False,3,1,0,4,,,7.377558648586273,1
+24815,VizWiz_val_00001384.jpg,val,blurry,False,5,0,0,5,,,1.1748767468939927,1
+25423,VizWiz_val_00001992.jpg,val,blurry,False,3,0,2,3,,,39.76099242015397,1
+25620,VizWiz_val_00002189.jpg,val,blurry,False,3,0,2,0,,,59.97155094136378,1
+26232,VizWiz_val_00002801.jpg,val,blurry,False,4,0,0,4,,,28.196660934155037,1
+26824,VizWiz_val_00003393.jpg,val,blurry,False,3,0,1,2,,,165.58203571531124,1
+29375,VizWiz_val_00005944.jpg,val,blurry,False,3,0,1,1,,,35.46564717052712,1
+29934,VizWiz_val_00006503.jpg,val,blurry,False,5,0,0,4,,,3.1069517230821986,1
+30316,VizWiz_val_00006885.jpg,val,blurry,False,3,1,2,3,,,71.65788814609145,1
+30517,VizWiz_val_00007086.jpg,val,blurry,False,3,0,2,0,,,161.15389941632748,1
+30656,VizWiz_val_00007225.jpg,val,blurry,False,5,0,0,4,,,31.27540472977692,1
+30952,VizWiz_val_00007521.jpg,val,blurry,False,4,0,1,0,,,201.4454429553059,1
+806,VizWiz_train_00000806.jpg,train,clear,False,0,0,4,0,,,219.86400624175758,1
+1064,VizWiz_train_00001064.jpg,train,clear,False,0,0,5,0,,,939.1747536754441,1
+1450,VizWiz_train_00001450.jpg,train,clear,False,0,0,3,1,,,239.28368485658493,1
+1940,VizWiz_train_00001940.jpg,train,clear,False,1,0,4,0,,,426.4659771642019,1
+2550,VizWiz_train_00002550.jpg,train,clear,False,1,0,4,0,,,160.29945976098284,1
+3447,VizWiz_train_00003447.jpg,train,clear,False,1,0,3,0,,,101.09076043008687,1
+3620,VizWiz_train_00003620.jpg,train,clear,False,1,0,3,1,,,39.9854424307147,1
+3804,VizWiz_train_00003804.jpg,train,clear,False,0,0,5,0,,,232.64099346843753,1
+4238,VizWiz_train_00004238.jpg,train,clear,False,0,0,4,0,,,1841.5369419255815,1
+4349,VizWiz_train_00004349.jpg,train,clear,False,0,0,4,0,,,136.96892926428055,1
+4728,VizWiz_train_00004728.jpg,train,clear,False,0,0,5,0,,,106.67693411714087,1
+4770,VizWiz_train_00004770.jpg,train,clear,False,0,0,5,0,,,331.32193865875405,1
+4828,VizWiz_train_00004828.jpg,train,clear,False,0,1,3,0,,,2377.797047957752,1
+6252,VizWiz_train_00006252.jpg,train,clear,False,1,0,3,0,,,487.3636927538449,1
+6309,VizWiz_train_00006309.jpg,train,clear,False,0,1,3,1,,,279.7078719456589,1
+7506,VizWiz_train_00007506.jpg,train,clear,False,1,0,3,0,,,423.93674504878805,1
+7894,VizWiz_train_00007894.jpg,train,clear,False,0,0,4,0,,,173.6142061485185,1
+8276,VizWiz_train_00008276.jpg,train,clear,False,0,0,3,0,,,66.70304260558139,1
+8514,VizWiz_train_00008514.jpg,train,clear,False,0,0,5,0,,,459.1686224268866,1
+8814,VizWiz_train_00008814.jpg,train,clear,False,0,0,4,0,,,469.2616623764004,1
+9037,VizWiz_train_00009037.jpg,train,clear,False,0,1,4,0,,,332.4271179671244,1
+9162,VizWiz_train_00009162.jpg,train,clear,False,1,0,3,0,,,170.88550364326997,1
+10445,VizWiz_train_00010445.jpg,train,clear,False,2,0,3,1,,,493.6310079712163,1
+10491,VizWiz_train_00010491.jpg,train,clear,False,0,0,5,0,,,118.49499400291178,1
+10774,VizWiz_train_00010774.jpg,train,clear,False,0,0,5,0,,,128.77082590632037,1
+11015,VizWiz_train_00011015.jpg,train,clear,False,0,0,3,0,,,60.58893868099791,1
+12359,VizWiz_train_00012359.jpg,train,clear,False,0,1,4,0,,,565.0661102529201,1
+13076,VizWiz_train_00013076.jpg,train,clear,False,1,0,4,0,,,62.290627911387496,1
+13833,VizWiz_train_00013833.jpg,train,clear,False,1,0,4,0,,,963.7892027548777,1
+14089,VizWiz_train_00014089.jpg,train,clear,False,0,0,3,0,,,152.4128791505002,1
+14249,VizWiz_train_00014249.jpg,train,clear,False,0,0,3,0,,,47.74386388185021,1
+14644,VizWiz_train_00014644.jpg,train,clear,False,0,0,5,0,,,1752.0039311669923,1
+14783,VizWiz_train_00014783.jpg,train,clear,False,0,2,3,0,,,77.1215361703668,1
+15102,VizWiz_train_00015102.jpg,train,clear,False,0,0,3,0,,,109.34399586681187,1
+15158,VizWiz_train_00015158.jpg,train,clear,False,0,0,5,0,,,596.9363063474237,1
+15543,VizWiz_train_00015543.jpg,train,clear,False,0,0,3,0,,,4324.424346319683,1
+16172,VizWiz_train_00016172.jpg,train,clear,False,0,0,4,0,,,1080.4347432170446,1
+16174,VizWiz_train_00016174.jpg,train,clear,False,2,0,3,4,,,34.93273640630974,1
+16383,VizWiz_train_00016383.jpg,train,clear,False,0,0,3,0,,,557.0871458848318,1
+16651,VizWiz_train_00016651.jpg,train,clear,False,1,0,3,0,,,16.88709191222571,1
+17339,VizWiz_train_00017339.jpg,train,clear,False,0,0,4,0,,,348.56421280277164,1
+17802,VizWiz_train_00017802.jpg,train,clear,False,0,0,5,0,,,1495.3558302222646,1
+18558,VizWiz_train_00018558.jpg,train,clear,False,0,1,4,0,,,104.92561241409332,1
+19572,VizWiz_train_00019572.jpg,train,clear,False,1,1,3,0,,,29.47747268020692,1
+20757,VizWiz_train_00020757.jpg,train,clear,False,0,0,3,0,,,836.3877156276462,1
+21394,VizWiz_train_00021394.jpg,train,clear,False,0,0,4,0,,,99.47665682618714,1
+21576,VizWiz_train_00021576.jpg,train,clear,False,0,0,3,2,,,322.6644734833131,1
+21889,VizWiz_train_00021889.jpg,train,clear,False,0,0,5,0,,,112.5758456840075,1
+21922,VizWiz_train_00021922.jpg,train,clear,False,0,0,3,0,,,582.0512961376613,1
+22687,VizWiz_train_00022687.jpg,train,clear,False,0,0,3,0,,,37.32754625853462,1
+22942,VizWiz_train_00022942.jpg,train,clear,False,0,0,3,1,,,141.76508688926697,1
+23087,VizWiz_train_00023087.jpg,train,clear,False,0,0,4,0,,,256.0357142276802,1
+23129,VizWiz_train_00023129.jpg,train,clear,False,1,0,4,0,,,787.2019524508054,1
+23218,VizWiz_train_00023218.jpg,train,clear,False,0,0,5,0,,,237.94083876649117,1
+23278,VizWiz_train_00023278.jpg,train,clear,False,0,0,4,0,,,2669.1321409145735,1
+24605,VizWiz_val_00001174.jpg,val,clear,False,0,0,3,0,,,112.4325034954625,1
+25112,VizWiz_val_00001681.jpg,val,clear,False,0,0,5,0,,,349.7481175704188,1
+25712,VizWiz_val_00002281.jpg,val,clear,False,0,0,3,0,,,127.52208938674691,1
+26129,VizWiz_val_00002698.jpg,val,clear,False,0,1,4,1,,,83.72149764275572,1
+26888,VizWiz_val_00003457.jpg,val,clear,False,0,0,5,0,,,236.04121935613344,1
+27479,VizWiz_val_00004048.jpg,val,clear,False,0,0,4,0,,,492.4057711080338,1
+28494,VizWiz_val_00005063.jpg,val,clear,False,0,0,5,0,,,70.53798146287185,1
+28559,VizWiz_val_00005128.jpg,val,clear,False,0,0,4,0,,,557.5704853946365,1
+29101,VizWiz_val_00005670.jpg,val,clear,False,2,0,3,0,,,118.70429740339107,1
+29559,VizWiz_val_00006128.jpg,val,clear,False,1,0,4,0,,,151.82960874825304,1
+29972,VizWiz_val_00006541.jpg,val,clear,False,0,0,5,0,,,554.8483917510503,1
+30387,VizWiz_val_00006956.jpg,val,clear,False,0,0,4,0,,,381.064935968956,1
+30756,VizWiz_val_00007325.jpg,val,clear,False,0,0,4,0,,,335.77569196580185,1
+30840,VizWiz_val_00007409.jpg,val,clear,False,1,0,4,0,,,591.3435199931005,1
+31147,VizWiz_val_00007716.jpg,val,clear,False,0,2,3,0,,,1143.9890459258613,1
+792,VizWiz_train_00000792.jpg,train,low_light,False,0,5,0,5,,,65.03986472240649,1
+1171,VizWiz_train_00001171.jpg,train,low_light,False,0,5,0,2,,,20.712215086983825,1
+1630,VizWiz_train_00001630.jpg,train,low_light,False,1,4,0,5,,,3.2058155759910325,1
+1957,VizWiz_train_00001957.jpg,train,low_light,False,2,4,0,2,,,26.557905500521883,1
+2556,VizWiz_train_00002556.jpg,train,low_light,False,0,3,1,3,,,45.14615290154082,1
+2760,VizWiz_train_00002760.jpg,train,low_light,False,1,3,1,1,,,58.047552704707606,1
+3204,VizWiz_train_00003204.jpg,train,low_light,False,1,3,0,5,,,9.81868482588066,1
+3391,VizWiz_train_00003391.jpg,train,low_light,False,1,3,0,3,,,162.12206505650343,1
+5015,VizWiz_train_00005015.jpg,train,low_light,False,0,5,0,4,,,3.4564210443188337,1
+5163,VizWiz_train_00005163.jpg,train,low_light,False,0,3,0,4,,,2.8152204801380223,1
+5546,VizWiz_train_00005546.jpg,train,low_light,False,0,4,1,0,,,429.8748665524138,1
+6303,VizWiz_train_00006303.jpg,train,low_light,False,0,5,0,5,,,4.657321486932536,1
+6617,VizWiz_train_00006617.jpg,train,low_light,False,0,4,0,5,,,6.396788636429442,1
+6727,VizWiz_train_00006727.jpg,train,low_light,False,0,3,2,0,,,148.2496963112046,1
+10707,VizWiz_train_00010707.jpg,train,low_light,False,0,3,2,5,,,2.6006169561038006,1
+11309,VizWiz_train_00011309.jpg,train,low_light,False,0,5,0,5,,,28.78677148228952,1
+12212,VizWiz_train_00012212.jpg,train,low_light,False,1,3,1,2,,,165.44864040300146,1
+12220,VizWiz_train_00012220.jpg,train,low_light,False,2,3,0,0,,,73.09074477621874,1
+12358,VizWiz_train_00012358.jpg,train,low_light,False,0,3,1,3,,,3.8812889748304666,1
+12584,VizWiz_train_00012584.jpg,train,low_light,False,1,4,0,5,,,192.91993254855174,1
+12680,VizWiz_train_00012680.jpg,train,low_light,False,1,4,0,3,,,4.828108696034178,1
+12822,VizWiz_train_00012822.jpg,train,low_light,False,1,4,0,4,,,2.694564819310068,1
+13451,VizWiz_train_00013451.jpg,train,low_light,False,0,4,0,4,,,4.292205508798361,1
+13757,VizWiz_train_00013757.jpg,train,low_light,False,0,4,0,5,,,2.4829550472139905,1
+13981,VizWiz_train_00013981.jpg,train,low_light,False,0,4,1,0,,,137.4149213615391,1
+14353,VizWiz_train_00014353.jpg,train,low_light,False,0,4,1,3,,,17.340382614069515,1
+14449,VizWiz_train_00014449.jpg,train,low_light,False,0,3,1,4,,,7.616398458653646,1
+14697,VizWiz_train_00014697.jpg,train,low_light,False,1,3,0,5,,,3.2993556798125305,1
+18775,VizWiz_train_00018775.jpg,train,low_light,False,2,3,1,0,,,315.4126091961249,1
+18802,VizWiz_train_00018802.jpg,train,low_light,False,2,4,1,4,,,90.7119834397195,1
+19355,VizWiz_train_00019355.jpg,train,low_light,False,0,5,0,4,,,7.616398458653646,1
+20006,VizWiz_train_00020006.jpg,train,low_light,False,2,3,0,5,,,104.71112427698806,1
+21168,VizWiz_train_00021168.jpg,train,low_light,False,0,4,1,5,,,7.092055463930592,1
+21412,VizWiz_train_00021412.jpg,train,low_light,False,2,3,0,5,,,11.153482938806215,1
+22027,VizWiz_train_00022027.jpg,train,low_light,False,0,4,0,5,,,10.238830520771444,1
+22294,VizWiz_train_00022294.jpg,train,low_light,False,0,4,1,0,,,212.35347993252117,1
+22299,VizWiz_train_00022299.jpg,train,low_light,False,1,4,0,5,,,17.492675490573877,1
+22383,VizWiz_train_00022383.jpg,train,low_light,False,0,5,0,5,,,3.045939339987819,1
+22558,VizWiz_train_00022558.jpg,train,low_light,False,0,4,0,4,,,1.8604121869429946,1
+22894,VizWiz_train_00022894.jpg,train,low_light,False,0,4,1,5,,,3.2427875216429434,1
+22905,VizWiz_train_00022905.jpg,train,low_light,False,1,5,0,4,,,36.517167017205715,1
+23367,VizWiz_train_00023367.jpg,train,low_light,False,0,3,1,3,,,209.1111640625684,1
+24850,VizWiz_val_00001419.jpg,val,low_light,False,0,5,0,4,,,9.350392379694515,1
+24897,VizWiz_val_00001466.jpg,val,low_light,False,0,3,1,4,,,0.23862490835777125,1
+24994,VizWiz_val_00001563.jpg,val,low_light,False,1,3,1,1,,,35.981924094854755,1
+25429,VizWiz_val_00001998.jpg,val,low_light,False,0,5,0,4,,,3.447774131678873,1
+25666,VizWiz_val_00002235.jpg,val,low_light,False,1,4,0,5,,,5.306009770991902,1
+26266,VizWiz_val_00002835.jpg,val,low_light,False,1,3,2,5,,,20.19603235854043,1
+26679,VizWiz_val_00003248.jpg,val,low_light,False,0,3,0,5,,,3.9113295984506196,1
+27369,VizWiz_val_00003938.jpg,val,low_light,False,2,4,1,4,,,27.988353548338637,1
+28196,VizWiz_val_00004765.jpg,val,low_light,False,1,4,0,5,,,5.1251724957385,1
+28819,VizWiz_val_00005388.jpg,val,low_light,False,1,3,0,5,,,16.834668711152553,1
+28823,VizWiz_val_00005392.jpg,val,low_light,False,0,5,0,5,,,2.7809597868213634,1
+29018,VizWiz_val_00005587.jpg,val,low_light,False,1,5,0,5,,,2.9322000990311303,1
+29122,VizWiz_val_00005691.jpg,val,low_light,False,1,4,0,3,,,5.791730679545758,1
+29153,VizWiz_val_00005722.jpg,val,low_light,False,0,4,1,3,,,24.061345406885568,1
+30063,VizWiz_val_00006632.jpg,val,low_light,False,0,5,0,5,,,201.93549272291258,1
+30450,VizWiz_val_00007019.jpg,val,low_light,False,0,5,0,5,,,6.273335364026328,1
+30870,VizWiz_val_00007439.jpg,val,low_light,False,0,3,2,0,,,34.6766536557633,1
+30984,VizWiz_val_00007553.jpg,val,low_light,False,0,3,2,0,,,125.12957990947571,1
+136,VizWiz_train_00000136.jpg,train,text,True,2,1,1,0,approved,Great Value Golden sweet whole kernel,372.945887674474,3
+351,VizWiz_train_00000351.jpg,train,text,True,0,0,5,0,approved,"Soy free, Lacyose free Unsweetened.  All natural Blue diamond Almonds. Almond Breese",595.6576530123906,1
+1255,VizWiz_train_00001255.jpg,train,text,True,0,0,5,0,approved,HTC,234.14314923474254,1
+1761,VizWiz_train_00001761.jpg,train,text,True,0,0,4,0,approved,Oceanspray Cranberry juice cocktail original 100% vitamin C,475.50671091549003,4
+2404,VizWiz_train_00002404.jpg,train,text,True,1,0,1,0,approved,Windows 7,860.9802730372176,1
+3134,VizWiz_train_00003134.jpg,train,text,True,1,1,3,0,approved,Cheez-it Baked Snack Cracker,308.15649607736196,3
+4362,VizWiz_train_00004362.jpg,train,text,True,0,0,2,0,approved,Toshiba,97.27951907604421,1
+4495,VizWiz_train_00004495.jpg,train,text,True,0,0,2,0,approved,Cafe Bustel Cafe Espresso ,392.48847868787647,1
+4905,VizWiz_train_00004905.jpg,train,text,True,1,0,3,0,approved,oMoby Test IQ Engines image recognition platform,961.1890275532281,2
+5817,VizWiz_train_00005817.jpg,train,text,True,0,0,2,0,approved,Kirkland signature environmental friendly liquid dish wash ,246.5177160832617,4
+5992,VizWiz_train_00005992.jpg,train,text,True,0,0,3,0,approved,Coca cola,189.94986975027453,2
+6338,VizWiz_train_00006338.jpg,train,text,True,0,0,3,0,approved,Mettalic SecureFit Mettablic bud Compagnon d' orielle a insertion fixe,250.76575469215288,3
+6731,VizWiz_train_00006731.jpg,train,text,True,1,0,4,0,approved,Santos,59.506258038778064,1
+7328,VizWiz_train_00007328.jpg,train,text,True,1,0,4,0,approved,Coca Cola,81.1224911037968,1
+7951,VizWiz_train_00007951.jpg,train,text,True,1,0,2,0,approved,"TESCO
+36 JAFFA
+CAKES
+Tangy orange centre
+with real fruit juice",113.54670094038609,1
+9837,VizWiz_train_00009837.jpg,train,text,True,0,0,2,0,approved,"107 S. Germantown Parkway
+Memphis, TN 38018
+Cash Bar: 5:30 pm
+Dinner: 6:30 pm
+",751.6972752765802,1
+10399,VizWiz_train_00010399.jpg,train,text,True,1,0,4,0,approved,A wild ride Louis Anderson ,151.0987185288428,1
+11649,VizWiz_train_00011649.jpg,train,text,True,0,0,3,0,approved,"Picked sand Packed at the Peak of Ripeness
+SERVING SUGGESTIONS
+Delicious over ice cream or frozen yogurt
+Great as a topping over waffles or pancakes.
+Enjoy as a nutritious snack anytime
+",498.9640943208296,2
+12489,VizWiz_train_00012489.jpg,train,text,True,1,1,1,1,approved,Over $40 burger king food choice burger,195.56225530140932,3
+12712,VizWiz_train_00012712.jpg,train,text,True,0,0,5,0,approved,Refrigerator,272.0916353355475,1
+13616,VizWiz_train_00013616.jpg,train,text,True,0,0,4,0,approved,Calm&care Gentle care 24 h help skin recover after shaving with provitamin B5 and witch hazel 0% alcohol 163g/250ml Anti-perspirant deodorant,374.4946118307352,4
+15451,VizWiz_train_00015451.jpg,train,text,True,0,0,4,1,approved,Savory Beef Rissoles ,618.7597083789223,2
+16451,VizWiz_train_00016451.jpg,train,text,True,1,0,3,0,approved,"ORIGINAL
+FROZEN CONCENTRATED
+ORANGE JUICE
+12 FL OZ (355 mL)
+100% ORANGE JUICE",188.21061221003117,1
+18069,VizWiz_train_00018069.jpg,train,text,True,0,0,5,0,approved,"HOT & SPICY
+clauassen
+from vine to jar in 8 days
+SPEARS
+",175.37664691858336,1
+18111,VizWiz_train_00018111.jpg,train,text,True,0,0,2,0,approved,Chicken Strips breaded outlettes uncooked Lanieres de poulet 1kg,217.43907868489623,1
+18119,VizWiz_train_00018119.jpg,train,text,True,0,1,3,0,approved,"Lock this computer
+Switch User
+Log off
+Change a password
+Start Task Manager
+Cancel
+Windows Vista Home Premium",545.8357405691253,1
+18694,VizWiz_train_00018694.jpg,train,text,True,0,0,4,0,approved,Soft soap cocnut and warm ginger hand soap refill,407.869897807612,4
+18782,VizWiz_train_00018782.jpg,train,text,True,1,0,4,1,approved,Baby wipes unscented Ultra soft cloths 100 wipes ,161.30015129096702,1
+19074,VizWiz_train_00019074.jpg,train,text,True,0,0,3,0,approved,"Porcelain Telephone Set with  Caller ID
+164120",183.98261263469854,2
+19322,VizWiz_train_00019322.jpg,train,text,True,0,1,0,0,approved,Smart ones ood with principles 1 2 3 4 www.eatyourbest.com,654.1693908754324,2
+19707,VizWiz_train_00019707.jpg,train,text,True,0,0,4,0,approved,Women's wellness,367.1113283230354,1
+19748,VizWiz_train_00019748.jpg,train,text,True,1,0,1,0,approved,Cambella Real Stock Chicken,16.218963527741533,3
+19754,VizWiz_train_00019754.jpg,train,text,True,0,1,0,0,approved,So good for so little look inside for money saving coupon on great banquet products Banquets,839.5281325813933,4
+21699,VizWiz_train_00021699.jpg,train,text,True,0,0,2,0,approved,"Everyone in our family loves pizza: for dinner lunch , snacks, parties....",1109.4663272419375,2
+22098,VizWiz_train_00022098.jpg,train,text,True,0,0,1,0,approved,FM/AM TAPE 1 PHONE TAPE 2 SURROUND ON/OFF DISPLAY MOOD ,365.3138943523324,1
+22107,VizWiz_train_00022107.jpg,train,text,True,0,0,5,0,approved,"RAM MOUNTS
+WWW.RAM MOUNT.COM",391.2225648285751,1
+22677,VizWiz_train_00022677.jpg,train,text,True,0,0,5,0,approved,"Dunkin Donuts, we got this",136.8838302190849,1
+23176,VizWiz_train_00023176.jpg,train,text,True,0,0,2,0,approved,"Special Recipe Birds eye Bake to perfection  2 haddock fillets with white wine, whole grain mustard and spring oion sauce",1490.658106690988,4
+23433,VizWiz_val_00000002.jpg,val,text,True,0,0,2,0,approved,"Dog years, due date Aug 06 2007 Nov 16 2007",45.607123398571034,1
+23488,VizWiz_val_00000057.jpg,val,text,True,0,0,5,0,approved,Texas,277.9379880920889,1
+24914,VizWiz_val_00001483.jpg,val,text,True,0,0,5,0,approved,USB power adapter ,46.95380047871731,4
+25546,VizWiz_val_00002115.jpg,val,text,True,2,0,2,2,approved,ckin2u,75.12411863936316,1
+26046,VizWiz_val_00002615.jpg,val,text,True,0,1,3,0,approved,20 SON OF LO from the 70's,137.87726557875672,1
+26862,VizWiz_val_00003431.jpg,val,text,True,2,0,1,2,approved,Toshiba leading innovation,79.34236381440941,1
+27752,VizWiz_val_00004321.jpg,val,text,True,0,0,2,0,approved,"Determine the value of y. D0k(-7, y) - (14, -5) a. 1.25 b. 2.5 c. 5 d. 10",711.0729947337468,2
+27764,VizWiz_val_00004333.jpg,val,text,True,0,0,0,0,approved,"Longitude Dominant plant species, distance from the equator, month of the year, prevailing winds, microorganisim, light, temperature ",345.20144897326674,1
+27772,VizWiz_val_00004341.jpg,val,text,True,0,0,1,0,approved,"FREEDA
+SINCE 1928
+Pure VITAMIN A
+PALMITATE
+15,000 IU
+Vitamin Supplement
+250 TABLETS",197.48115222611364,1
+28602,VizWiz_val_00005171.jpg,val,text,True,1,1,1,0,approved,"79 
+LUXPRO",99.28314607299795,1
+29028,VizWiz_val_00005597.jpg,val,text,True,0,0,3,0,approved,Info Tv Av Comp hdmi Menu/select VOL CH,673.3518511073198,1
+30685,VizWiz_val_00007254.jpg,val,text,True,0,0,0,0,approved,Non-negotiable,1250.545158978287,3

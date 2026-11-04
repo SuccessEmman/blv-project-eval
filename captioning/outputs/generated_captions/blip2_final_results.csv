@@ -1,0 +1,251 @@
+image_id,file_name,split,stratum,model,prompt,caption
+25,VizWiz_train_00000025.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a dog with a frisbee in its mouth
+126,VizWiz_train_00000126.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a person's hand
+149,VizWiz_train_00000149.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a battery in a metal holder
+264,VizWiz_train_00000264.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a teddy bear
+867,VizWiz_train_00000867.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's hand holding a small brown nut
+1183,VizWiz_train_00001183.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,the sun is shining through a window
+1261,VizWiz_train_00001261.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a person with a frisbee
+1297,VizWiz_train_00001297.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a man's wrist with a watch on it
+2522,VizWiz_train_00002522.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a blush on a table
+3221,VizWiz_train_00003221.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a christmas tree with green lights
+3479,VizWiz_train_00003479.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a bed with a blanket on it
+4231,VizWiz_train_00004231.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,the moon is seen through a dark sky
+4535,VizWiz_train_00004535.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is sitting on a train
+5561,VizWiz_train_00005561.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is sitting on a bench
+5853,VizWiz_train_00005853.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a piece of paper
+6280,VizWiz_train_00006280.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a clock
+7010,VizWiz_train_00007010.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a chair in a room with a bed
+7117,VizWiz_train_00007117.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,it is a close up of a pink flower
+7125,VizWiz_train_00007125.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a shirt with green paint splatters on it
+7402,VizWiz_train_00007402.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's hand is pointing at a phone
+7883,VizWiz_train_00007883.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is sitting in a chair
+7899,VizWiz_train_00007899.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a blurry image of a table with a lot of things on it
+7948,VizWiz_train_00007948.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a green blurry background
+8905,VizWiz_train_00008905.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's feet standing next to a piano
+9212,VizWiz_train_00009212.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is riding a skateboard on a yellow background
+9617,VizWiz_train_00009617.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's finger in the dark
+9867,VizWiz_train_00009867.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a drum set with a light shining on it
+10173,VizWiz_train_00010173.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a can of soda with a straw in it
+10460,VizWiz_train_00010460.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a blurry image of a bag with a number on it
+10654,VizWiz_train_00010654.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's hand is touching a piece of cloth
+10684,VizWiz_train_00010684.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a pair of scissors on a table
+10970,VizWiz_train_00010970.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a bottle of perfume is sitting on a sink
+11339,VizWiz_train_00011339.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's feet standing on a rug
+11455,VizWiz_train_00011455.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a black and white image of a tv screen
+11611,VizWiz_train_00011611.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is sitting in a bathroom with a towel on the floor
+11636,VizWiz_train_00011636.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a man sitting on a bench next to a tree
+11707,VizWiz_train_00011707.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a teddy bear
+13408,VizWiz_train_00013408.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a dog laying on the floor
+14652,VizWiz_train_00014652.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a grey suit on a table
+14682,VizWiz_train_00014682.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a can of coca cola
+14742,VizWiz_train_00014742.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a person's jeans
+15281,VizWiz_train_00015281.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a red credit card with a light shining on it
+15873,VizWiz_train_00015873.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a car driving in the rain
+17552,VizWiz_train_00017552.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a blue stripe on a white wall
+17670,VizWiz_train_00017670.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a woman is sitting in a living room
+18434,VizWiz_train_00018434.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a white iphone sitting on top of a keyboard
+18519,VizWiz_train_00018519.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a plant in a pot on top of a refrigerator
+20253,VizWiz_train_00020253.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a blue shirt
+20431,VizWiz_train_00020431.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a black dress with flowers on it
+20435,VizWiz_train_00020435.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a small bug on the floor of a room
+20473,VizWiz_train_00020473.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a can
+20505,VizWiz_train_00020505.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a blurry image of a person in a hallway
+21012,VizWiz_train_00021012.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a little girl is holding a little girl's hand
+21439,VizWiz_train_00021439.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a blue table with a bottle of water and a cell phone
+21777,VizWiz_train_00021777.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a tv screen with a black screen
+21883,VizWiz_train_00021883.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a white sheet of paper
+21896,VizWiz_train_00021896.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a tv in a living room
+22286,VizWiz_train_00022286.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a bottle of perfume
+23050,VizWiz_train_00023050.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a pink background with a white background
+24815,VizWiz_val_00001384.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,an image of a person in a blue shirt and a white shirt
+25423,VizWiz_val_00001992.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a black laptop with a blue screen
+25620,VizWiz_val_00002189.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is holding a red wire
+26232,VizWiz_val_00002801.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,an image of a blue object in the water
+26824,VizWiz_val_00003393.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a person's finger
+29375,VizWiz_val_00005944.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is holding a bottle of water
+29934,VizWiz_val_00006503.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a white teddy bear in a teddy bear hat
+30316,VizWiz_val_00006885.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a person's hair
+30517,VizWiz_val_00007086.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding up a blue pill
+30656,VizWiz_val_00007225.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a blue and white computer screen
+30952,VizWiz_val_00007521.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a laptop with a pink screen is sitting on a table
+806,VizWiz_train_00000806.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a black and white lighter with a spiral design
+1064,VizWiz_train_00001064.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is standing next to a heater
+1450,VizWiz_train_00001450.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,There is a tea kettle on a stove top
+1940,VizWiz_train_00001940.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a shirt and tie with a frisbee on the floor
+2550,VizWiz_train_00002550.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a black purse on a desk
+3447,VizWiz_train_00003447.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a dog is licking a person's leg
+3620,VizWiz_train_00003620.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a yellow pepper shaker on a table
+3804,VizWiz_train_00003804.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a tv on a stand
+4238,VizWiz_train_00004238.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,red wrapping paper with snowflakes on it
+4349,VizWiz_train_00004349.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a hallway with a chair and a table
+4728,VizWiz_train_00004728.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is holding a red dot in their hand
+4770,VizWiz_train_00004770.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a living room with a tv on the wall
+4828,VizWiz_train_00004828.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,close up of a ball of black yarn
+6252,VizWiz_train_00006252.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a green t - shirt with a snowflake on it
+6309,VizWiz_train_00006309.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's wrist with a watch on it
+7506,VizWiz_train_00007506.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a pair of black and white shoes
+7894,VizWiz_train_00007894.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a pair of black shoes on a wooden floor
+8276,VizWiz_train_00008276.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a remote control is sitting on a person's pants
+8514,VizWiz_train_00008514.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a house with a radio tower in the middle of the street
+8814,VizWiz_train_00008814.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a black and yellow dress with flowers on it
+9037,VizWiz_train_00009037.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a bed in a room with curtains
+9162,VizWiz_train_00009162.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a black iphone sitting on a table
+10445,VizWiz_train_00010445.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a salt shaker on a table
+10491,VizWiz_train_00010491.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is sitting on a chair with his feet on the floor
+10774,VizWiz_train_00010774.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a cookie on a napkin
+11015,VizWiz_train_00011015.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a cell phone is sitting on a bed
+12359,VizWiz_train_00012359.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,Two bricks are sitting on top of each other
+13076,VizWiz_train_00013076.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a pen laying on a piece of paper
+13833,VizWiz_train_00013833.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a coffee mug with a lid sitting on a counter
+14089,VizWiz_train_00014089.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a pair of pink and white shoes on top of a stove
+14249,VizWiz_train_00014249.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is holding a cell phone
+14644,VizWiz_train_00014644.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a plant with green leaves and white flowers
+14783,VizWiz_train_00014783.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a building with a clock tower in the background
+15102,VizWiz_train_00015102.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person wearing a black beaded bracelet
+15158,VizWiz_train_00015158.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a caterpillar crawling on a wooden fence
+15543,VizWiz_train_00015543.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,There is a bag with a flower pattern on it
+16172,VizWiz_train_00016172.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a balcony railing with a red umbrella
+16174,VizWiz_train_00016174.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is opening a can of ice cream
+16383,VizWiz_train_00016383.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a computer
+16651,VizWiz_train_00016651.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a bowl of sliced melon sitting on a table
+17339,VizWiz_train_00017339.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a couch with a pillow on it
+17802,VizWiz_train_00017802.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a view of the grand canyon from the edge of a cliff
+18558,VizWiz_train_00018558.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a blue and green tape dispenser on a table
+19572,VizWiz_train_00019572.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a white iphone is sitting on a bed
+20757,VizWiz_train_00020757.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a black purse sitting on top of a counter
+21394,VizWiz_train_00021394.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,the big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang
+21576,VizWiz_train_00021576.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person laying on a bed with a watch
+21889,VizWiz_train_00021889.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person wearing blue sneakers on a green floor
+21922,VizWiz_train_00021922.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a purple bat shaped light up sign on a table
+22687,VizWiz_train_00022687.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a piece of paper with a hole in it
+22942,VizWiz_train_00022942.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,the legs of a person sitting on a couch
+23087,VizWiz_train_00023087.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's feet on a desk
+23129,VizWiz_train_00023129.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a small brass ring with a chain attached to it
+23218,VizWiz_train_00023218.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,bernese mountain dog on the stairs
+23278,VizWiz_train_00023278.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,there is a house in the middle of a forest
+24605,VizWiz_val_00001174.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,there is a ceiling fan in a room
+25112,VizWiz_val_00001681.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a bulldog laying on the floor
+25712,VizWiz_val_00002281.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a dog is sitting on a person's feet
+26129,VizWiz_val_00002698.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a cloudy sky over a residential area
+26888,VizWiz_val_00003457.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a man wearing a red polo shirt
+27479,VizWiz_val_00004048.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a silver laptop is sitting on a bed
+28494,VizWiz_val_00005063.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a black pen on a white surface
+28559,VizWiz_val_00005128.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a candle on a table next to a laptop
+29101,VizWiz_val_00005670.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a gold door knob on a white door
+29559,VizWiz_val_00006128.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a drum set is sitting on a table in a room
+29972,VizWiz_val_00006541.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a library with a lot of books on the shelves
+30387,VizWiz_val_00006956.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person's hand with a cell phone on it
+30756,VizWiz_val_00007325.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a fan sitting on a tiled floor
+30840,VizWiz_val_00007409.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a dog is sitting on a rug in a living room
+31147,VizWiz_val_00007716.jpg,val,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a tv is on in a living room
+792,VizWiz_train_00000792.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a smiley face on a controller
+1171,VizWiz_train_00001171.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a can of corn with a wire attached to it
+1630,VizWiz_train_00001630.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,this is a black and white image of a plane flying in the sky
+1957,VizWiz_train_00001957.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a cd player is sitting on a desk
+2556,VizWiz_train_00002556.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a laptop screen with a light shining on it
+2760,VizWiz_train_00002760.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person laying on a bed with a cell phone
+3204,VizWiz_train_00003204.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is sitting in front of a red wall
+3391,VizWiz_train_00003391.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a cell phone on a black background
+5015,VizWiz_train_00005015.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a plane flying in the dark
+5163,VizWiz_train_00005163.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is riding a skateboard in the dark
+5546,VizWiz_train_00005546.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is watching a game on a tv screen
+6303,VizWiz_train_00006303.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is riding a skateboard in the dark
+6617,VizWiz_train_00006617.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man in a black shirt is riding a skateboard in the dark
+6727,VizWiz_train_00006727.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,three teddy bears sitting on a window sill
+10707,VizWiz_train_00010707.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is flying a kite in the dark
+11309,VizWiz_train_00011309.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,this is a black and white image of a black and white image of a black and white image of a black and white image of a black and white image of a black and white image of a black and white image of a black and white image of a black and white image
+12212,VizWiz_train_00012212.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,the shadow of a tv on a wall
+12220,VizWiz_train_00012220.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a laundry basket with holes in it
+12358,VizWiz_train_00012358.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a plane flying in the dark
+12584,VizWiz_train_00012584.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a black screen with a light shining on it
+12680,VizWiz_train_00012680.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is sitting on a couch in a dark room
+12822,VizWiz_train_00012822.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is flying a plane in the dark
+13451,VizWiz_train_00013451.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is holding a cell phone in the dark
+13757,VizWiz_train_00013757.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a plane flying over a dark sky
+13981,VizWiz_train_00013981.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a bed with a tv on top of it
+14353,VizWiz_train_00014353.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a bottle of liquid in a dark room
+14449,VizWiz_train_00014449.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a black background with a light shining on it
+14697,VizWiz_train_00014697.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,this is a black and white image
+18775,VizWiz_train_00018775.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a room with a fan and a window
+18802,VizWiz_train_00018802.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,this is a close up of a black plate
+19355,VizWiz_train_00019355.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a black background with a light shining on it
+20006,VizWiz_train_00020006.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a cell phone in their hand
+21168,VizWiz_train_00021168.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,this is a black and white image of a person riding a skateboard in the dark
+21412,VizWiz_train_00021412.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is holding a cell phone in his hand
+22027,VizWiz_train_00022027.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a nintendo wii controller in the dark
+22294,VizWiz_train_00022294.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a dog is laying on the floor in front of a door
+22299,VizWiz_train_00022299.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,there is a light in the sky
+22383,VizWiz_train_00022383.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,there is a person in a dark room
+22558,VizWiz_train_00022558.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,there is a black background
+22894,VizWiz_train_00022894.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is riding a horse in the dark
+22905,VizWiz_train_00022905.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is riding a skateboard in the dark
+23367,VizWiz_train_00023367.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,A man is sitting on a train looking out the window
+24850,VizWiz_val_00001419.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is playing a video game in a dark room
+24897,VizWiz_val_00001466.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a dark screen with a clock on it
+24994,VizWiz_val_00001563.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a small piece of metal sitting on a table
+25429,VizWiz_val_00001998.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,this is a black and white image of a plane flying in the dark
+25666,VizWiz_val_00002235.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is riding a skateboard in the dark
+26266,VizWiz_val_00002835.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,close up of a clock on a wall
+26679,VizWiz_val_00003248.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is flying a kite in the dark
+27369,VizWiz_val_00003938.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a brown teddy bear
+28196,VizWiz_val_00004765.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,there is a light shining in the dark
+28819,VizWiz_val_00005388.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a close up of a candle in a dark room
+28823,VizWiz_val_00005392.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,there is a plane flying in the sky
+29018,VizWiz_val_00005587.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a plane flying over a dark sky
+29122,VizWiz_val_00005691.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a plane flying over a dark sky
+29153,VizWiz_val_00005722.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,there is a plane flying in the sky
+30063,VizWiz_val_00006632.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is sitting in front of a wall in a dark room
+30450,VizWiz_val_00007019.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is riding a skateboard in the dark
+30870,VizWiz_val_00007439.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a yellow stuffed bird sitting on a desk
+30984,VizWiz_val_00007553.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person laying on a bed in front of a window
+136,VizWiz_train_00000136.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a can of noodle crisp sitting on a table
+351,VizWiz_train_00000351.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a carton of almond milk sitting on a counter
+1255,VizWiz_train_00001255.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,an htc phone with a broken screen
+1761,VizWiz_train_00001761.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a bottle of ocean spray cranberry on a table
+2404,VizWiz_train_00002404.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is holding a laptop with windows 7 on it
+3134,VizWiz_train_00003134.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,cheez-it baked snack crackers
+4362,VizWiz_train_00004362.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a toshiba laptop with the word toshiba on it
+4495,VizWiz_train_00004495.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a can of cafe's bustel cafe espresso
+4905,VizWiz_train_00004905.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a laptop computer is displaying the omobo website
+5817,VizWiz_train_00005817.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,kirkland liquid fish soap
+5992,VizWiz_train_00005992.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a can of coca cola sitting on a table
+6338,VizWiz_train_00006338.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is sitting on a person's leg holding a package
+6731,VizWiz_train_00006731.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a green key is sitting on top of a piece of paper
+7328,VizWiz_train_00007328.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a can of coca cola sitting on a table
+7951,VizWiz_train_00007951.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a woman is holding a box of tesco 36 jafa cakes
+9837,VizWiz_train_00009837.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a flyer for a restaurant
+10399,VizWiz_train_00010399.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a book with the title a wild ride
+11649,VizWiz_train_00011649.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a can of orange juice sitting on a counter
+12489,VizWiz_train_00012489.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,king's choice burger coupon - king's choice burger coupon - king's choice burger coupon - king's choice burger coupon - king's choice burger coupon - king's choice burger coupon - king's
+12712,VizWiz_train_00012712.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a refrigerator with a label on it
+13616,VizWiz_train_00013616.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a bottle of calm & care 24h on a bed
+15451,VizWiz_train_00015451.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a package of savoury beef and peas on a wooden floor
+16451,VizWiz_train_00016451.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a bottle of orange juice on a bed
+18069,VizWiz_train_00018069.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a jar of hot and spicy claussen spears
+18111,VizWiz_train_00018111.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a box of chicken strips
+18119,VizWiz_train_00018119.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,windows vista home premium
+18694,VizWiz_train_00018694.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a bottle of hand soap on a carpet
+18782,VizWiz_train_00018782.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,kirkland baby wipes on a table
+19074,VizWiz_train_00019074.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,A man is sitting on the floor with a porcelain telephone set
+19322,VizWiz_train_00019322.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a box of swiss cheese is sitting on a counter
+19707,VizWiz_train_00019707.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a woman's foot on a carpet with a bottle of women's wellness
+19748,VizWiz_train_00019748.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a box of campbell's real stock chicken
+19754,VizWiz_train_00019754.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,this is a picture of a bunny's cereal box
+21699,VizWiz_train_00021699.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is holding a book
+22098,VizWiz_train_00022098.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,close up of a remote control on a wooden table
+22107,VizWiz_train_00022107.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a computer keyboard is sitting on a desk
+22677,VizWiz_train_00022677.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a dunkin donuts cup with a straw sitting on a table
+23176,VizWiz_train_00023176.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a package of chicken in a plastic container
+23433,VizWiz_val_00000002.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,the cover of a book with a dog on it
+23488,VizWiz_val_00000057.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a bed with a texas t-shirt on it
+24914,VizWiz_val_00001483.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,the apple usb power adapter is in the box
+25546,VizWiz_val_00002115.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a box with the word ckinsn on it
+26046,VizWiz_val_00002615.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a cd with the title 20 sons of love from the 70s
+26862,VizWiz_val_00003431.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a toshiba laptop with the word toshiba on it
+27752,VizWiz_val_00004321.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a computer screen with a question on it
+27764,VizWiz_val_00004333.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,an image of a book with a question on it
+27772,VizWiz_val_00004341.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a bottle of vitamin a
+28602,VizWiz_val_00005171.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a digital thermosta on a wall
+29028,VizWiz_val_00005597.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a person is holding a remote control in front of a jersey
+30685,VizWiz_val_00007254.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a barcode scanner is sitting on a table

@@ -1,0 +1,13 @@
+image_id,file_name,split,stratum,model,prompt,caption
+3479,VizWiz_train_00003479.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a bed with a blanket on it
+30517,VizWiz_val_00007086.jpg,val,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding up a blue pill
+18519,VizWiz_train_00018519.jpg,train,blurry,Salesforce/blip2-flan-t5-xl,Describe this image.,a plant in a pot on top of a refrigerator
+17802,VizWiz_train_00017802.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a view of the grand canyon from the edge of a cliff
+4349,VizWiz_train_00004349.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a hallway with a chair and a table
+7506,VizWiz_train_00007506.jpg,train,clear,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a pair of black and white shoes
+24897,VizWiz_val_00001466.jpg,val,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a dark screen with a clock on it
+2760,VizWiz_train_00002760.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a person laying on a bed with a cell phone
+12822,VizWiz_train_00012822.jpg,train,low_light,Salesforce/blip2-flan-t5-xl,Describe this image.,a man is flying a plane in the dark
+25546,VizWiz_val_00002115.jpg,val,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a box with the word ckinsn on it
+18111,VizWiz_train_00018111.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a person holding a box of chicken strips
+4495,VizWiz_train_00004495.jpg,train,text,Salesforce/blip2-flan-t5-xl,Describe this image.,a can of cafe's bustel cafe espresso
