@@ -1,0 +1,10 @@
+image_id,existing_group,displayed_blur_score,observation,existing_label_seems_reasonable,reviewers,selection_method
+3221,blurry,567.62,The image looks blurry; a Christmas tree.,yes,Ebere and Samuel,Selected score extremes; not random
+11636,blurry,566.98,The image looks blurry; a plant/tree.,yes,Ebere and Samuel,Selected score extremes; not random
+7125,blurry,388.18,The image looks blurry; a shirt.,yes,Ebere and Samuel,Selected score extremes; not random
+24897,low_light,0.24,The image has low light; it is dark.,yes,Ebere and Samuel,Selected score extremes; not random
+22558,low_light,1.86,The image has low light; it is dark.,yes,Ebere and Samuel,Selected score extremes; not random
+13757,low_light,2.48,The image has low light; it is dark.,yes,Ebere and Samuel,Selected score extremes; not random
+16651,clear,16.89,The image looks sharp; fruit slices of cantaloupe.,yes,Ebere and Samuel,Selected score extremes; not random
+19572,clear,29.48,The image looks sharp; an iPhone.,yes,Ebere and Samuel,Selected score extremes; not random
+16174,clear,34.93,The image does not look sharp; it is zoomed in and blurry.,no,Ebere and Samuel,Selected score extremes; not random
