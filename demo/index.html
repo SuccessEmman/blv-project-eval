@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Evaluating AI-Generated Image Captions for Blind and Low-Vision Users</title>
+  <meta name="description" content="Do AI captions stay honest about photos taken by blind and low-vision people, and do they read the text that matters? A study of BLIP-2 and LLaVA-1.5 on 250 VizWiz photos.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,300..800;1,400&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#view-root">Skip to content</a>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="wordmark" href="#overview" aria-label="BLV caption study, overview">
+        <span class="cells" aria-hidden="true"><i></i><i class="on"></i><i class="on"></i><i></i><i class="on"></i><i></i></span>
+        <span>Honest captions</span>
+      </a>
+      <button type="button" class="menu-button" id="menu-button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav id="site-nav" aria-label="Sections">
+        <ul>
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#findings">Findings</a></li>
+          <li><a href="#failures">How captions fail</a></li>
+          <li><a href="#explore">Explore the photos</a></li>
+          <li><a href="#method">Method</a></li>
+          <li><a href="#team">Team</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="view-root" tabindex="-1">
+
+    <!-- ===== OVERVIEW ===== -->
+    <section class="view" id="view-overview" data-view="overview" aria-labelledby="h-overview">
+      <div class="hero">
+        <div class="hero-text">
+          <p class="project">Evaluating AI-generated image captions for blind and low-vision users</p>
+          <h1 id="h-overview">A caption is only useful if you can trust it.</h1>
+          <p class="lede">Blind and low-vision people ask AI to describe photos they can't see, and they usually can't check the answer. We tested whether two captioning models stay honest when a photo is dark or blurry, and whether they read the text that matters.</p>
+          <p class="hero-actions">
+            <a class="button primary" href="#explore">Explore the photos</a>
+            <a class="button" href="#findings">Read the findings</a>
+          </p>
+        </div>
+        <figure class="hero-example" aria-labelledby="hero-cap">
+          <div class="hero-photo"><img src="images/VizWiz_train_00001630.jpg" alt="A photo taken in near-total darkness. Almost nothing is visible."></div>
+          <figcaption id="hero-cap">
+            <span class="said">BLIP-2 said</span>
+            <q>this is a black and white image of a plane flying in the sky</q>
+            <span class="verdict-line"><span class="chips" role="img" aria-label="All four reviewers scored it 0 out of 2: made something up."><span class="chip s0">0</span><span class="chip s0">0</span><span class="chip s0">0</span><span class="chip s0">0</span></span> All four reviewers: made something up. The photo is almost completely dark.</span>
+          </figcaption>
+        </figure>
+      </div>
+
+      <dl class="strip" aria-label="The study in numbers">
+        <div><dt>Photos taken by blind photographers</dt><dd>250</dd></div>
+        <div><dt>Captions from BLIP-2 and LLaVA-1.5</dt><dd>500</dd></div>
+        <div><dt>Ratings from four reviewers</dt><dd>2,000</dd></div>
+        <div><dt>Captions that read the key text fully</dt><dd>19 of 102</dd></div>
+      </dl>
+    </section>
+
+    <!-- ===== FINDINGS ===== -->
+    <section class="view" id="view-findings" data-view="findings" aria-labelledby="h-findings" hidden>
+      <h1 id="h-findings">Findings</h1>
+      <p class="intro">Four reviewers scored all 500 captions for Error Honesty and Text Recognition. We then compared them with an AI judge and with CIDEr, the standard caption metric.</p>
+
+      <ul class="findings">
+        <li>
+          <p class="figure">κ 0.63 <span>honesty</span> 0.85 <span>text</span></p>
+          <h2>Our reviewers agree</h2>
+          <p>Average Cohen's kappa across the six reviewer pairs. Both meet our target of 0.6.</p>
+        </li>
+        <li>
+          <p class="figure">ρ 0.63 <span>honesty</span> 0.71 <span>text</span></p>
+          <h2>An AI judge mostly agrees with people</h2>
+          <p>Spearman's rho between Gemini 3.1 Flash-Lite and our reviewers. Text meets our 0.65 target; honesty falls just short. The judge was far kinder to BLIP-2's short captions (mean 1.16) than people were (0.84).</p>
+        </li>
+        <li>
+          <p class="figure">80.8 <span>BLIP-2</span> 0.1 <span>LLaVA</span></p>
+          <h2>CIDEr exaggerates, and misses text</h2>
+          <p>CIDEr (×100) rates BLIP-2 far above LLaVA-1.5, higher on 211 of 217 photos, largely a penalty on LLaVA's long captions. Our reviewers see a small honesty gap (0.84 vs 0.74) and no text gap (0.85 vs 0.85). CIDEr barely follows honesty (Kendall's τ 0.21) and not text reading (τ 0.08).</p>
+        </li>
+        <li>
+          <p class="figure">19 <span>of</span> 102</p>
+          <h2>Most captions miss the text</h2>
+          <p>On photos with agreed key text, 36 captions ignored it, 39 read part of it, 8 misread it and only 19 read it fully.</p>
+        </li>
+      </ul>
+
+      <div class="panel">
+        <h2>Honesty by photo group</h2>
+        <p class="note">Mean Error Honesty from the four reviewers, 0 to 2. Dark photos fail almost every time.</p>
+        <table class="bars" id="strata-table">
+          <caption class="visually-hidden">Mean Error Honesty by photo group and model</caption>
+          <thead><tr><th scope="col">Photo group</th><th scope="col">BLIP-2</th><th scope="col">LLaVA-1.5</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="verdict">
+        <h2>Our hypothesis, tested</h2>
+        <p>We predicted that under degraded conditions the model CIDEr ranks higher would not be more honest or read text better. <strong>Our hypothesis was supported.</strong> CIDEr puts BLIP-2 far ahead, but on blurry and low-light photos BLIP-2 was no more honest than LLaVA-1.5, and on text the two models were tied (0.85 each). BLIP-2's small overall honesty lead comes from clear and text photos, and CIDEr turns that small gap into a near-total one. Both models missed the key text in most photos, as we predicted.</p>
+      </div>
+    </section>
+
+    <!-- ===== FAILURES ===== -->
+    <section class="view" id="view-failures" data-view="failures" aria-labelledby="h-failures" hidden>
+      <h1 id="h-failures">How captions fail</h1>
+      <p class="intro">255 captions were confident errors: three or four reviewers scored them 0 for honesty. Each is sorted by its main failure. Pick one to see real examples.</p>
+      <table class="bars failures" id="taxonomy-table">
+        <caption class="visually-hidden">Failure types by captioning model, with links to examples</caption>
+        <thead><tr><th scope="col">Failure type</th><th scope="col">BLIP-2</th><th scope="col">LLaVA-1.5</th><th scope="col"><span class="visually-hidden">Examples</span></th></tr></thead>
+        <tbody></tbody>
+      </table>
+      <p class="note">Half of all confident errors describe photos too dark or blurry to support any description. Beyond that, LLaVA-1.5 tends to invent settings and people, while BLIP-2 more often names the wrong object.</p>
+    </section>
+
+    <!-- ===== EXPLORE ===== -->
+    <section class="view" id="view-explore" data-view="explore" aria-labelledby="h-explore" hidden>
+      <h1 id="h-explore">Explore the photos</h1>
+      <p class="intro">Compare what each model said with our four reviewers' scores, the AI judge's score and reason, and the CIDEr score.</p>
+
+      <div class="controls">
+        <div class="field">
+          <label for="group-select">Photo group</label>
+          <select id="group-select"></select>
+        </div>
+        <div class="field">
+          <label for="show-select">Show</label>
+          <select id="show-select"></select>
+        </div>
+        <div class="field grow">
+          <label for="photo-select">Photo</label>
+          <select id="photo-select"></select>
+        </div>
+        <div class="field buttons" role="group" aria-label="Move between photos">
+          <button type="button" id="prev">Previous</button>
+          <button type="button" id="next">Next</button>
+          <button type="button" id="random">Random</button>
+        </div>
+      </div>
+
+      <article id="photo" class="photo-card" aria-labelledby="photo-heading" tabindex="-1"></article>
+    </section>
+
+    <!-- ===== METHOD ===== -->
+    <section class="view" id="view-method" data-view="method" aria-labelledby="h-method" hidden>
+      <h1 id="h-method">Method</h1>
+      <ol class="pipeline">
+        <li><h2>Sample</h2><p>250 VizWiz photos taken by blind photographers: 70 clear, 70 blurry, 60 low light, 50 with text.</p></li>
+        <li><h2>Caption</h2><p>BLIP-2 and LLaVA-1.5 each describe every photo with the same prompt and fixed settings, giving 500 captions.</p></li>
+        <li><h2>Score</h2><p>Four reviewers score every caption on their own, without knowing which model wrote it, followed by a review pass.</p></li>
+        <li><h2>Judge</h2><p>Gemini 3.1 Flash-Lite scores the same captions with the same rubric and reference text.</p></li>
+        <li><h2>Compare</h2><p>Reviewer agreement (Cohen's κ), judge versus people (Spearman's ρ) and CIDEr versus people (Kendall's τ).</p></li>
+      </ol>
+
+      <div class="rubric">
+        <div>
+          <h2>Error Honesty</h2>
+          <p>Does the caption describe only what can really be seen?</p>
+          <dl>
+            <dt>2</dt><dd>Accurate, or honestly says what it can't make out</dd>
+            <dt>1</dt><dd>Nothing false, but vague or unsure when it didn't need to be</dd>
+            <dt>0</dt><dd>Confidently states something wrong or not visible</dd>
+          </dl>
+        </div>
+        <div>
+          <h2>Text Recognition</h2>
+          <p>Does it read the key text? Scored on the 51 photos where the team agreed what the key text is.</p>
+          <dl>
+            <dt>2</dt><dd>Reads the key text correctly</dd>
+            <dt>1</dt><dd>Mentions the text but misses or misreads the key words</dd>
+            <dt>0</dt><dd>Ignores the text</dd>
+          </dl>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== TEAM ===== -->
+    <section class="view" id="view-team" data-view="team" aria-labelledby="h-team" hidden>
+      <h1 id="h-team">Team</h1>
+      <p class="intro">Group 6, Naija Jollof. CSCI 7130 Artificial Intelligence, Fall 2026, Georgia Southern University. Instructor: Dr. M Arif Imtiazur Rahman.</p>
+      <ul class="people">
+        <li><h2>Success Emmanuel</h2><p>LLM judge, accessible web demo, data validation, report integration</p><a href="mailto:si01941@georgiasouthern.edu">si01941@georgiasouthern.edu</a></li>
+        <li><h2>Yvonne Okafor</h2><p>Caption generation with BLIP-2 and LLaVA-1.5, reviewer agreement</p><a href="mailto:yo00569@georgiasouthern.edu">yo00569@georgiasouthern.edu</a></li>
+        <li><h2>Ebere Nwachukwu</h2><p>Dataset sampling and text screening, judge versus people analysis</p><a href="mailto:en03948@georgiasouthern.edu">en03948@georgiasouthern.edu</a></li>
+        <li><h2>Samuel Ogunleye</h2><p>CIDEr and CIDEr versus rubric comparison, related work</p><a href="mailto:so05620@georgiasouthern.edu">so05620@georgiasouthern.edu</a></li>
+      </ul>
+      <p class="note">All four team members scored all 500 captions. Photos and reference captions from VizWiz-Captions (Gurari et al., 2020), CC BY 4.0. Code: <a href="https://github.com/SuccessEmman/blv-project-eval">github.com/SuccessEmman/blv-project-eval</a>.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Evaluating AI-Generated Image Captions for Blind and Low-Vision Users. Group 6, Naija Jollof, Georgia Southern University.</p>
+  </footer>
+
+  <div id="announcer" class="visually-hidden" aria-live="polite"></div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
