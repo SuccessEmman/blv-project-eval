@@ -1,7 +1,10 @@
-/* style.css - Honest captions (BLV caption study, Group 6 Naija Jollof)
-   Type: Atkinson Hyperlegible Next, designed by the Braille Institute for low-vision readers.
-   Colour: cool paper and deep navy; the two model colours are data colours only.
-   Nothing is shown by colour alone; focus is always visible; text scales with zoom. */
+/* style.css
+   Font: Atkinson Hyperlegible Next, made by the Braille Institute for low-vision readers.
+   Colours: light grey-blue background and dark navy text. Blue (BLIP-2) and orange (LLaVA)
+   are only used to tell the two models apart, never to show a score on their own.
+   Sizes use rem so all the text grows when someone zooms the browser. */
+
+/* all colours and the font live in these variables, so dark mode only has to swap them */
 
 :root {
   --bg: #f2f4f7;
@@ -19,6 +22,7 @@
   --font: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
   --wrap: 72rem;
 }
+/* dark mode: used automatically when the person's computer is set to dark */
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0f1522;
@@ -38,11 +42,15 @@
 
 * { box-sizing: border-box; }
 html { font-size: 112.5%; scroll-behavior: smooth; }
+/* turn off smooth scrolling and animations for people who set "reduce motion" */
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; animation: none !important; } }
 body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); line-height: 1.55; }
 a { color: inherit; text-underline-offset: 3px; }
+/* thick outline on whatever has keyboard focus, so you can always see where you are */
 :focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; border-radius: 4px; }
+/* hides text on screen but screen readers still read it (extra labels for scores) */
 .visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+/* the skip link sits off screen and slides in when it gets keyboard focus */
 .skip-link { position: absolute; left: 1rem; top: -4rem; background: var(--ink); color: var(--bg); padding: .6rem 1rem; border-radius: 6px; z-index: 50; }
 .skip-link:focus { top: 1rem; }
 h1, h2, h3 { line-height: 1.15; margin: 0; }
