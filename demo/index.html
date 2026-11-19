@@ -11,8 +11,10 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- hidden until you press Tab: lets keyboard users jump past the menu straight to the content -->
   <a class="skip-link" href="#view-root">Skip to content</a>
 
+  <!-- top bar with the menu. On small screens the links fold into the Menu button -->
   <header class="topbar">
     <div class="topbar-inner">
       <a class="wordmark" href="#overview" aria-label="BLV caption study, overview">
@@ -33,9 +35,10 @@
     </div>
   </header>
 
+  <!-- every section below is a "view". app.js shows one at a time based on the # in the address -->
   <main id="view-root" tabindex="-1">
 
-    <!-- ===== OVERVIEW ===== -->
+    <!-- OVERVIEW: the home section. Short summary of the study and the dark photo example -->
     <section class="view" id="view-overview" data-view="overview" aria-labelledby="h-overview">
       <div class="hero">
         <div class="hero-text">
@@ -65,7 +68,7 @@
       </dl>
     </section>
 
-    <!-- ===== FINDINGS ===== -->
+    <!-- FINDINGS: the main numbers for each research question, and honesty by photo group -->
     <section class="view" id="view-findings" data-view="findings" aria-labelledby="h-findings" hidden>
       <h1 id="h-findings">Findings</h1>
       <p class="intro">Four reviewers scored all 500 captions for Error Honesty and Text Recognition. We then compared them with an AI judge and with CIDEr, the standard caption metric.</p>
@@ -109,7 +112,7 @@
       </div>
     </section>
 
-    <!-- ===== FAILURES ===== -->
+    <!-- HOW CAPTIONS FAIL: the failure taxonomy table (rows are filled in by app.js) -->
     <section class="view" id="view-failures" data-view="failures" aria-labelledby="h-failures" hidden>
       <h1 id="h-failures">How captions fail</h1>
       <p class="intro">255 captions were confident errors: three or four reviewers scored them 0 for honesty. Each is sorted by its main failure. Pick one to see real examples.</p>
@@ -121,7 +124,7 @@
       <p class="note">Half of all confident errors describe photos too dark or blurry to support any description. Beyond that, LLaVA-1.5 tends to invent settings and people, while BLIP-2 more often names the wrong object.</p>
     </section>
 
-    <!-- ===== EXPLORE ===== -->
+    <!-- EXPLORE: filters + one photo at a time. The photo card itself is drawn by app.js -->
     <section class="view" id="view-explore" data-view="explore" aria-labelledby="h-explore" hidden>
       <h1 id="h-explore">Explore the photos</h1>
       <p class="intro">Compare what each model said with our four reviewers' scores, the AI judge's score and reason, and the CIDEr score.</p>
@@ -149,7 +152,7 @@
       <article id="photo" class="photo-card" aria-labelledby="photo-heading" tabindex="-1"></article>
     </section>
 
-    <!-- ===== METHOD ===== -->
+    <!-- METHOD: how we sampled, captioned, scored and compared -->
     <section class="view" id="view-method" data-view="method" aria-labelledby="h-method" hidden>
       <h1 id="h-method">Method</h1>
       <ol class="pipeline">
@@ -182,7 +185,7 @@
       </div>
     </section>
 
-    <!-- ===== TEAM ===== -->
+    <!-- TEAM: who did what -->
     <section class="view" id="view-team" data-view="team" aria-labelledby="h-team" hidden>
       <h1 id="h-team">Team</h1>
       <p class="intro">Group 6, Naija Jollof. CSCI 7130 Artificial Intelligence, Fall 2026, Georgia Southern University. Instructor: Dr. M Arif Imtiazur Rahman.</p>
@@ -200,7 +203,10 @@
     <p>Evaluating AI-Generated Image Captions for Blind and Low-Vision Users. Group 6, Naija Jollof, Georgia Southern University.</p>
   </footer>
 
+  <!-- invisible area screen readers watch (aria-live). app.js writes short updates here,
+       like "12 photos match" -->
   <div id="announcer" class="visually-hidden" aria-live="polite"></div>
+  <!-- data.js first (all our results), then app.js (which uses them) -->
   <script src="data.js"></script>
   <script src="app.js"></script>
 </body>
