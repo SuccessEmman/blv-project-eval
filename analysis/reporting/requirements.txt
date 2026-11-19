@@ -1,0 +1,4 @@
+# Statistical versions match the final human-score analysis.
+-r ../blv_current_evaluation/requirements.txt
+matplotlib==3.10.6
+Jinja2==3.1.6

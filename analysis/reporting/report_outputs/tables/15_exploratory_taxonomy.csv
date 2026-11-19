@@ -1,0 +1,9 @@
+Recorded rule label,Captions,Percent of all 500 captions
+Confident description of an unreadable photo,128,25.6
+Invented person or body part,36,7.199999999999999
+Invented setting or furniture,35,7.000000000000001
+Wrong or invented main object,29,5.800000000000001
+Vague or over-hedged (3+ of 4 gave 1),25,5.0
+"Wrong colour, count or position",15,3.0
+"Wrong text, brand or label",10,2.0
+Degenerate output,2,0.4

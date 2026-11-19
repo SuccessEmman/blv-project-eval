@@ -1,0 +1,14 @@
+Measure,Count,Unit
+Final images,250,Images
+Generated captions,500,Captions
+Human EH ratings,2000,Ratings
+All numerical human TR ratings,415,Ratings
+Common TR subset,102,Captions
+Common TR images,51,Images
+TR ratings in common subset,408,Ratings
+Human applicability disagreements,7,Captions
+All humans marked TR N/A,391,Captions
+CIDEr available,434,Captions
+CIDEr images,217,Images
+Images without valid CIDEr references,33,Images
+CIDEr and common TR overlap,100,Captions

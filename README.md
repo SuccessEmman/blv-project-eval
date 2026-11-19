@@ -32,6 +32,7 @@ The primary judge–human Spearman correlations are EH **0.633686** and TR
 | Original caption generations and settings | [`captioning/outputs/generated_captions/`](captioning/outputs/generated_captions/) |
 | Gemini 3.1 Flash-Lite experiment runner | [`analysis/blv_judge_run/`](analysis/blv_judge_run/README.md) |
 | Human agreement, Spearman, Kendall and model summaries | [`analysis/blv_current_evaluation/`](analysis/blv_current_evaluation/README.md) |
+| Report tables, figures and executable plotting notebook | [`analysis/reporting/`](analysis/reporting/README.md) |
 | Optional exploratory failure taxonomy | [`analysis/failure_taxonomy_exploratory/`](analysis/failure_taxonomy_exploratory/README.txt) |
 | Earlier stages and shared data locations | [`docs/DRIVE_DELIVERABLES_RUN_GUIDE.md`](docs/DRIVE_DELIVERABLES_RUN_GUIDE.md) |
 
@@ -43,6 +44,24 @@ review steps; consult the run guide before replaying it.
 
 The report, poster and presentation remain in the team's
 [Drive deliverables](https://drive.google.com/drive/folders/19oK13yRaaIY4WaRHa359wiKn8d1-uusU).
+
+## Generate report tables and figures
+
+The [reporting notebook](analysis/reporting/BLV%20Report%20Tables%20and%20Figures.ipynb)
+and [reporting guide](analysis/reporting/README.md) reproduce 15 tables and 12 figures
+from the packaged human scores and saved statistics. The
+[figures](analysis/reporting/report_outputs/figures/) and
+[tables](analysis/reporting/report_outputs/tables/) are also committed for immediate use.
+
+From the repository root, with the project Python environment active:
+
+```bash
+python -m pip install -r analysis/reporting/requirements.txt
+python analysis/reporting/make_report.py
+```
+
+The script verifies 61 statistical estimates before exporting CSV/LaTeX tables
+and PNG/PDF/SVG figures. No API calls, GPU, or model reruns are required.
 
 ## Folders
 

@@ -1,0 +1,3 @@
+Statistic,Model,Metric,Exclusion,Caption pairs,Images,Estimate,CI lower,CI upper
+Spearman rho,Pooled,EH,none,500,250,0.6336863588991463,0.5716242376196159,0.6876504730490527
+Spearman rho,Pooled,EH,C0104,499,250,0.6375646327193774,0.5784316199835321,0.6914827386538228
