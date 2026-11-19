@@ -1,0 +1,121 @@
+{
+  "package": "blv_current_evaluation",
+  "scope": "Main human-score analysis only",
+  "files": [
+    {
+      "path": "BLV Human Evaluation.ipynb",
+      "bytes": 2747,
+      "sha256": "b5f0d588a5b5fec786e13bdbff35eeffbac98a5bfcf418137772a99eaf6d2dc7"
+    },
+    {
+      "path": "BLV_Combined_Human_Ratings.xlsx",
+      "bytes": 227528,
+      "sha256": "018e4e05e44499cbf0930e026b8a4bfc65fa25e03076acce979e98f09587c0e0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6443,
+      "sha256": "71985329e65154370b7c198f2e19330b4ce0bfb663ece86e65c7e020a7215fda"
+    },
+    {
+      "path": "agreement_methods.py",
+      "bytes": 1695,
+      "sha256": "719eea9a2e505b8ad57743c7bae718e2ee560cb9c627636c79e23e3a45cfac3e"
+    },
+    {
+      "path": "inputs/cider_scores.csv",
+      "bytes": 25139,
+      "sha256": "1485fc68afb84dd4680a6d112ffde4bb0b1fd3e56aac073a783eb54cd6295a84"
+    },
+    {
+      "path": "inputs/experiment_config.json",
+      "bytes": 29792,
+      "sha256": "bf299cba600fd0fdf09cc2d51a54965a44db575a8a134cd286f32f9e55b124b7"
+    },
+    {
+      "path": "inputs/judge_inputs.json",
+      "bytes": 166352,
+      "sha256": "a3b7fadf2a6f71446c65f82421fc8052858e642b090adba7b9a4db2c764b2a3e"
+    },
+    {
+      "path": "inputs/judge_results.jsonl",
+      "bytes": 566632,
+      "sha256": "66d0e998e887a237b583c92467039a6baee7a4a5d703ccfb732c9ad63c66c058"
+    },
+    {
+      "path": "inputs/model_lookup.json",
+      "bytes": 20252,
+      "sha256": "ce4d2381437f74381e9162cb2788418cd525230ba4ebe3dca9b2811f07a399fa"
+    },
+    {
+      "path": "prepare_deliverables.py",
+      "bytes": 6344,
+      "sha256": "d0930c7f566579c5c8655cda401708868ee5e862c5c93afb869841716d23fcf6"
+    },
+    {
+      "path": "refresh_analysis.py",
+      "bytes": 13261,
+      "sha256": "ab64386931ac2d2e1a67c52609d397859213656ec71a3d161018bd455adedf9d"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 95,
+      "sha256": "72647914e181d2b8d434c981f1a77d386f85bf397ef52341da27b97db7d467f3"
+    },
+    {
+      "path": "results/analysis_report.json",
+      "bytes": 6559,
+      "sha256": "7df07dc6373aab8722c99d36bafb08254cb1faa1ff805500e5e25dcd501db4b9"
+    },
+    {
+      "path": "results/caption_level_main.csv",
+      "bytes": 129889,
+      "sha256": "2a808a99b895af83f79b17b70a1ba375a3aaa103331ef9d9c528802a4482749f"
+    },
+    {
+      "path": "results/cider_matched_main.csv",
+      "bytes": 124274,
+      "sha256": "9defa4abf974f486095d720a55d0f332a023ca2e03eb15a246ac3c0bcff649fa"
+    },
+    {
+      "path": "results/human_agreement_results.json",
+      "bytes": 19582,
+      "sha256": "327110aa29a3a53c1a77442ff954f3ee7850fd76ca335554c8c9a018b30b1119"
+    },
+    {
+      "path": "results/human_model_summary.csv",
+      "bytes": 1286,
+      "sha256": "b78c30f3903d0e0c303055c7829a8e307c35fddeb93d17e35e4d257f57dfe302"
+    },
+    {
+      "path": "results/human_reviews_main.json",
+      "bytes": 1263166,
+      "sha256": "6208f468a7770baeb01faa7e1b6e2beebe18bb734f4b772f250fb3ba0b93c05f"
+    },
+    {
+      "path": "results/kendall_tau_results.csv",
+      "bytes": 685,
+      "sha256": "bb3ecfd1b22df4b44ef51f423812dd02ac5f3cb7acdafe72bb6daf68355dc3c6"
+    },
+    {
+      "path": "results/pairwise_kappa.csv",
+      "bytes": 2125,
+      "sha256": "3675a0696b251308219b2271f38aa1ede1773fb0a4a9a00f226293f010350158"
+    },
+    {
+      "path": "results/spearman_results.csv",
+      "bytes": 890,
+      "sha256": "387d02f08a7cca3c2d8863c6e8f4f6a2dec3ea21dfc2e9ab258407142877c8d1"
+    },
+    {
+      "path": "results/summary.csv",
+      "bytes": 898,
+      "sha256": "0b24fa0faeaaaf2c12e840be13f656ad390619aa5e23dfb2449b58c8b6d75bcd"
+    },
+    {
+      "path": "results/validation.json",
+      "bytes": 671,
+      "sha256": "8adfa17b50f89d2d3ee01c1e4d366162029f16d19a704c1ede2a2e81f866d1e4"
+    }
+  ]
+}

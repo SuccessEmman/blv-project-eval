@@ -1,0 +1,196 @@
+{
+  "source_workbook": "https://docs.google.com/spreadsheets/d/1C49HiFCjuVMTiACyT-5jtqgAtTHDLiv8/edit",
+  "source_sha256": "018e4e05e44499cbf0930e026b8a4bfc65fa25e03076acce979e98f09587c0e0",
+  "input_sha256": {
+    "inputs/cider_scores.csv": "1485fc68afb84dd4680a6d112ffde4bb0b1fd3e56aac073a783eb54cd6295a84",
+    "inputs/experiment_config.json": "bf299cba600fd0fdf09cc2d51a54965a44db575a8a134cd286f32f9e55b124b7",
+    "inputs/judge_inputs.json": "a3b7fadf2a6f71446c65f82421fc8052858e642b090adba7b9a4db2c764b2a3e",
+    "inputs/judge_results.jsonl": "66d0e998e887a237b583c92467039a6baee7a4a5d703ccfb732c9ad63c66c058",
+    "inputs/model_lookup.json": "ce4d2381437f74381e9162cb2788418cd525230ba4ebe3dca9b2811f07a399fa",
+    "BLV_Combined_Human_Ratings.xlsx": "018e4e05e44499cbf0930e026b8a4bfc65fa25e03076acce979e98f09587c0e0"
+  },
+  "bootstrap_iterations": 1000,
+  "seeds": {
+    "spearman": 20261116,
+    "kendall_and_kappa": 20261117
+  },
+  "python_version": "3.13.9",
+  "scipy_version": "1.16.3",
+  "pandas_version": "2.3.3",
+  "coverage": {
+    "Main analysis": {
+      "scored_captions": 500,
+      "human_reviews": 2000,
+      "human_all4_TR_applicable": 102,
+      "human_TR_applicability_disagreements": 7,
+      "TR_correlation_pairs": 102,
+      "human_all4_TR_yes_but_judge_NA": 0,
+      "human_all4_TR_no_but_judge_yes": 63,
+      "generation_flagged_caption_ids": [
+        "C0104"
+      ]
+    }
+  },
+  "spearman": [
+    {
+      "version": "Main analysis",
+      "caption_model": "pooled",
+      "metric": "eh",
+      "exclusion": "none",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "estimate": 0.6336863588991463,
+      "ci_95_lower": 0.5716242376196159,
+      "ci_95_upper": 0.6876504730490527,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "pooled",
+      "metric": "tr",
+      "exclusion": "none",
+      "caption_pairs": 102,
+      "unique_images": 51,
+      "estimate": 0.7143657906254777,
+      "ci_95_lower": 0.5921742612070884,
+      "ci_95_upper": 0.8047152095079589,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "Salesforce/blip2-flan-t5-xl",
+      "metric": "eh",
+      "exclusion": "none",
+      "caption_pairs": 250,
+      "unique_images": 250,
+      "estimate": 0.629411802841208,
+      "ci_95_lower": 0.5407277663714603,
+      "ci_95_upper": 0.7046706169037696,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "Salesforce/blip2-flan-t5-xl",
+      "metric": "tr",
+      "exclusion": "none",
+      "caption_pairs": 51,
+      "unique_images": 51,
+      "estimate": 0.7428920602754171,
+      "ci_95_lower": 0.5936117470958209,
+      "ci_95_upper": 0.8608336605807007,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "llava-hf/llava-1.5-7b-hf",
+      "metric": "eh",
+      "exclusion": "none",
+      "caption_pairs": 250,
+      "unique_images": 250,
+      "estimate": 0.6622049137045808,
+      "ci_95_lower": 0.5791377623372829,
+      "ci_95_upper": 0.7393808628542614,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "llava-hf/llava-1.5-7b-hf",
+      "metric": "tr",
+      "exclusion": "none",
+      "caption_pairs": 51,
+      "unique_images": 51,
+      "estimate": 0.6859823099512385,
+      "ci_95_lower": 0.4814660080006868,
+      "ci_95_upper": 0.8226440105327761,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "pooled",
+      "metric": "eh",
+      "exclusion": "C0104",
+      "caption_pairs": 499,
+      "unique_images": 250,
+      "estimate": 0.6375646327193774,
+      "ci_95_lower": 0.5784316199835321,
+      "ci_95_upper": 0.6914827386538228,
+      "valid_bootstrap_samples": 1000
+    }
+  ],
+  "kendall": [
+    {
+      "version": "Main analysis",
+      "caption_model": "pooled",
+      "metric": "eh",
+      "caption_pairs": 434,
+      "unique_images": 217,
+      "estimate": 0.21093691711715412,
+      "ci_95_lower": 0.14974818785418406,
+      "ci_95_upper": 0.2679794087222425,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "pooled",
+      "metric": "tr",
+      "caption_pairs": 100,
+      "unique_images": 50,
+      "estimate": 0.07562543164175217,
+      "ci_95_lower": -0.04201810072026501,
+      "ci_95_upper": 0.17980491601615262,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "blip2",
+      "metric": "eh",
+      "caption_pairs": 217,
+      "unique_images": 217,
+      "estimate": 0.4520105239766758,
+      "ci_95_lower": 0.3734780860556492,
+      "ci_95_upper": 0.5145062029530222,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "blip2",
+      "metric": "tr",
+      "caption_pairs": 50,
+      "unique_images": 50,
+      "estimate": 0.35531664290324844,
+      "ci_95_lower": 0.18071553093773318,
+      "ci_95_upper": 0.5126637664370599,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "llava",
+      "metric": "eh",
+      "caption_pairs": 217,
+      "unique_images": 217,
+      "estimate": 0.13365767635952988,
+      "ci_95_lower": 0.030162036081746637,
+      "ci_95_upper": 0.24378613646210015,
+      "valid_bootstrap_samples": 1000
+    },
+    {
+      "version": "Main analysis",
+      "caption_model": "llava",
+      "metric": "tr",
+      "caption_pairs": 50,
+      "unique_images": 50,
+      "estimate": -0.036057438951331955,
+      "ci_95_lower": -0.2605309177994618,
+      "ci_95_upper": 0.2002932823155583,
+      "valid_bootstrap_samples": 1000
+    }
+  ],
+  "methods": [
+    "Human mean over four reviewers; TR requires all four applicable, plus numeric judge for Spearman.",
+    "Spearman uses average ranks for ties; Kendall uses tau-b. 1000 image-cluster percentile bootstrap samples retain paired captions.",
+    "Six pairwise unweighted and linear-weighted Cohen kappas from the human-rating workbook. Mean pairwise kappa is not a four-rater kappa.",
+    "TR score kappa uses captions both reviewers mark applicable. Applicability kappa is separate. N/A is never zero.",
+    "CIDEr unchanged: 434 captions / 217 images. 33 images without valid references remain excluded.",
+    "No caption generation, judge API calls, CIDEr rescoring, or failure-taxonomy labelling performed."
+  ]
+}

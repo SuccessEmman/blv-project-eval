@@ -1,0 +1,1031 @@
+{
+  "source": "human-rating workbook; main analysis",
+  "results": [
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Samuel",
+      "metric": "EH",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.828,
+      "unweighted_kappa": 0.6801785050204536,
+      "unweighted_95pct_ci": [
+        0.6169897668137936,
+        0.7394184169985106
+      ],
+      "linear_weighted_kappa": 0.7519925385789384,
+      "linear_weighted_95pct_ci": [
+        0.6941114719314805,
+        0.8036420171754913
+      ],
+      "confusion_matrix": [
+        [
+          263,
+          16,
+          13
+        ],
+        [
+          5,
+          8,
+          18
+        ],
+        [
+          18,
+          16,
+          143
+        ]
+      ],
+      "rater1_counts": [
+        292,
+        31,
+        177
+      ],
+      "rater2_counts": [
+        286,
+        40,
+        174
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Samuel",
+      "metric": "TR_applicability",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.986,
+      "unweighted_kappa": 0.9579650269023827,
+      "unweighted_95pct_ci": [
+        0.9201355881913825,
+        0.9884242190643953
+      ],
+      "linear_weighted_kappa": 0.9579650269023827,
+      "linear_weighted_95pct_ci": [
+        0.9201355881913825,
+        0.9884242190643953
+      ],
+      "confusion_matrix": [
+        [
+          391,
+          0
+        ],
+        [
+          7,
+          102
+        ]
+      ],
+      "rater1_counts": [
+        391,
+        109
+      ],
+      "rater2_counts": [
+        398,
+        102
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Samuel",
+      "metric": "TR_score_both_applicable",
+      "caption_pairs": 102,
+      "unique_images": 51,
+      "exact_agreement": 0.9117647058823529,
+      "unweighted_kappa": 0.8647214854111406,
+      "unweighted_95pct_ci": [
+        0.7629861789804223,
+        0.9537835908835688
+      ],
+      "linear_weighted_kappa": 0.8815331010452961,
+      "linear_weighted_95pct_ci": [
+        0.7877494418355834,
+        0.957115160480545
+      ],
+      "confusion_matrix": [
+        [
+          34,
+          3,
+          0
+        ],
+        [
+          4,
+          36,
+          1
+        ],
+        [
+          1,
+          0,
+          23
+        ]
+      ],
+      "rater1_counts": [
+        37,
+        41,
+        24
+      ],
+      "rater2_counts": [
+        39,
+        39,
+        24
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Samuel",
+      "metric": "EH_excluding_C0104",
+      "caption_pairs": 499,
+      "unique_images": 250,
+      "exact_agreement": 0.8276553106212425,
+      "unweighted_kappa": 0.6798131733667592,
+      "unweighted_95pct_ci": [
+        0.6169473047154871,
+        0.7390886121391255
+      ],
+      "linear_weighted_kappa": 0.7516747693603338,
+      "linear_weighted_95pct_ci": [
+        0.6933768461235682,
+        0.8032962749887029
+      ],
+      "confusion_matrix": [
+        [
+          262,
+          16,
+          13
+        ],
+        [
+          5,
+          8,
+          18
+        ],
+        [
+          18,
+          16,
+          143
+        ]
+      ],
+      "rater1_counts": [
+        291,
+        31,
+        177
+      ],
+      "rater2_counts": [
+        285,
+        40,
+        174
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Success",
+      "metric": "EH",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.78,
+      "unweighted_kappa": 0.6150184791130024,
+      "unweighted_95pct_ci": [
+        0.5533425007264604,
+        0.6724028584387878
+      ],
+      "linear_weighted_kappa": 0.6699128738184142,
+      "linear_weighted_95pct_ci": [
+        0.6077017663965661,
+        0.7253860326283
+      ],
+      "confusion_matrix": [
+        [
+          236,
+          29,
+          27
+        ],
+        [
+          0,
+          21,
+          10
+        ],
+        [
+          20,
+          24,
+          133
+        ]
+      ],
+      "rater1_counts": [
+        292,
+        31,
+        177
+      ],
+      "rater2_counts": [
+        256,
+        74,
+        170
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Success",
+      "metric": "TR_applicability",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.986,
+      "unweighted_kappa": 0.9579650269023827,
+      "unweighted_95pct_ci": [
+        0.9201355881913825,
+        0.9884242190643953
+      ],
+      "linear_weighted_kappa": 0.9579650269023827,
+      "linear_weighted_95pct_ci": [
+        0.9201355881913825,
+        0.9884242190643953
+      ],
+      "confusion_matrix": [
+        [
+          391,
+          0
+        ],
+        [
+          7,
+          102
+        ]
+      ],
+      "rater1_counts": [
+        391,
+        109
+      ],
+      "rater2_counts": [
+        398,
+        102
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Success",
+      "metric": "TR_score_both_applicable",
+      "caption_pairs": 102,
+      "unique_images": 51,
+      "exact_agreement": 0.9411764705882353,
+      "unweighted_kappa": 0.9089692101740294,
+      "unweighted_95pct_ci": [
+        0.8321664827545654,
+        0.9697996801546283
+      ],
+      "linear_weighted_kappa": 0.926829268292683,
+      "linear_weighted_95pct_ci": [
+        0.863052058142199,
+        0.9761146415375587
+      ],
+      "confusion_matrix": [
+        [
+          36,
+          1,
+          0
+        ],
+        [
+          0,
+          40,
+          1
+        ],
+        [
+          0,
+          4,
+          20
+        ]
+      ],
+      "rater1_counts": [
+        37,
+        41,
+        24
+      ],
+      "rater2_counts": [
+        36,
+        45,
+        21
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Success",
+      "metric": "EH_excluding_C0104",
+      "caption_pairs": 499,
+      "unique_images": 250,
+      "exact_agreement": 0.779559118236473,
+      "unweighted_kappa": 0.6145689969946353,
+      "unweighted_95pct_ci": [
+        0.552811078834898,
+        0.6715960403223368
+      ],
+      "linear_weighted_kappa": 0.6694625280043204,
+      "linear_weighted_95pct_ci": [
+        0.6067955195197399,
+        0.725020728362015
+      ],
+      "confusion_matrix": [
+        [
+          235,
+          29,
+          27
+        ],
+        [
+          0,
+          21,
+          10
+        ],
+        [
+          20,
+          24,
+          133
+        ]
+      ],
+      "rater1_counts": [
+        291,
+        31,
+        177
+      ],
+      "rater2_counts": [
+        255,
+        74,
+        170
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Yvonne",
+      "metric": "EH",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.808,
+      "unweighted_kappa": 0.6600373958864525,
+      "unweighted_95pct_ci": [
+        0.6062268545028024,
+        0.7133269947333538
+      ],
+      "linear_weighted_kappa": 0.704692625388786,
+      "linear_weighted_95pct_ci": [
+        0.6514877789653223,
+        0.7591898198378897
+      ],
+      "confusion_matrix": [
+        [
+          244,
+          27,
+          21
+        ],
+        [
+          2,
+          25,
+          4
+        ],
+        [
+          22,
+          20,
+          135
+        ]
+      ],
+      "rater1_counts": [
+        292,
+        31,
+        177
+      ],
+      "rater2_counts": [
+        268,
+        72,
+        160
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Yvonne",
+      "metric": "TR_applicability",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.986,
+      "unweighted_kappa": 0.9579650269023827,
+      "unweighted_95pct_ci": [
+        0.9201355881913825,
+        0.9884242190643953
+      ],
+      "linear_weighted_kappa": 0.9579650269023827,
+      "linear_weighted_95pct_ci": [
+        0.9201355881913825,
+        0.9884242190643953
+      ],
+      "confusion_matrix": [
+        [
+          391,
+          0
+        ],
+        [
+          7,
+          102
+        ]
+      ],
+      "rater1_counts": [
+        391,
+        109
+      ],
+      "rater2_counts": [
+        398,
+        102
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Yvonne",
+      "metric": "TR_score_both_applicable",
+      "caption_pairs": 102,
+      "unique_images": 51,
+      "exact_agreement": 0.9117647058823529,
+      "unweighted_kappa": 0.8636971046770601,
+      "unweighted_95pct_ci": [
+        0.7762016372764964,
+        0.9361404908818487
+      ],
+      "linear_weighted_kappa": 0.8913352272727273,
+      "linear_weighted_95pct_ci": [
+        0.8198510205925827,
+        0.9466017561585355
+      ],
+      "confusion_matrix": [
+        [
+          36,
+          1,
+          0
+        ],
+        [
+          3,
+          37,
+          1
+        ],
+        [
+          0,
+          4,
+          20
+        ]
+      ],
+      "rater1_counts": [
+        37,
+        41,
+        24
+      ],
+      "rater2_counts": [
+        39,
+        42,
+        21
+      ]
+    },
+    {
+      "reviewer_1": "Ebere",
+      "reviewer_2": "Yvonne",
+      "metric": "EH_excluding_C0104",
+      "caption_pairs": 499,
+      "unique_images": 250,
+      "exact_agreement": 0.8076152304609219,
+      "unweighted_kappa": 0.6596567011481187,
+      "unweighted_95pct_ci": [
+        0.6057602694870184,
+        0.7129864702567326
+      ],
+      "linear_weighted_kappa": 0.7043070115231636,
+      "linear_weighted_95pct_ci": [
+        0.6495663777727144,
+        0.7589004049849432
+      ],
+      "confusion_matrix": [
+        [
+          243,
+          27,
+          21
+        ],
+        [
+          2,
+          25,
+          4
+        ],
+        [
+          22,
+          20,
+          135
+        ]
+      ],
+      "rater1_counts": [
+        291,
+        31,
+        177
+      ],
+      "rater2_counts": [
+        267,
+        72,
+        160
+      ]
+    },
+    {
+      "reviewer_1": "Samuel",
+      "reviewer_2": "Success",
+      "metric": "EH",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.684,
+      "unweighted_kappa": 0.4523169074623554,
+      "unweighted_95pct_ci": [
+        0.38063171380593636,
+        0.5230944896614474
+      ],
+      "linear_weighted_kappa": 0.545086938940558,
+      "linear_weighted_95pct_ci": [
+        0.47054628558822853,
+        0.6180322364002686
+      ],
+      "confusion_matrix": [
+        [
+          216,
+          34,
+          36
+        ],
+        [
+          18,
+          7,
+          15
+        ],
+        [
+          22,
+          33,
+          119
+        ]
+      ],
+      "rater1_counts": [
+        286,
+        40,
+        174
+      ],
+      "rater2_counts": [
+        256,
+        74,
+        170
+      ]
+    },
+    {
+      "reviewer_1": "Samuel",
+      "reviewer_2": "Success",
+      "metric": "TR_applicability",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 1.0,
+      "unweighted_kappa": 1.0,
+      "unweighted_95pct_ci": [
+        1.0,
+        1.0
+      ],
+      "linear_weighted_kappa": 1.0,
+      "linear_weighted_95pct_ci": [
+        1.0,
+        1.0
+      ],
+      "confusion_matrix": [
+        [
+          398,
+          0
+        ],
+        [
+          0,
+          102
+        ]
+      ],
+      "rater1_counts": [
+        398,
+        102
+      ],
+      "rater2_counts": [
+        398,
+        102
+      ]
+    },
+    {
+      "reviewer_1": "Samuel",
+      "reviewer_2": "Success",
+      "metric": "TR_score_both_applicable",
+      "caption_pairs": 102,
+      "unique_images": 51,
+      "exact_agreement": 0.8529411764705882,
+      "unweighted_kappa": 0.7730307076101469,
+      "unweighted_95pct_ci": [
+        0.6519467306619797,
+        0.877110610469715
+      ],
+      "linear_weighted_kappa": 0.8062678062678063,
+      "linear_weighted_95pct_ci": [
+        0.6944564052797209,
+        0.8984030256906969
+      ],
+      "confusion_matrix": [
+        [
+          33,
+          5,
+          1
+        ],
+        [
+          3,
+          35,
+          1
+        ],
+        [
+          0,
+          5,
+          19
+        ]
+      ],
+      "rater1_counts": [
+        39,
+        39,
+        24
+      ],
+      "rater2_counts": [
+        36,
+        45,
+        21
+      ]
+    },
+    {
+      "reviewer_1": "Samuel",
+      "reviewer_2": "Success",
+      "metric": "EH_excluding_C0104",
+      "caption_pairs": 499,
+      "unique_images": 250,
+      "exact_agreement": 0.6833667334669339,
+      "unweighted_kappa": 0.45167123363888007,
+      "unweighted_95pct_ci": [
+        0.38048050031827896,
+        0.5225668003807277
+      ],
+      "linear_weighted_kappa": 0.5444578751172835,
+      "linear_weighted_95pct_ci": [
+        0.4699124051973017,
+        0.6175153796441812
+      ],
+      "confusion_matrix": [
+        [
+          215,
+          34,
+          36
+        ],
+        [
+          18,
+          7,
+          15
+        ],
+        [
+          22,
+          33,
+          119
+        ]
+      ],
+      "rater1_counts": [
+        285,
+        40,
+        174
+      ],
+      "rater2_counts": [
+        255,
+        74,
+        170
+      ]
+    },
+    {
+      "reviewer_1": "Samuel",
+      "reviewer_2": "Yvonne",
+      "metric": "EH",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.736,
+      "unweighted_kappa": 0.5372707386841662,
+      "unweighted_95pct_ci": [
+        0.46450937632735273,
+        0.6039333004465818
+      ],
+      "linear_weighted_kappa": 0.6170603853223501,
+      "linear_weighted_95pct_ci": [
+        0.5463004333897015,
+        0.6831233148901467
+      ],
+      "confusion_matrix": [
+        [
+          232,
+          28,
+          26
+        ],
+        [
+          14,
+          14,
+          12
+        ],
+        [
+          22,
+          30,
+          122
+        ]
+      ],
+      "rater1_counts": [
+        286,
+        40,
+        174
+      ],
+      "rater2_counts": [
+        268,
+        72,
+        160
+      ]
+    },
+    {
+      "reviewer_1": "Samuel",
+      "reviewer_2": "Yvonne",
+      "metric": "TR_applicability",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 1.0,
+      "unweighted_kappa": 1.0,
+      "unweighted_95pct_ci": [
+        1.0,
+        1.0
+      ],
+      "linear_weighted_kappa": 1.0,
+      "linear_weighted_95pct_ci": [
+        1.0,
+        1.0
+      ],
+      "confusion_matrix": [
+        [
+          398,
+          0
+        ],
+        [
+          0,
+          102
+        ]
+      ],
+      "rater1_counts": [
+        398,
+        102
+      ],
+      "rater2_counts": [
+        398,
+        102
+      ]
+    },
+    {
+      "reviewer_1": "Samuel",
+      "reviewer_2": "Yvonne",
+      "metric": "TR_score_both_applicable",
+      "caption_pairs": 102,
+      "unique_images": 51,
+      "exact_agreement": 0.8235294117647058,
+      "unweighted_kappa": 0.7276368491321763,
+      "unweighted_95pct_ci": [
+        0.5915549352218789,
+        0.836683004885264
+      ],
+      "linear_weighted_kappa": 0.7718926553672316,
+      "linear_weighted_95pct_ci": [
+        0.650086606449418,
+        0.8695757972693838
+      ],
+      "confusion_matrix": [
+        [
+          33,
+          5,
+          1
+        ],
+        [
+          6,
+          32,
+          1
+        ],
+        [
+          0,
+          5,
+          19
+        ]
+      ],
+      "rater1_counts": [
+        39,
+        39,
+        24
+      ],
+      "rater2_counts": [
+        39,
+        42,
+        21
+      ]
+    },
+    {
+      "reviewer_1": "Samuel",
+      "reviewer_2": "Yvonne",
+      "metric": "EH_excluding_C0104",
+      "caption_pairs": 499,
+      "unique_images": 250,
+      "exact_agreement": 0.7354709418837675,
+      "unweighted_kappa": 0.536747640414668,
+      "unweighted_95pct_ci": [
+        0.463578964976796,
+        0.6034244077515889
+      ],
+      "linear_weighted_kappa": 0.616553679069688,
+      "linear_weighted_95pct_ci": [
+        0.5446168858961467,
+        0.6827023495846648
+      ],
+      "confusion_matrix": [
+        [
+          231,
+          28,
+          26
+        ],
+        [
+          14,
+          14,
+          12
+        ],
+        [
+          22,
+          30,
+          122
+        ]
+      ],
+      "rater1_counts": [
+        285,
+        40,
+        174
+      ],
+      "rater2_counts": [
+        267,
+        72,
+        160
+      ]
+    },
+    {
+      "reviewer_1": "Success",
+      "reviewer_2": "Yvonne",
+      "metric": "EH",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 0.916,
+      "unweighted_kappa": 0.8589316423043852,
+      "unweighted_95pct_ci": [
+        0.8098598827243526,
+        0.9046284391102904
+      ],
+      "linear_weighted_kappa": 0.8767970635217347,
+      "linear_weighted_95pct_ci": [
+        0.8304717527892111,
+        0.9167621164256913
+      ],
+      "confusion_matrix": [
+        [
+          248,
+          4,
+          4
+        ],
+        [
+          8,
+          60,
+          6
+        ],
+        [
+          12,
+          8,
+          150
+        ]
+      ],
+      "rater1_counts": [
+        256,
+        74,
+        170
+      ],
+      "rater2_counts": [
+        268,
+        72,
+        160
+      ]
+    },
+    {
+      "reviewer_1": "Success",
+      "reviewer_2": "Yvonne",
+      "metric": "TR_applicability",
+      "caption_pairs": 500,
+      "unique_images": 250,
+      "exact_agreement": 1.0,
+      "unweighted_kappa": 1.0,
+      "unweighted_95pct_ci": [
+        1.0,
+        1.0
+      ],
+      "linear_weighted_kappa": 1.0,
+      "linear_weighted_95pct_ci": [
+        1.0,
+        1.0
+      ],
+      "confusion_matrix": [
+        [
+          398,
+          0
+        ],
+        [
+          0,
+          102
+        ]
+      ],
+      "rater1_counts": [
+        398,
+        102
+      ],
+      "rater2_counts": [
+        398,
+        102
+      ]
+    },
+    {
+      "reviewer_1": "Success",
+      "reviewer_2": "Yvonne",
+      "metric": "TR_score_both_applicable",
+      "caption_pairs": 102,
+      "unique_images": 51,
+      "exact_agreement": 0.9705882352941176,
+      "unweighted_kappa": 0.9541160593792173,
+      "unweighted_95pct_ci": [
+        0.8935479438788728,
+        1.0
+      ],
+      "linear_weighted_kappa": 0.962882096069869,
+      "linear_weighted_95pct_ci": [
+        0.9110855822209494,
+        1.0
+      ],
+      "confusion_matrix": [
+        [
+          36,
+          0,
+          0
+        ],
+        [
+          3,
+          42,
+          0
+        ],
+        [
+          0,
+          0,
+          21
+        ]
+      ],
+      "rater1_counts": [
+        36,
+        45,
+        21
+      ],
+      "rater2_counts": [
+        39,
+        42,
+        21
+      ]
+    },
+    {
+      "reviewer_1": "Success",
+      "reviewer_2": "Yvonne",
+      "metric": "EH_excluding_C0104",
+      "caption_pairs": 499,
+      "unique_images": 250,
+      "exact_agreement": 0.9158316633266533,
+      "unweighted_kappa": 0.8587621640563927,
+      "unweighted_95pct_ci": [
+        0.8096199460330306,
+        0.9045208196524409
+      ],
+      "linear_weighted_kappa": 0.87662099600133,
+      "linear_weighted_95pct_ci": [
+        0.8299686355988695,
+        0.916643354526694
+      ],
+      "confusion_matrix": [
+        [
+          247,
+          4,
+          4
+        ],
+        [
+          8,
+          60,
+          6
+        ],
+        [
+          12,
+          8,
+          150
+        ]
+      ],
+      "rater1_counts": [
+        255,
+        74,
+        170
+      ],
+      "rater2_counts": [
+        267,
+        72,
+        160
+      ]
+    }
+  ]
+}

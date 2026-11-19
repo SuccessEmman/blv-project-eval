@@ -1,0 +1,677 @@
+caption_id,file_name,split,stratum,caption,reference_text,human_eh,eh_n,human_tr,tr_n,judge_eh,judge_tr,judge_text_present,caption_model,generation_flag
+C0001,VizWiz_val_00005171.jpg,val,text,"The image features a wall-mounted digital thermostat displaying a temperature of 79 degrees Fahrenheit. The thermostat is positioned near the top of the wall, making it easily visible and accessible. The wall appears to be white, providing a clean and simple backdrop for the thermostat","79 
+LUXPRO",1.5,4,1.5,4,2,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0002,VizWiz_train_00022027.jpg,train,low_light,a nintendo wii controller in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0003,VizWiz_train_00014089.jpg,train,clear,"The image features a close-up view of a pair of pink flip-flops placed on top of a stove. The flip-flops have a floral pattern, adding a touch of color to the scene. The stove appears to be an oven, and the flip",,0.0,4,,0,0,1.0,True,llava-hf/llava-1.5-7b-hf,False
+C0004,VizWiz_train_00005853.jpg,train,blurry,a close up of a piece of paper,,1.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0005,VizWiz_train_00013076.jpg,train,clear,a pen laying on a piece of paper,,2.0,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0006,VizWiz_val_00001384.jpg,val,blurry,"The image is a close-up view of a white wall, which appears to be textured. The wall is adorned with a painting, adding a touch of artistic flair to the space. The painting covers a significant portion of the wall, making it the focal point of the scene.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0007,VizWiz_train_00012822.jpg,train,low_light,a man is flying a plane in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0008,VizWiz_train_00008814.jpg,train,clear,a black and yellow dress with flowers on it,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0009,VizWiz_train_00004349.jpg,train,clear,a hallway with a chair and a table,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0010,VizWiz_train_00016172.jpg,train,clear,a balcony railing with a red umbrella,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0011,VizWiz_train_00010707.jpg,train,low_light,a man is flying a kite in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0012,VizWiz_train_00012712.jpg,train,text,"The image features a white refrigerator with a colorful sticker on it. The sticker reads ""refrigerator"" and is placed on the door of the refrigerator. The refrigerator is located in a kitchen setting, and it appears to be clean and well-maint",Refrigerator,2.0,4,2.0,4,1,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0013,VizWiz_val_00007225.jpg,val,blurry,a close up of a blue and white computer screen,,0.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0014,VizWiz_train_00012359.jpg,train,clear,Two bricks are sitting on top of each other,,0.75,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0015,VizWiz_train_00003134.jpg,train,text,cheez-it baked snack crackers,Cheez-it Baked Snack Cracker,2.0,4,2.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0016,VizWiz_train_00011611.jpg,train,blurry,a person is sitting in a bathroom with a towel on the floor,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0017,VizWiz_train_00015158.jpg,train,clear,a caterpillar crawling on a wooden fence,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0018,VizWiz_train_00015102.jpg,train,clear,"The image features a close-up view of a person wearing a bracelet on their left wrist. The bracelet is made of black and white beads, giving it a stylish appearance. The person is also wearing a watch on their left wrist, adding a touch of elegance to",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0019,VizWiz_train_00017802.jpg,train,clear,"The image captures a breathtaking view of the Grand Canyon, showcasing the vastness and beauty of the natural landscape. The canyon stretches across the entire frame, revealing its impressive depth and scale.
+
+In the foreground, a person can be seen standing",,1.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0020,VizWiz_val_00001419.jpg,val,low_light,a man is playing a video game in a dark room,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0021,VizWiz_train_00004495.jpg,train,text,"The image features a close-up of a yellow and red can of Cafe Bustelo. The can is prominently displayed in the foreground, occupying most of the frame. The vibrant colors of the can make it an eye-catching element in the scene.",Cafe Bustel Cafe Espresso,2.0,4,1.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0022,VizWiz_val_00005670.jpg,val,clear,a gold door knob on a white door,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0023,VizWiz_val_00002801.jpg,val,blurry,"The image features a person wearing a blue shirt, standing on a sandy beach. The person's upper body is prominently visible in the foreground, while their lower body is obscured by the sand. The shirt appears to be a t-shirt, and the person seems to be",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0024,VizWiz_train_00007883.jpg,train,blurry,a person is sitting in a chair,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0025,VizWiz_val_00003457.jpg,val,clear,"The image features a man wearing a red shirt with the letters ""T"" and ""L"" on it. He is sitting down, possibly on a bench, and has a watch on his left wrist. The man appears to be in a relaxed position, possibly taking a break or waiting for someone",,1.0,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0026,VizWiz_train_00006309.jpg,train,clear,a person's wrist with a watch on it,,2.0,4,0.0,1,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0027,VizWiz_train_00009617.jpg,train,blurry,"The image features a close-up view of a person's hand, with a focus on the knuckles. The hand appears to be resting on a surface, such as a table or a counter. The person's hand is visible in the foreground, while the rest of their body is obscured",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0028,VizWiz_train_00014652.jpg,train,blurry,"The image features a close-up view of a gray fabric, possibly a piece of clothing or an upholstery material. The fabric appears to be made of wool, giving it a soft and textured appearance. The focus of the image is on the fabric itself, highlighting its unique texture and",,2.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0029,VizWiz_train_00007506.jpg,train,clear,"In the image, a person is holding a black and white shoe in their hand. The shoe appears to be a sneaker, and it has a white sole. The person is standing in front of a dining table, which occupies a significant portion of the background. The focus of the image is",,0.0,4,,0,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0030,VizWiz_train_00022905.jpg,train,low_light,a man is riding a skateboard in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0031,VizWiz_train_00022942.jpg,train,clear,"In the image, a person is sitting comfortably on a couch with their feet propped up. The couch occupies a significant portion of the scene, stretching from the left to the right side of the image. The person appears to be relaxed and enjoying their time on the couch.",,2.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0032,VizWiz_train_00008905.jpg,train,blurry,a person's feet standing next to a piano,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0033,VizWiz_train_00015873.jpg,train,blurry,a car driving in the rain,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0034,VizWiz_val_00005063.jpg,val,clear,"The image features a close-up of a black pen sitting on a table. The pen is positioned towards the right side of the table. The table appears to be made of wood and has a smooth surface. The focus of the image is on the pen, making it the main subject of the scene.",,1.5,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0035,VizWiz_val_00005691.jpg,val,low_light,a plane flying over a dark sky,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0036,VizWiz_train_00005546.jpg,train,low_light,a person is watching a game on a tv screen,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0037,VizWiz_train_00023176.jpg,train,text,"The image features a close-up view of a Birds Eye Special Recipe box. The box is open, revealing the food inside, which appears to be fish sticks. The box is placed on a dining table, occupying a significant portion of the table's surface.","Special Recipe Birds eye Bake to perfection  2 haddock fillets with white wine, whole grain mustard and spring oion sauce",2.0,4,1.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0038,VizWiz_train_00020253.jpg,train,blurry,a close up of a blue shirt,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0039,VizWiz_val_00007716.jpg,val,clear,"The image depicts a cozy living room with a large flat-screen TV mounted on the wall. The TV is playing a movie, capturing the attention of the people in the room. There are three people in the scene, with two of them sitting on a couch and the third person standing nearby.",,1.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0040,VizWiz_val_00006956.jpg,val,clear,"In the image, a person is sitting at a wooden dining table with a cell phone placed in front of them. The person's hand is resting on the table, and their fingers are visible. The cell phone is located towards the left side of the table.
+
+Additionally, there are two key",,0.25,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0041,VizWiz_train_00009212.jpg,train,blurry,"The image depicts a close-up view of a wall with a yellowish hue. The wall appears to be made of fabric, giving it a textured appearance. The wall is adorned with a pattern, adding visual interest to the scene. The overall atmosphere of the image is warm and inviting",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0042,VizWiz_train_00021394.jpg,train,clear,"In the image, a man wearing glasses is sitting at a dining table with a cup in front of him. He appears to be enjoying a beverage, possibly a glass of orange juice. Another person can be seen in the background, but they are not the main focus of the scene. The",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0043,VizWiz_train_00006617.jpg,train,low_light,"The image is a black and white photo of a dark room. In the room, there is a chair positioned towards the left side and a couch on the right side. A person can be seen in the middle of the room, possibly sitting on the chair or couch. The overall atmosphere of the image is",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0044,VizWiz_train_00001940.jpg,train,clear,a shirt and tie with a frisbee on the floor,,1.0,4,0.0,1,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0045,VizWiz_train_00014449.jpg,train,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The combination of the dark sky and the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0046,VizWiz_train_00017552.jpg,train,blurry,"The image is a close-up of a blue and white striped wall. The blue stripes are visible on the wall, creating a visually appealing pattern. The wall appears to be a part of a room, possibly a bedroom or a living space. The focus of the image is on the blue and",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0047,VizWiz_val_00007553.jpg,val,low_light,a person laying on a bed in front of a window,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0048,VizWiz_train_00001297.jpg,train,blurry,"The image features a person wearing a watch on their left wrist. The watch is prominently displayed in the foreground, while the person's arm occupies a significant portion of the scene.
+
+In the background, there is a dining table with a chair positioned near it. The table",,0.25,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0049,VizWiz_train_00015281.jpg,train,blurry,"The image features a close-up view of a bright light source, possibly a light bulb or a camera flash. The light appears to be illuminating a red background, creating a striking contrast between the bright light and the darker surroundings. The focus of the image is on the light source and its",,1.5,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0050,VizWiz_val_00007409.jpg,val,clear,"The image depicts a cozy living room with various pieces of furniture. There are two couches, one on the left side and the other on the right side of the room. A chair can be seen in the middle of the room, and a dining table is located towards the left side.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0051,VizWiz_train_00001064.jpg,train,clear,"In the image, there is a person sitting on a couch in a living room. The couch occupies a significant portion of the room, stretching from the left side to the right side of the image. A heater is placed on the floor in front of the couch, providing warmth and comfort",,0.25,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0052,VizWiz_train_00004535.jpg,train,blurry,a person is sitting on a train,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0053,VizWiz_train_00000806.jpg,train,clear,"The image features a close-up view of a black and white patterned lighter. The lighter has a spiral design on it, giving it a unique and eye-catching appearance. The lighter is placed on a dark surface, which contrasts with the lighter's vibrant colors.",,2.0,4,,0,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0054,VizWiz_train_00011309.jpg,train,low_light,this is a black and white image of a black and white image of a black and white image of a black and white image of a black and white image of a black and white image of a black and white image of a black and white image of a black and white image,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0055,VizWiz_val_00004048.jpg,val,clear,a silver laptop is sitting on a bed,,1.75,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0056,VizWiz_train_00013757.jpg,train,low_light,a plane flying over a dark sky,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0057,VizWiz_train_00001183.jpg,train,blurry,"The image features a close-up view of a bright light source, possibly a camera flash or a light bulb. The light appears to be shining through a dirty window, creating an interesting visual effect. The light source is positioned towards the center of the image, and its reflection can be seen on the dirty",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0058,VizWiz_train_00001171.jpg,train,low_light,"In the image, there is a can of food sitting on a countertop. The can is positioned near the center of the scene, and a power cord can be seen stretching across the countertop. The power cord appears to be connected to the can of food, possibly for charging or powering a device",,1.25,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0059,VizWiz_val_00004341.jpg,val,text,a person holding a bottle of vitamin a,"FREEDA
+SINCE 1928
+Pure VITAMIN A
+PALMITATE
+15,000 IU
+Vitamin Supplement
+250 TABLETS",2.0,4,1.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0060,VizWiz_val_00006503.jpg,val,blurry,"The image is a close-up of a person's face, with a blurry background. The person's face is the main focus of the image, and the background appears to be out of focus, creating a sense of depth in the photo.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0061,VizWiz_train_00008814.jpg,train,clear,"The image features a close-up view of a green and blue floral print on a piece of clothing, possibly a shirt or a dress. The floral pattern consists of a mix of green and blue colors, creating a visually appealing design. The clothing appears to be well-worn,",,1.75,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0062,VizWiz_val_00005392.jpg,val,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. Overall, the photo captures the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0063,VizWiz_train_00000867.jpg,train,blurry,"In the image, a person is holding a pinecone in their hand. The pinecone is located towards the center of the scene, with the person's hand positioned around it. The person appears to be in a room, possibly a bedroom, as there is a bed visible in the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0064,VizWiz_train_00007402.jpg,train,blurry,"In the image, a person's hand is resting on a white wall. The hand is positioned near the top left corner of the wall, with the palm facing upwards. The person's fingers can be seen clearly on the wall, creating a sense of depth in the scene.",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0065,VizWiz_train_00021168.jpg,train,low_light,"The image is a black and white photograph of a night sky. The sky is filled with a multitude of stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The photograph captures the beauty of the night sky",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0066,VizWiz_val_00007521.jpg,val,blurry,a laptop with a pink screen is sitting on a table,,1.5,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0067,VizWiz_train_00021889.jpg,train,clear,"The image features a person wearing a pair of blue and white sneakers. The sneakers are laced up, and the person is standing on a green surface, possibly a carpet or a green floor. The sneakers are positioned in the center of the image, with the person's",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0068,VizWiz_train_00022687.jpg,train,clear,"The image depicts a white piece of paper, possibly an envelope, sitting on a table. The paper appears to be folded in half, with one side open and the other side closed. The table occupies the majority of the scene, with the paper being the main focus.",,1.75,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0069,VizWiz_train_00004828.jpg,train,clear,"The image features a close-up view of a black wool sweater. The sweater appears to be knitted and has a patterned texture. The focus of the image is on the back of the sweater, showcasing its intricate design and texture.",,0.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0070,VizWiz_train_00007125.jpg,train,blurry,"The image is a close-up view of a piece of artwork, possibly a painting or a piece of fabric. The artwork features a mix of green, white, and black colors, giving it a unique and intriguing appearance.
+
+There are several dots scattered throughout the artwork, with some",,1.25,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0071,VizWiz_train_00013616.jpg,train,text,"The image features a bottle of 24-hour moisturizing lotion sitting on a bed. The bottle is prominently displayed in the foreground, occupying a significant portion of the scene. The bed covers most of the background, creating a cozy and relaxing atmosphere.",Calm&care Gentle care 24 h help skin recover after shaving with provitamin B5 and witch hazel 0% alcohol 163g/250ml Anti-perspirant deodorant,0.0,4,1.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0072,VizWiz_train_00006338.jpg,train,text,"In the image, a person is sitting on a chair with their legs crossed. They are wearing a pair of red shorts and a red shirt. The person is holding a pair of earbuds in their hand, possibly preparing to listen to music or engage in a conversation. The earbuds",Mettalic SecureFit Mettablic bud Compagnon d' orielle a insertion fixe,0.5,4,0.0,4,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0073,VizWiz_train_00010774.jpg,train,clear,a cookie on a napkin,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0074,VizWiz_train_00005546.jpg,train,low_light,"The image depicts a computer-generated scene of a car driving down a street. The car is positioned in the middle of the scene, and there are two other cars in the background, one on the left side and the other on the right side of the street.
+
+In addition to the cars,",,0.25,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0075,VizWiz_train_00020505.jpg,train,blurry,a blurry image of a person in a hallway,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0076,VizWiz_train_00010970.jpg,train,blurry,a bottle of perfume is sitting on a sink,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0077,VizWiz_val_00000057.jpg,val,text,a bed with a texas t-shirt on it,Texas,1.0,4,2.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0078,VizWiz_val_00001419.jpg,val,low_light,"The image is a black and white photograph of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The combination of the dark sky and the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0079,VizWiz_val_00006541.jpg,val,clear,a library with a lot of books on the shelves,,2.0,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0080,VizWiz_train_00008514.jpg,train,clear,"The image depicts a beautiful day with a clear blue sky. In the foreground, there is a house with a tree in front of it, adding a touch of greenery to the scene. In the background, there is a cell tower towering over the landscape. 
+
+Additionally, there are",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0081,VizWiz_train_00018802.jpg,train,low_light,"The image depicts a close-up of a person's hair, showcasing the individual's scalp. The hair appears to be wet, possibly due to rain or a recent shower. The focus of the image is on the hair and scalp, providing a detailed view of the person'",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0082,VizWiz_train_00023367.jpg,train,low_light,A man is sitting on a train looking out the window,,2.0,4,,0,1,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0083,VizWiz_train_00021896.jpg,train,blurry,"The image depicts a cozy living room with a flat-screen TV mounted on the wall. The TV is positioned in the center of the room, and it appears to be the focal point of the space.
+
+In addition to the TV, there are several bottles scattered throughout the room,",,1.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0084,VizWiz_train_00015281.jpg,train,blurry,a close up of a red credit card with a light shining on it,,1.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0085,VizWiz_train_00012359.jpg,train,clear,"In the image, there is a pile of cement bricks sitting on the ground. The bricks are arranged in various positions, with some stacked on top of each other and others lying flat on the ground. The scene appears to be outdoors, possibly in a yard or a construction site. The",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0086,VizWiz_train_00021412.jpg,train,low_light,a man is holding a cell phone in his hand,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0087,VizWiz_val_00000002.jpg,val,text,the cover of a book with a dog on it,"Dog years, due date Aug 06 2007 Nov 16 2007",2.0,4,0.0,4,1,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0088,VizWiz_train_00005015.jpg,train,low_light,a plane flying in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0089,VizWiz_train_00022677.jpg,train,text,a dunkin donuts cup with a straw sitting on a table,"Dunkin Donuts, we got this",2.0,4,1.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0090,VizWiz_train_00022286.jpg,train,blurry,"In the image, a person is holding a bottle of perfume in their hand. The bottle is located near the center of the scene, and the person's hand can be seen on the left side of the image.
+
+In the background, there is a refrigerator situated on the right",,1.25,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0091,VizWiz_val_00001483.jpg,val,text,"The image features a white Apple USB Power Adapter box sitting on a wooden surface. The box is open, revealing the USB power adapter inside. The box is placed on a dining table, which occupies the majority of the scene.
+
+In the background, there is a person partially visible on the left",USB power adapter,0.0,4,2.0,4,0,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0092,VizWiz_train_00009212.jpg,train,blurry,a man is riding a skateboard on a yellow background,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0093,VizWiz_train_00011309.jpg,train,low_light,"The image is a close-up of a person's hand in a dark room. The hand is positioned in the center of the frame, and the rest of the person's body is not visible. The room appears to be dimly lit, creating a somewhat mysterious atmosphere.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0094,VizWiz_train_00014353.jpg,train,low_light,a bottle of liquid in a dark room,,0.0,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0095,VizWiz_train_00007402.jpg,train,blurry,a person's hand is pointing at a phone,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0096,VizWiz_train_00022299.jpg,train,low_light,there is a light in the sky,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0097,VizWiz_train_00015451.jpg,train,text,"The image features a close-up view of a savoury beef rissoles dish. The dish is placed on a dining table, and a fork can be seen on the right side of the image. The beef rissoles are accompanied by a variety of vegetables, including multiple car",Savory Beef Rissoles,0.5,4,1.5,4,2,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0098,VizWiz_val_00002235.jpg,val,low_light,a man is riding a skateboard in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0099,VizWiz_train_00004362.jpg,train,text,"The image features a close-up view of a cell phone with a black background. The cell phone's screen displays the word ""Nokia"" in white letters, indicating that it is a Nokia brand phone. The focus of the image is on the phone's screen, showcasing the brand",Toshiba,0.0,4,0.5,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0100,VizWiz_train_00016383.jpg,train,clear,a close up of a computer,,1.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0101,VizWiz_train_00014742.jpg,train,blurry,"The image features a close-up view of a pair of blue jeans. The jeans appear to be faded and worn, giving them a vintage look. The jeans are positioned in the center of the image, occupying a significant portion of the frame. The focus is on the denim",,1.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0102,VizWiz_val_00002801.jpg,val,blurry,an image of a blue object in the water,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0103,VizWiz_train_00022098.jpg,train,text,"The image features a close-up view of a remote control with several buttons on it. The remote control is placed on a wooden surface, possibly a desk or a table. The buttons on the remote control are arranged in a way that allows for easy navigation and control of various functions. The remote control appears to be",FM/AM TAPE 1 PHONE TAPE 2 SURROUND ON/OFF DISPLAY MOOD,2.0,4,0.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0104,VizWiz_train_00021394.jpg,train,clear,the big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang theory - big bang,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,True
+C0105,VizWiz_train_00003804.jpg,train,clear,"The image features a TV sitting on top of a wooden entertainment center. The TV is positioned towards the left side of the entertainment center, taking up a significant portion of the space. 
+
+In addition to the TV, there is a remote control placed on the right side of the entertainment center.",,1.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0106,VizWiz_val_00002835.jpg,val,low_light,close up of a clock on a wall,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0107,VizWiz_train_00021012.jpg,train,blurry,"The image features a little girl with a pink bow in her hair. She is wearing a hooded sweatshirt, and her hair is pulled back into a ponytail. The girl appears to be enjoying her time outdoors.
+
+In the scene, there are two other people",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0108,VizWiz_train_00021576.jpg,train,clear,"The image depicts a person lying in bed with a blue comforter covering them. The person appears to be sleeping or resting comfortably under the blanket.
+
+In the room, there is a bookshelf filled with various books, showcasing a diverse collection of reading materials. A",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0109,VizWiz_train_00012358.jpg,train,low_light,"The image is a close-up of a black background, with no visible objects or details. The background appears to be dark and void of any discernible features. The focus of the image is solely on the blackness of the background.",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0110,VizWiz_train_00008905.jpg,train,blurry,"In the image, a person is standing in front of a white piano. The person is wearing black shoes and appears to be the main focus of the scene. The piano takes up a significant portion of the image, stretching from the left to the right side. The person's shadow can be seen on",,1.25,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0111,VizWiz_train_00021777.jpg,train,blurry,a tv screen with a black screen,,1.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0112,VizWiz_train_00003447.jpg,train,clear,a dog is licking a person's leg,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0113,VizWiz_train_00010654.jpg,train,blurry,a person's hand is touching a piece of cloth,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0114,VizWiz_train_00013757.jpg,train,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. Overall, the photo captures the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0115,VizWiz_train_00001261.jpg,train,blurry,"The image features a close-up view of a black shirt. The shirt appears to be made of cotton and has a slightly fuzzy texture. The focus of the image is on the fabric of the shirt, showcasing its material and texture.",,0.5,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0116,VizWiz_val_00002115.jpg,val,text,a box with the word ckinsn on it,ckin2u,1.25,4,1.0,4,0,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0117,VizWiz_train_00020757.jpg,train,clear,a black purse sitting on top of a counter,,1.25,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0118,VizWiz_train_00019572.jpg,train,clear,"The image features a white iPhone placed on a blue surface, possibly a bed or a table. The phone is turned off, and its screen is black, indicating that it is not in use at the moment. The iPhone is positioned in the center of the image, drawing attention to its sleek design.",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0119,VizWiz_train_00018111.jpg,train,text,a person holding a box of chicken strips,Chicken Strips breaded outlettes uncooked Lanieres de poulet 1kg,2.0,4,1.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0120,VizWiz_train_00001630.jpg,train,low_light,"The image is a black and white photograph of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered all over the sky, with some closer to the foreground and others further away, creating a sense of depth in the scene.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0121,VizWiz_train_00004770.jpg,train,clear,a living room with a tv on the wall,,0.0,4,0.0,1,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0122,VizWiz_val_00001992.jpg,val,blurry,a black laptop with a blue screen,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0123,VizWiz_train_00020473.jpg,train,blurry,a close up of a can,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0124,VizWiz_train_00010684.jpg,train,blurry,a pair of scissors on a table,,0.0,4,,0,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0125,VizWiz_train_00023050.jpg,train,blurry,"The image is a close-up view of a pink wall, showcasing its texture and color. The wall appears to be made of bricks, giving it a unique and textured appearance. The pink hue of the wall creates a warm and inviting atmosphere in the space.",,0.25,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0126,VizWiz_val_00007409.jpg,val,clear,a dog is sitting on a rug in a living room,,0.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0127,VizWiz_val_00007553.jpg,val,low_light,"In the image, a person is laying down on a bed with their feet propped up on a pillow. The bed is positioned under a window, allowing natural light to enter the room. The person appears to be relaxed and enjoying their time on the bed.",,2.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0128,VizWiz_train_00019322.jpg,train,text,a box of swiss cheese is sitting on a counter,Smart ones ood with principles 1 2 3 4 www.eatyourbest.com,0.0,4,0.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0129,VizWiz_train_00007899.jpg,train,blurry,"The image depicts a cluttered dining table with various items scattered across its surface. There is a wooden box on the table, which appears to be the main focus of the scene. Inside the box, there are a couple of apples and a bottle. 
+
+In addition to the box",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0130,VizWiz_val_00007019.jpg,val,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. Overall, the photo captures the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0131,VizWiz_train_00018434.jpg,train,blurry,"The image features a white iPhone placed on a black surface, possibly a desk or a table. The iPhone is positioned in the center of the scene, and it appears to be the main focus of the image.
+
+In addition to the iPhone, there is a computer keyboard located towards the right side of the",,1.25,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0132,VizWiz_train_00023087.jpg,train,clear,a person's feet on a desk,,0.5,4,,0,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0133,VizWiz_train_00008276.jpg,train,clear,a remote control is sitting on a person's pants,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0134,VizWiz_train_00020473.jpg,train,blurry,"The image features a close-up view of a metal object, possibly a piece of machinery or an industrial part. The metal appears to be rusted, giving it a weathered and aged appearance. The focus of the image is on the intricate details of the rusted metal, showcasing its texture",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0135,VizWiz_train_00007951.jpg,train,text,a woman is holding a box of tesco 36 jafa cakes,"TESCO
+36 JAFFA
+CAKES
+Tangy orange centre
+with real fruit juice",0.0,4,1.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0136,VizWiz_val_00001681.jpg,val,clear,"The image features a large white bulldog laying down on a wooden floor. The dog appears to be relaxed and enjoying its time indoors. The floor is covered with a carpet, providing a comfortable surface for the dog to rest on.",,2.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0137,VizWiz_train_00001761.jpg,train,text,"The image features a wooden dining table with a large bottle of Ocean Spray Cranberry juice placed on it. The bottle is prominently displayed, occupying a significant portion of the table's surface.
+
+In the background, there is a couch and a potted plant,",Oceanspray Cranberry juice cocktail original 100% vitamin C,2.0,4,1.25,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0138,VizWiz_train_00014449.jpg,train,low_light,a black background with a light shining on it,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0139,VizWiz_train_00002404.jpg,train,text,"In the image, a person is holding a laptop computer in front of a vase filled with white flowers. The laptop is positioned close to the vase, and the person's hand can be seen resting on the laptop's screen. The vase is placed on a surface, and the flowers inside",Windows 7,1.25,4,0.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0140,VizWiz_train_00011611.jpg,train,blurry,"In the image, a person is standing in front of a sink in a bathroom. The person is wearing a black shirt, and there is a toilet visible in the background. The bathroom appears to be in need of cleaning, as there is a noticeable amount of hair on the floor",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0141,VizWiz_train_00004362.jpg,train,text,a toshiba laptop with the word toshiba on it,Toshiba,2.0,4,2.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0142,VizWiz_train_00005561.jpg,train,blurry,"The image depicts a close-up view of a piece of fabric, possibly a piece of clothing or a curtain. The fabric appears to be made of a blend of purple and green colors, giving it a unique and eye-catching appearance. The close-up view highlights the intr",,1.25,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0143,VizWiz_train_00007951.jpg,train,text,"The image features a box of Tesco 366 Jaffa Cakes placed on a dining table. The box is open, revealing the cakes inside. The cakes are arranged in a visually appealing manner, showcasing their delicious appearance. The table occupies most of","TESCO
+36 JAFFA
+CAKES
+Tangy orange centre
+with real fruit juice",0.0,4,1.0,4,0,1.0,True,llava-hf/llava-1.5-7b-hf,False
+C0144,VizWiz_train_00011649.jpg,train,text,"The image features a close-up view of a can of fruit, specifically a can of oranges. The can is placed on a dining table, which occupies the majority of the scene. The oranges inside the can can be seen clearly, showcasing their vibrant color and freshness. The","Picked sand Packed at the Peak of Ripeness
+SERVING SUGGESTIONS
+Delicious over ice cream or frozen yogurt
+Great as a topping over waffles or pancakes.
+Enjoy as a nutritious snack anytime",0.5,4,0.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0145,VizWiz_val_00006956.jpg,val,clear,a person's hand with a cell phone on it,,0.0,4,,0,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0146,VizWiz_val_00004048.jpg,val,clear,"The image features an open laptop computer sitting on a desk. The laptop is positioned towards the left side of the desk, with its screen facing the viewer. A person can be seen in the background, partially visible on the right side of the image.
+
+In addition to the laptop, there are",,0.25,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0147,VizWiz_train_00010491.jpg,train,clear,"In the image, a man is sitting in a chair with his legs crossed. He is wearing a suit and a pair of black dress shoes. The man appears to be relaxed and comfortable in his attire. Another person can be seen in the background, but they are not the main focus of the scene",,1.25,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0148,VizWiz_train_00014089.jpg,train,clear,a pair of pink and white shoes on top of a stove,,0.0,4,,0,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0149,VizWiz_train_00001183.jpg,train,blurry,the sun is shining through a window,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0150,VizWiz_train_00001255.jpg,train,text,"The image features a cracked cell phone placed on a wooden table. The phone's screen is shattered, and the device appears to be in poor condition. The wooden table occupies the majority of the scene, with the cell phone being the main focus of the image.",HTC,2.0,4,0.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0151,VizWiz_val_00005587.jpg,val,low_light,a plane flying over a dark sky,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0152,VizWiz_train_00018782.jpg,train,text,"The image features a close-up view of a baby wipes container, showcasing the product's packaging. The baby wipes are advertised as being ultra-soft and providing 100 wipes in the package. The container is placed on a dining table, which occupies the",Baby wipes unscented Ultra soft cloths 100 wipes,1.0,4,1.5,4,2,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0153,VizWiz_train_00011455.jpg,train,blurry,a black and white image of a tv screen,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0154,VizWiz_train_00019322.jpg,train,text,"The image features a close-up view of a food package, likely a box of cereal. The cereal box is open, revealing the cereal inside. The box is placed on a dining table, which occupies the majority of the scene.
+
+In the background, there is",Smart ones ood with principles 1 2 3 4 www.eatyourbest.com,0.0,4,0.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0155,VizWiz_train_00011339.jpg,train,blurry,a person's feet standing on a rug,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0156,VizWiz_train_00007894.jpg,train,clear,a pair of black shoes on a wooden floor,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0157,VizWiz_train_00018775.jpg,train,low_light,a room with a fan and a window,,1.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0158,VizWiz_val_00001174.jpg,val,clear,"The image features a room with a ceiling fan hanging from the ceiling. The fan is turned on, creating a breeze in the room. The room appears to be dimly lit, giving it a cozy atmosphere. 
+
+In addition to the ceiling fan, there are a few other",,2.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0159,VizWiz_train_00023278.jpg,train,clear,"The image depicts a lush green forest filled with trees and shrubbery. In the middle of the forest, there is a small hut surrounded by greenery. The hut appears to be made of straw, giving it a rustic appearance.
+
+In addition to the hut,",,1.75,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0160,VizWiz_train_00007010.jpg,train,blurry,"The image depicts a bedroom scene with a bed in the background and a chair in the foreground. The chair is positioned close to the bed and appears to be the main focus of the scene. The bed occupies a significant portion of the background, extending from the left to the right side of the",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0161,VizWiz_train_00005163.jpg,train,low_light,"The image is a black and white photograph of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The photograph captures the beauty of the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0162,VizWiz_val_00005388.jpg,val,low_light,a close up of a candle in a dark room,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0163,VizWiz_train_00011455.jpg,train,blurry,"The image is a close-up of a piece of fabric, possibly a sheet or a blanket. The fabric appears to be made of cotton, and it has a slightly wrinkled texture. The focus of the image is on the fabric, with no other objects or distractions visible in the frame.",,2.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0164,VizWiz_train_00001957.jpg,train,low_light,"The image depicts a close-up view of a computer keyboard. The keyboard is positioned on a wooden desk, and the focus is on the keys themselves. There are several keys visible, including the space bar, which is located towards the center of the keyboard. The keys are arranged in rows, with",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0165,VizWiz_train_00001255.jpg,train,text,an htc phone with a broken screen,HTC,2.0,4,2.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0166,VizWiz_train_00015102.jpg,train,clear,a person wearing a black beaded bracelet,,1.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0167,VizWiz_train_00004238.jpg,train,clear,red wrapping paper with snowflakes on it,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0168,VizWiz_val_00002698.jpg,val,clear,"The image depicts a cloudy day with a large, dark cloud looming in the sky. The cloud is positioned towards the left side of the scene, covering a significant portion of the sky.
+
+In the foreground, there is a street light and a telephone pole. The street light is",,0.5,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0169,VizWiz_train_00012680.jpg,train,low_light,a man is sitting on a couch in a dark room,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0170,VizWiz_train_00003620.jpg,train,clear,a yellow pepper shaker on a table,,0.75,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0171,VizWiz_train_00020431.jpg,train,blurry,"The image features a close-up view of a floral pattern on a piece of clothing, possibly a dress or a skirt. The floral pattern consists of pink flowers and green leaves, creating a visually appealing design. The dress or skirt appears to be black in color, and the flowers",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0172,VizWiz_train_00010970.jpg,train,blurry,"The image depicts a bathroom scene with a sink and a faucet. The faucet is located on the left side of the sink, and a bottle can be seen on the right side of the sink. The sink appears to be white, and the faucet seems to be made of",,0.5,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0173,VizWiz_train_00006617.jpg,train,low_light,a man in a black shirt is riding a skateboard in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0174,VizWiz_train_00006303.jpg,train,low_light,"The image is a black and white photograph of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The photograph captures the beauty of the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0175,VizWiz_train_00001297.jpg,train,blurry,a man's wrist with a watch on it,,1.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0176,VizWiz_train_00002522.jpg,train,blurry,"The image features a close-up view of a red sauce in a bowl. The sauce is placed in the center of the bowl, occupying a significant portion of the space. The bowl appears to be made of metal, giving it a shiny and reflective appearance. The focus of the",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0177,VizWiz_train_00001261.jpg,train,blurry,a close up of a person with a frisbee,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0178,VizWiz_train_00018802.jpg,train,low_light,this is a close up of a black plate,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0179,VizWiz_train_00003134.jpg,train,text,"The image features a box of Cheez-It baked snack crackers. The box is prominently displayed in the foreground, with a close-up view of the crackers inside. The crackers are arranged in a visually appealing manner, showcasing the various shapes and sizes of the",Cheez-it Baked Snack Cracker,2.0,4,2.0,4,0,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0180,VizWiz_val_00007225.jpg,val,blurry,"The image features a laptop computer with a blue background. On the laptop screen, there are several icons displayed, including a large blue circle in the center. The icons are spread out across the screen, with some positioned closer to the edges and others more centrally located. Overall, the laptop appears to be",,0.25,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0181,VizWiz_val_00001563.jpg,val,low_light,"The image features a close-up of a spiral-shaped object, possibly a piece of art or a sculpture. The spiral appears to be made of wire or a similar material, giving it a unique and intricate appearance. The spiral is positioned in the center of the image, capturing",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0182,VizWiz_train_00000025.jpg,train,blurry,"The image features a close-up of a dog's head with a chain around its neck. The dog appears to be looking at the camera, and the chain is clearly visible around its neck. The dog's head takes up a significant portion of the image, showcasing its features prominently.",,0.75,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0183,VizWiz_train_00003479.jpg,train,blurry,a bed with a blanket on it,,1.75,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0184,VizWiz_val_00001563.jpg,val,low_light,a small piece of metal sitting on a table,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0185,VizWiz_train_00004231.jpg,train,blurry,the moon is seen through a dark sky,,0.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0186,VizWiz_train_00000264.jpg,train,blurry,a close up of a teddy bear,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0187,VizWiz_train_00021896.jpg,train,blurry,a tv in a living room,,1.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0188,VizWiz_train_00022905.jpg,train,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered all over the sky, with some closer to the foreground and others further in the background. The photo captures the beauty of",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0189,VizWiz_val_00003938.jpg,val,low_light,a close up of a brown teddy bear,,0.5,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0190,VizWiz_train_00021889.jpg,train,clear,a person wearing blue sneakers on a green floor,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0191,VizWiz_train_00005817.jpg,train,text,kirkland liquid fish soap,Kirkland signature environmental friendly liquid dish wash,1.5,4,1.0,4,0,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0192,VizWiz_train_00009617.jpg,train,blurry,a person's finger in the dark,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0193,VizWiz_train_00021576.jpg,train,clear,a person laying on a bed with a watch,,1.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0194,VizWiz_train_00013981.jpg,train,low_light,a bed with a tv on top of it,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0195,VizWiz_train_00016174.jpg,train,clear,a person is opening a can of ice cream,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0196,VizWiz_train_00023087.jpg,train,clear,"In the image, a person is sitting in a classroom with their feet propped up on a desk. They are wearing a pair of khaki pants and a gray shoe. The classroom is furnished with several chairs and a dining table.
+
+There are multiple chairs",,0.25,4,,0,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0197,VizWiz_train_00018558.jpg,train,clear,"In the image, there is a blue and green toothbrush sitting on a white countertop. The toothbrush is positioned towards the left side of the counter. The countertop appears to be clean and uncluttered, making it an ideal place to store the toothbrush.",,0.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0198,VizWiz_train_00000351.jpg,train,text,"The image features a bottle of Blue Diamond Almond Breeze milk sitting on a kitchen counter. The bottle is prominently placed in the foreground, occupying a significant portion of the scene.
+
+In the background, there is a microwave and an oven, indicating that the","Soy free, Lacyose free Unsweetened.  All natural Blue diamond Almonds. Almond Breese",1.0,4,1.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0199,VizWiz_val_00004321.jpg,val,text,"The image shows a computer screen with a math problem displayed on it. The problem involves determining the value of ""y"" in terms of ""x"" and ""y."" The screen is filled with text, making it difficult to discern the specific details of the problem.
+
+The computer screen occupies most of","Determine the value of y. D0k(-7, y) - (14, -5) a. 1.25 b. 2.5 c. 5 d. 10",2.0,4,1.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0200,VizWiz_train_00012220.jpg,train,low_light,a laundry basket with holes in it,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0201,VizWiz_train_00010684.jpg,train,blurry,"The image features a close-up view of a pair of scissors. The scissors are positioned in the center of the image, with their blades facing the viewer. The focus of the image is on the pair of scissors, and there are no other objects or distractions visible",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0202,VizWiz_train_00014783.jpg,train,clear,a building with a clock tower in the background,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0203,VizWiz_train_00013408.jpg,train,blurry,"The image features a large brown dog lying on a carpeted floor. The dog appears to be resting or sleeping, taking up a significant portion of the scene. The carpeted floor provides a comfortable surface for the dog to relax on.",,2.0,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0204,VizWiz_train_00016451.jpg,train,text,"The image features a close-up view of a carton of frozen orange juice. The carton is placed on a white surface, possibly a table or a counter. The orange juice is displayed prominently in the foreground, occupying a significant portion of the image.","ORIGINAL
+FROZEN CONCENTRATED
+ORANGE JUICE
+12 FL OZ (355 mL)
+100% ORANGE JUICE",0.5,4,1.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0205,VizWiz_train_00003391.jpg,train,low_light,"The image is a close-up of a black fabric, possibly a piece of clothing or an upholstery material. The black fabric occupies the entire frame of the image, giving a clear view of its texture and appearance.",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0206,VizWiz_val_00003457.jpg,val,clear,a man wearing a red polo shirt,,2.0,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0207,VizWiz_train_00021412.jpg,train,low_light,"The image is a close-up of a person's hand, with a focus on the fingernails. The fingernails are visible in the foreground, while the rest of the person's hand is blurred in the background. The hand appears to be resting on a surface,",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0208,VizWiz_train_00011707.jpg,train,blurry,"The image features a close-up view of a white dog's face. The dog appears to be looking directly at the camera, capturing the viewer's attention. The focus is on the dog's face, making it the main subject of the photo.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0209,VizWiz_train_00006252.jpg,train,clear,"The image features a green t-shirt with a white snowflake pattern on it. The snowflakes are scattered across the shirt, creating a visually appealing design. The t-shirt appears to be well-worn, suggesting that it has been a favorite piece of clothing",,0.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0210,VizWiz_val_00003431.jpg,val,text,"The image features a close-up of a blue background with the word ""Toshiba"" written on it. The word ""Toshiba"" is displayed prominently in the center of the image. The background appears to be blue, and the word ""Toshiba"" stands out against the",Toshiba leading innovation,2.0,4,1.0,4,2,1.0,True,llava-hf/llava-1.5-7b-hf,False
+C0211,VizWiz_train_00009867.jpg,train,blurry,"The image features a close-up view of a shiny metal surface, which appears to be a metal plate or a metal bowl. The surface is reflecting light, creating a visually appealing scene. The reflection of a person can be seen in the metal, adding a sense of depth to the image.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0212,VizWiz_train_00000792.jpg,train,low_light,a smiley face on a controller,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0213,VizWiz_train_00019748.jpg,train,text,"The image features a close-up of a can of chicken noodle soup by Campbell's. The can is prominently displayed in the foreground, occupying most of the frame. The chicken noodle soup appears to be the main focus of the image.",Cambella Real Stock Chicken,0.5,4,0.75,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0214,VizWiz_train_00007117.jpg,train,blurry,"The image features a close-up view of a person's fingernails. The fingernails are visible in the foreground, while the rest of the person's hand is blurred in the background. The focus of the image is on the intricate details of the fingernails",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0215,VizWiz_train_00021883.jpg,train,blurry,"The image is a close-up view of a white wall. The wall appears to be clean and free of any visible markings or decorations. The focus of the image is on the wall itself, with no other objects or distractions visible in the frame.",,0.5,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0216,VizWiz_train_00022558.jpg,train,low_light,there is a black background,,1.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0217,VizWiz_train_00002522.jpg,train,blurry,a close up of a blush on a table,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0218,VizWiz_train_00014652.jpg,train,blurry,a close up of a grey suit on a table,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0219,VizWiz_val_00006885.jpg,val,blurry,a close up of a person's hair,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0220,VizWiz_train_00022558.jpg,train,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The combination of the dark sky and the",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0221,VizWiz_train_00010654.jpg,train,blurry,"In the image, a person's hand is resting on the back pocket of a pair of khaki pants. The hand is positioned near the top of the pocket, giving a sense of the pocket's size and shape. The person appears to be wearing the khaki pants,",,0.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0222,VizWiz_train_00006731.jpg,train,text,"The image features a green key chain with a key attached to it. The key chain is placed on a piece of paper, which occupies a significant portion of the scene. The paper appears to have some writing on it, possibly related to the key or the key chain itself.",Santos,1.25,4,0.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0223,VizWiz_train_00004231.jpg,train,blurry,"The image is a close-up of a white light source, possibly a light bulb or the moon, shining brightly in the darkness. The light appears to be the main focus of the scene, with no other objects or distractions visible. The contrast between the bright light and the surrounding darkness creates a",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0224,VizWiz_train_00009037.jpg,train,clear,"The image depicts a cozy bedroom with a neatly made bed at the center of the room. The bed is adorned with pillows and a blanket, creating a comfortable and inviting atmosphere.
+
+In addition to the bed, there is a couch located towards the left side of",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0225,VizWiz_train_00005817.jpg,train,text,"The image features a bottle of Kirkland Signature Environmentally Friendly Liquid Fish Soap. The bottle is prominently displayed in the foreground, occupying a significant portion of the image. The soap appears to be in good condition and ready for use.",Kirkland signature environmental friendly liquid dish wash,1.0,4,1.0,4,0,1.0,True,llava-hf/llava-1.5-7b-hf,False
+C0226,VizWiz_val_00001998.jpg,val,low_light,this is a black and white image of a plane flying in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0227,VizWiz_train_00016651.jpg,train,clear,"The image features a white bowl filled with sliced peaches. The bowl is placed on a dining table, and the peaches are arranged in a visually appealing manner. There are several slices of peaches scattered throughout the bowl, creating a colorful and appetizing display.",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0228,VizWiz_train_00001957.jpg,train,low_light,a cd player is sitting on a desk,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0229,VizWiz_train_00018694.jpg,train,text,"The image features a bottle of Surf Soap Coconut & Ginger Warming Ginger hand soap sitting on a carpeted floor. The bottle appears to be almost empty, with only a small amount of soap remaining. The bottle's label is visible, providing information about the soap",Soft soap cocnut and warm ginger hand soap refill,0.25,4,1.0,4,0,1.0,True,llava-hf/llava-1.5-7b-hf,False
+C0230,VizWiz_train_00010491.jpg,train,clear,a man is sitting on a chair with his feet on the floor,,0.25,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0231,VizWiz_val_00002115.jpg,val,text,"The image features a close-up of a person's hand holding a cell phone. The cell phone is prominently displayed in the foreground, capturing the viewer's attention. The person's reflection can be seen in the cell phone's screen.
+
+In the background, there is",ckin2u,0.5,4,0.25,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0232,VizWiz_train_00002550.jpg,train,clear,"The image features a desk with a variety of items on it. There are several books scattered across the desk, with some placed closer to the front and others towards the back. A computer mouse can be seen on the left side of the desk, and a keyboard is located towards the right side.",,0.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0233,VizWiz_val_00005597.jpg,val,text,"The image features a close-up view of a remote control sitting on a surface. The remote control has several buttons, including a menu button, a select button, and a volume button. The buttons are arranged in a way that makes it easy to navigate and use the remote control.",Info Tv Av Comp hdmi Menu/select VOL CH,0.25,4,1.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0234,VizWiz_val_00002189.jpg,val,blurry,a person is holding a red wire,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0235,VizWiz_train_00012680.jpg,train,low_light,"The image is a close-up of a red surface, possibly a wall or a piece of fabric. The red color dominates the scene, creating a vibrant and bold atmosphere. The focus of the image is on the red surface, with no other objects or details visible in the frame.",,1.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0236,VizWiz_train_00013451.jpg,train,low_light,"The image is a black and white photo of a person's hand. The hand is positioned towards the top left corner of the photo. The rest of the photo is dark, with no other visible objects or details.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0237,VizWiz_train_00013616.jpg,train,text,a bottle of calm & care 24h on a bed,Calm&care Gentle care 24 h help skin recover after shaving with provitamin B5 and witch hazel 0% alcohol 163g/250ml Anti-perspirant deodorant,0.5,4,1.0,4,2,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0238,VizWiz_train_00021439.jpg,train,blurry,"The image features a dining table with a cell phone placed on top of it. Next to the cell phone, there is a water bottle and a pack of cigarettes. A chair is positioned in front of the table, ready for someone to sit down and enjoy a meal or a conversation.",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0239,VizWiz_train_00022677.jpg,train,text,"The image features a dining table with a half-full cup of iced coffee sitting on top of it. The cup has a straw sticking out of it, indicating that someone has been enjoying their beverage. 
+
+Around the table, there are several chairs placed in various positions.","Dunkin Donuts, we got this",0.0,4,0.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0240,VizWiz_val_00007086.jpg,val,blurry,a person holding up a blue pill,,2.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0241,VizWiz_train_00014697.jpg,train,low_light,this is a black and white image,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0242,VizWiz_train_00012584.jpg,train,low_light,a black screen with a light shining on it,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0243,VizWiz_train_00014742.jpg,train,blurry,a close up of a person's jeans,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0244,VizWiz_train_00016383.jpg,train,clear,"The image features a close-up view of the back of a device, likely a computer or electronic device. On the device, there are several cables and connectors, including an HDMI port, a USB port, and an Ethernet port. 
+
+In addition to the cables, there are",,1.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0245,VizWiz_val_00003938.jpg,val,low_light,"The image depicts a close-up view of a piece of fabric, possibly a piece of clothing or a blanket. The fabric appears to be made of wool, giving it a soft and textured appearance. The focus of the image is on the fabric, with no other objects or distractions",,1.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0246,VizWiz_train_00019748.jpg,train,text,a box of campbell's real stock chicken,Cambella Real Stock Chicken,2.0,4,2.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0247,VizWiz_train_00018558.jpg,train,clear,a blue and green tape dispenser on a table,,1.5,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0248,VizWiz_train_00004770.jpg,train,clear,"The image features a living room with a flat-screen TV mounted on the wall. The TV is turned on, displaying a show with two women in the foreground. The room is furnished with two chairs, one located on the left side and the other on the right side of the room.",,0.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0249,VizWiz_train_00013451.jpg,train,low_light,a person is holding a cell phone in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0250,VizWiz_train_00003804.jpg,train,clear,a tv on a stand,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0251,VizWiz_train_00017339.jpg,train,clear,a couch with a pillow on it,,1.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0252,VizWiz_train_00000149.jpg,train,blurry,"The image features a close-up view of a cell phone battery. The cell phone battery is located in the center of the image, and it appears to be the main focus of the scene.
+
+In addition to the cell phone battery, there are a few other objects in the image. A pair of sciss",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0253,VizWiz_val_00005691.jpg,val,low_light,"The image is a black and white photo of a dark room. The room appears to be empty, with no visible objects or people. The focus of the image is on the darkness, creating a sense of mystery and intrigue. The black and white nature of the photo adds an artistic and timeless quality to the",,0.25,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0254,VizWiz_train_00021922.jpg,train,clear,a purple bat shaped light up sign on a table,,1.5,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0255,VizWiz_val_00007521.jpg,val,blurry,"The image features a wooden dining table with a laptop computer sitting on top of it. The laptop is open and turned on, displaying a pink screen. The table also has a potted plant nearby, adding a touch of greenery to the scene.
+
+In addition to the laptop, there are two key",,2.0,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0256,VizWiz_train_00004535.jpg,train,blurry,"In the image, a person is sitting on a bench with their legs crossed. They are wearing gray pants and a gray shirt. The person appears to be relaxed and enjoying their time on the bench.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0257,VizWiz_train_00022294.jpg,train,low_light,"The image depicts a cozy living room scene with a dog lying on the floor. The dog is positioned towards the left side of the room, occupying a significant portion of the floor space.
+
+In the room, there is a pink baby crib located towards the right side of the space",,2.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0258,VizWiz_val_00005171.jpg,val,text,a digital thermosta on a wall,"79 
+LUXPRO",1.5,4,0.25,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0259,VizWiz_train_00001450.jpg,train,clear,There is a tea kettle on a stove top,,0.5,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0260,VizWiz_val_00002615.jpg,val,text,a cd with the title 20 sons of love from the 70s,20 SON OF LO from the 70's,0.5,4,2.0,4,0,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0261,VizWiz_train_00022383.jpg,train,low_light,there is a person in a dark room,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0262,VizWiz_val_00005392.jpg,val,low_light,there is a plane flying in the sky,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0263,VizWiz_train_00019355.jpg,train,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The combination of the dark sky and the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0264,VizWiz_train_00022687.jpg,train,clear,a piece of paper with a hole in it,,1.5,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0265,VizWiz_train_00012584.jpg,train,low_light,"The image is a close-up view of a black background, possibly the night sky or a dark room. The background appears to be void of any objects or light sources, creating a sense of emptiness. The focus of the image is on the black background, with no other elements or distractions visible.",,2.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0266,VizWiz_val_00005944.jpg,val,blurry,"The image features a close-up view of a person's hand holding an empty plastic bottle. The bottle appears to be an orange Gatorade bottle. The person's hand occupies a significant portion of the image, with the bottle being the main focus.",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0267,VizWiz_train_00018111.jpg,train,text,"The image features a box of frozen chicken strips on a dining table. The box is open, revealing the chicken strips inside. The chicken strips appear to be cooked and ready to be eaten. 
+
+In addition to the chicken strips, there is a",Chicken Strips breaded outlettes uncooked Lanieres de poulet 1kg,0.0,4,1.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0268,VizWiz_val_00005944.jpg,val,blurry,a person is holding a bottle of water,,1.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0269,VizWiz_train_00002556.jpg,train,low_light,"The image is a close-up view of a cell phone screen. The screen displays a black background with a small white dot in the center. The white dot appears to be the focal point of the image, drawing attention to it. The rest of the screen remains dark, emphasizing the white dot as the main",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0270,VizWiz_val_00004333.jpg,val,text,an image of a book with a question on it,"Longitude Dominant plant species, distance from the equator, month of the year, prevailing winds, microorganisim, light, temperature",1.25,4,0.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0271,VizWiz_train_00013981.jpg,train,low_light,"The image depicts a room with a large flat-screen TV mounted on the wall. The TV is positioned towards the center of the room, and it appears to be the main focus of the space.
+
+In addition to the TV, there are two teddy bears in the room. One ted",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0272,VizWiz_train_00019074.jpg,train,text,"In the image, there is a person sitting on the floor with their legs crossed. They are holding a box containing a porcelain telephone set, which includes a phone and a clock. The person appears to be examining the contents of the box, possibly considering purchasing the telephone set.
+
+The","Porcelain Telephone Set with  Caller ID
+164120",1.0,4,1.0,4,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0273,VizWiz_train_00005015.jpg,train,low_light,"The image is a black and white photograph of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The photograph captures the beauty of the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0274,VizWiz_train_00014783.jpg,train,clear,"The image depicts a cloudy day in a residential area. There are two cars parked in front of a house, with one car closer to the left side of the scene and the other car further to the right. A person can be seen standing near the middle of the scene, possibly observing the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0275,VizWiz_val_00007086.jpg,val,blurry,"The image features a close-up view of a pill bottle, showcasing the pills inside. There are several pills visible in the bottle, arranged in various positions. The bottle appears to be made of plastic, and the pills are of different shapes and sizes. The focus of the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0276,VizWiz_train_00021883.jpg,train,blurry,a close up of a white sheet of paper,,0.5,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0277,VizWiz_train_00004728.jpg,train,clear,"In the image, a person is holding a small red circle in their hand. The circle appears to be made of rubber or a similar material. The person is standing in front of a dining table, which occupies a significant portion of the background.
+
+Additionally, there is a keyboard on the table",,0.5,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0278,VizWiz_val_00004341.jpg,val,text,"In the image, a person is holding a bottle of vitamins, specifically a bottle of Vitamin A palmitate. The person's hand is visible on the left side of the bottle, while the bottle itself occupies the majority of the right side of the image. The bottle","FREEDA
+SINCE 1928
+Pure VITAMIN A
+PALMITATE
+15,000 IU
+Vitamin Supplement
+250 TABLETS",2.0,4,1.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0279,VizWiz_train_00007894.jpg,train,clear,"The image features a pair of black dress shoes placed on a wooden floor. The shoes are positioned next to each other, with one shoe closer to the left side of the frame and the other shoe closer to the right side.
+
+In addition to the shoes, there is a person visible",,1.25,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0280,VizWiz_train_00010707.jpg,train,low_light,"The image is a black and white photo of the night sky. The sky is filled with stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. Overall, the photo captures the beauty and tranquility of",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0281,VizWiz_train_00005992.jpg,train,text,a can of coca cola sitting on a table,Coca cola,1.5,4,1.5,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0282,VizWiz_train_00019754.jpg,train,text,this is a picture of a bunny's cereal box,So good for so little look inside for money saving coupon on great banquet products Banquets,0.0,4,0.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0283,VizWiz_train_00018782.jpg,train,text,kirkland baby wipes on a table,Baby wipes unscented Ultra soft cloths 100 wipes,1.5,4,1.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0284,VizWiz_train_00005853.jpg,train,blurry,"The image features a close-up view of a piece of white paper. The paper appears to be wrinkled, possibly from being folded or crumpled. The focus of the image is on the wrinkles and texture of the paper, providing a detailed look at its surface.",,1.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0285,VizWiz_val_00007439.jpg,val,low_light,a yellow stuffed bird sitting on a desk,,1.5,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0286,VizWiz_train_00010460.jpg,train,blurry,a blurry image of a bag with a number on it,10,0.5,4,0.75,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0287,VizWiz_val_00005388.jpg,val,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered all over the sky, with some closer to the foreground and others further away, creating a sense of depth in the scene.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0288,VizWiz_train_00010445.jpg,train,clear,a salt shaker on a table,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0289,VizWiz_val_00007325.jpg,val,clear,"The image depicts a room with a white floor fan prominently placed in the middle of the floor. The fan appears to be turned on, creating a cool breeze in the room. 
+
+In addition to the fan, there are a few other items in the room. There is a chair",,2.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0290,VizWiz_train_00000136.jpg,train,text,a can of noodle crisp sitting on a table,Great Value Golden sweet whole kernel,0.0,4,0.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0291,VizWiz_train_00007117.jpg,train,blurry,it is a close up of a pink flower,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0292,VizWiz_train_00018775.jpg,train,low_light,"The image depicts a cozy bedroom scene with a bed positioned near a window. The window is adorned with white blinds, allowing natural light to enter the room. A cat can be seen resting on the bed, likely enjoying the warmth and comfort of the space.",,0.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0293,VizWiz_train_00006252.jpg,train,clear,a green t - shirt with a snowflake on it,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0294,VizWiz_train_00011015.jpg,train,clear,a cell phone is sitting on a bed,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0295,VizWiz_val_00001998.jpg,val,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The combination of the dark sky and the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0296,VizWiz_train_00020006.jpg,train,low_light,"The image features a close-up view of a person's hand, with a focus on the fingernails. The fingernails appear to be bitten or damaged, possibly due to nail-biting or some other form of self-inflicted harm. The person's hand",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0297,VizWiz_val_00002615.jpg,val,text,"The image features a close-up of a 20-Son of L.O. compact disc. The CD is placed on a carpeted surface, and it appears to be the main focus of the scene. There are no other objects or people visible in the image.",20 SON OF LO from the 70's,2.0,4,1.0,4,0,1.0,True,llava-hf/llava-1.5-7b-hf,False
+C0298,VizWiz_train_00011339.jpg,train,blurry,"In the image, a person is standing on a carpeted floor with their bare feet. The carpet has a patterned design, and the person's feet are positioned in the center of the carpet. The room appears to be dimly lit, creating a cozy atmosphere.",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0299,VizWiz_train_00006280.jpg,train,blurry,a close up of a clock,,0.5,4,0.0,1,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0300,VizWiz_train_00022942.jpg,train,clear,the legs of a person sitting on a couch,,2.0,4,,0,1,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0301,VizWiz_train_00000792.jpg,train,low_light,"In the image, there is a close-up view of a white plate on a table. On the plate, there is a chocolate donut with a bite taken out of it. The donut is placed in the center of the plate, and it appears to be the main focus of the scene.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0302,VizWiz_train_00001761.jpg,train,text,a bottle of ocean spray cranberry on a table,Oceanspray Cranberry juice cocktail original 100% vitamin C,2.0,4,1.0,4,2,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0303,VizWiz_train_00013408.jpg,train,blurry,a dog laying on the floor,,2.0,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0304,VizWiz_train_00022294.jpg,train,low_light,a dog is laying on the floor in front of a door,,1.75,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0305,VizWiz_val_00001483.jpg,val,text,the apple usb power adapter is in the box,USB power adapter,2.0,4,2.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0306,VizWiz_train_00008514.jpg,train,clear,a house with a radio tower in the middle of the street,,2.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0307,VizWiz_train_00012489.jpg,train,text,"The image showcases a delicious-looking hamburger with lettuce, tomato, and cheese, placed on a dining table. The hamburger is accompanied by a sandwich, making for a mouth-watering meal. 
+
+In addition to the main dish, there are",Over $40 burger king food choice burger,0.5,4,0.0,4,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0308,VizWiz_val_00006128.jpg,val,clear,a drum set is sitting on a table in a room,,0.5,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0309,VizWiz_train_00002760.jpg,train,low_light,"In the image, a person is lying down on a couch, with their arm resting on a pillow. The person is wearing a blue shirt and appears to be relaxed and comfortable. The couch occupies a significant portion of the scene, extending from the left to the right side of the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0310,VizWiz_train_00004495.jpg,train,text,a can of cafe's bustel cafe espresso,Cafe Bustel Cafe Espresso,2.0,4,2.0,4,0,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0311,VizWiz_val_00006128.jpg,val,clear,"The image features a drum set with two drums and a cymbal. One of the drums is positioned on the left side of the set, while the other is on the right side. The cymbal is located in the middle of the set. The drum set is placed on a surface, possibly a table",,0.75,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0312,VizWiz_train_00007948.jpg,train,blurry,a green blurry background,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0313,VizWiz_train_00014682.jpg,train,blurry,a person holding a can of coca cola,,0.0,4,,0,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0314,VizWiz_val_00006632.jpg,val,low_light,"The image is a close-up of a brown wall, possibly in a dimly lit room. The wall appears to be made of bricks, giving it a textured and rustic appearance. The focus of the image is on the wall, with no other objects or people visible in the frame.",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0315,VizWiz_val_00006503.jpg,val,blurry,a close up of a white teddy bear in a teddy bear hat,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0316,VizWiz_train_00008276.jpg,train,clear,"The image features a close-up view of a silver remote control with multiple buttons. The remote control is placed on top of a pair of blue jeans. The buttons on the remote control are arranged in a circular pattern, making it easy to identify and use.",,1.5,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0317,VizWiz_train_00001450.jpg,train,clear,"The image depicts a kitchen counter with various items on it. There is a teapot situated on the right side of the counter, and a knife set is placed on the left side. Additionally, there are two cups, one near the center of the counter and the other towards the right side.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0318,VizWiz_val_00000002.jpg,val,text,"The image features a snow-covered street with two dogs standing next to each other. One dog is positioned closer to the left side of the scene, while the other dog is located more towards the right side.
+
+In the background, there is a house with a chimney visible. Additionally, there are","Dog years, due date Aug 06 2007 Nov 16 2007",2.0,4,0.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0319,VizWiz_train_00007948.jpg,train,blurry,"The image features a close-up view of a bright green surface, possibly a wall or a piece of fabric. The green hue dominates the scene, creating a vibrant and lively atmosphere. The focus of the image is on the green surface, making it the main subject of the photo.",,2.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0320,VizWiz_train_00004238.jpg,train,clear,"The image is a close-up of a red fabric with white snowflakes printed on it. The snowflakes are scattered all over the fabric, creating a visually appealing pattern. The red background of the fabric adds a vibrant touch to the overall design.",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0321,VizWiz_train_00000136.jpg,train,text,"The image features a person holding a can of cereal in their hand. The can of cereal is prominently displayed in the foreground, occupying a significant portion of the scene. 
+
+In the background, there is a couch and a chair, creating a cozy living space.",Great Value Golden sweet whole kernel,0.0,4,0.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0322,VizWiz_train_00023050.jpg,train,blurry,a pink background with a white background,,1.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0323,VizWiz_train_00009867.jpg,train,blurry,a close up of a drum set with a light shining on it,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0324,VizWiz_train_00009162.jpg,train,clear,a black iphone sitting on a table,,1.75,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0325,VizWiz_train_00012489.jpg,train,text,king's choice burger coupon - king's choice burger coupon - king's choice burger coupon - king's choice burger coupon - king's choice burger coupon - king's choice burger coupon - king's,Over $40 burger king food choice burger,0.0,4,0.75,4,0,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0326,VizWiz_train_00003479.jpg,train,blurry,"The image depicts a cozy bedroom scene with a bed in the center of the room. The bed is covered with a brown blanket, giving it a warm and inviting appearance. The room is dimly lit, creating a relaxing atmosphere.
+
+In addition to the bed, there is a",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0327,VizWiz_train_00005163.jpg,train,low_light,a man is riding a skateboard in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0328,VizWiz_train_00015158.jpg,train,clear,"The image features a wooden fence post with a caterpillar resting on it. The caterpillar appears to be in the process of transforming into a butterfly, as it is surrounded by a cocoon-like structure. 
+
+In addition to the caterp",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0329,VizWiz_train_00000264.jpg,train,blurry,"The image features a close-up view of a knitted or crocheted item, possibly a sweater or a piece of clothing. The knitting or crocheting appears to be intricate and detailed, showcasing the craftsmanship involved in creating the item. The focus is on the",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0330,VizWiz_train_00009837.jpg,train,text,a flyer for a restaurant,"107 S. Germantown Parkway
+Memphis, TN 38018
+Cash Bar: 5:30 pm
+Dinner: 6:30 pm",0.0,4,0.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0331,VizWiz_train_00020431.jpg,train,blurry,a black dress with flowers on it,,1.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0332,VizWiz_train_00000025.jpg,train,blurry,a dog with a frisbee in its mouth,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0333,VizWiz_train_00023278.jpg,train,clear,there is a house in the middle of a forest,,1.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0334,VizWiz_train_00002550.jpg,train,clear,a black purse on a desk,,1.0,4,,0,1,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0335,VizWiz_train_00021012.jpg,train,blurry,a little girl is holding a little girl's hand,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0336,VizWiz_train_00000867.jpg,train,blurry,a person's hand holding a small brown nut,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0337,VizWiz_val_00002235.jpg,val,low_light,"The image is a black and white photograph of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The combination of the dark sky and the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0338,VizWiz_train_00018519.jpg,train,blurry,a plant in a pot on top of a refrigerator,,0.5,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0339,VizWiz_train_00014682.jpg,train,blurry,"The image features a close-up view of a person's hand holding a can of Diet Coke. The hand is positioned on the left side of the image, and the can is prominently displayed in the center of the frame. The focus of the image is on the person's hand and the",,1.0,4,2.0,1,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0340,VizWiz_val_00005722.jpg,val,low_light,"The image is a black and white photo of a night sky. The sky is filled with stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The image captures the beauty and tranquility of the night sky",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0341,VizWiz_train_00006303.jpg,train,low_light,a man is riding a skateboard in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0342,VizWiz_val_00007254.jpg,val,text,a barcode scanner is sitting on a table,Non-negotiable,1.75,4,0.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0343,VizWiz_train_00021699.jpg,train,text,a person is holding a book,"Everyone in our family loves pizza: for dinner lunch , snacks, parties....",0.0,4,0.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0344,VizWiz_train_00009837.jpg,train,text,"The image features a menu for the Butcher Shop in Memphis, Tennessee. The menu is placed on a dining table, and it appears to be an invitation for a cash dinner. The invitation is addressed to a specific guest, indicating a personal touch to the event.
+
+The menu","107 S. Germantown Parkway
+Memphis, TN 38018
+Cash Bar: 5:30 pm
+Dinner: 6:30 pm",1.0,4,1.5,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0345,VizWiz_train_00007125.jpg,train,blurry,a shirt with green paint splatters on it,,1.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0346,VizWiz_val_00007325.jpg,val,clear,a fan sitting on a tiled floor,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0347,VizWiz_train_00020006.jpg,train,low_light,a person holding a cell phone in their hand,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0348,VizWiz_val_00001174.jpg,val,clear,there is a ceiling fan in a room,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0349,VizWiz_train_00019707.jpg,train,text,"The image features a close-up of a bottle of women's wellness pills on a pink carpet. The bottle is positioned in the center of the scene, with the carpet surrounding it. A person's hand can be seen in the top left corner of the image, possibly",Women's wellness,0.0,4,2.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0350,VizWiz_train_00006280.jpg,train,blurry,"The image features a close-up view of an electronic device, possibly a digital clock or a remote control. The device has a light shining on it, illuminating the buttons and controls. There are several buttons visible on the device, with some located towards the top and others towards the bottom. The focus of",,0.5,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0351,VizWiz_train_00012712.jpg,train,text,a refrigerator with a label on it,Refrigerator,2.0,4,0.25,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0352,VizWiz_train_00003221.jpg,train,blurry,a christmas tree with green lights,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0353,VizWiz_train_00007883.jpg,train,blurry,"The image is a close-up of a person's hand, with a green background. The person's hand is visible in the foreground, while the rest of their body is obscured by the green background. The focus of the image is on the person's hand, making it the main subject.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0354,VizWiz_train_00019074.jpg,train,text,A man is sitting on the floor with a porcelain telephone set,"Porcelain Telephone Set with  Caller ID
+164120",1.0,4,1.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0355,VizWiz_train_00020435.jpg,train,blurry,a small bug on the floor of a room,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0356,VizWiz_train_00018519.jpg,train,blurry,"The image features a potted plant sitting on top of a toilet in a bathroom. The plant has green leaves and is placed in a white bowl, which serves as a planter. The toilet is located on the left side of the image, with the plant occupying the majority of the",,0.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0357,VizWiz_val_00003393.jpg,val,blurry,"The image features a close-up view of a person's hand. The hand is resting on a surface, possibly a table or a countertop. The focus of the image is on the palm of the hand and the surrounding area, providing a detailed look at the skin and texture of the hand.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0358,VizWiz_train_00018694.jpg,train,text,a bottle of hand soap on a carpet,Soft soap cocnut and warm ginger hand soap refill,2.0,4,1.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0359,VizWiz_train_00002760.jpg,train,low_light,a person laying on a bed with a cell phone,,1.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0360,VizWiz_val_00006632.jpg,val,low_light,a person is sitting in front of a wall in a dark room,,0.25,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0361,VizWiz_train_00018069.jpg,train,text,a jar of hot and spicy claussen spears,"HOT & SPICY
+clauassen
+from vine to jar in 8 days
+SPEARS",2.0,4,1.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0362,VizWiz_train_00023367.jpg,train,low_light,"The image depicts a man sitting on a bus, looking out the window. He is wearing a baseball cap and appears to be enjoying his time on the bus. The bus occupies a significant portion of the scene, stretching from the left to the right side of the image.
+
+There are",,2.0,4,,0,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0363,VizWiz_train_00003620.jpg,train,clear,"The image features a wooden dining table with a variety of items on it. There are two bottles, one red and the other yellow, placed on the table. Additionally, there are two bowls, one white and the other red, positioned on the table as well.
+
+In the background, there",,0.5,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0364,VizWiz_train_00017552.jpg,train,blurry,a close up of a blue stripe on a white wall,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0365,VizWiz_val_00007439.jpg,val,low_light,"The image features a yellow stuffed toy bird sitting on a wooden table. The bird is positioned in the center of the scene, occupying a significant portion of the table's surface.
+
+In addition to the stuffed bird, there are two keyboards visible in the scene. One keyboard is located",,0.5,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0366,VizWiz_train_00019707.jpg,train,text,a woman's foot on a carpet with a bottle of women's wellness,Women's wellness,1.5,4,2.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0367,VizWiz_train_00022107.jpg,train,text,"The image features a white computer keyboard sitting on a desk. Next to the keyboard, there is a bag, possibly a plastic bag or a shopping bag. A computer mouse can be seen on the left side of the keyboard, and a cell phone is placed on the right side of the keyboard.","RAM MOUNTS
+WWW.RAM MOUNT.COM",0.0,4,0.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0368,VizWiz_train_00002556.jpg,train,low_light,a laptop screen with a light shining on it,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0369,VizWiz_train_00012212.jpg,train,low_light,the shadow of a tv on a wall,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0370,VizWiz_val_00007716.jpg,val,clear,a tv is on in a living room,,1.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0371,VizWiz_val_00001992.jpg,val,blurry,"The image depicts a laptop computer screen with a blue background. The laptop is turned on, and there is a window open on the screen. The laptop's keyboard can be seen at the bottom of the screen. The laptop is placed on a desk, and a mouse is located near the right side of",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0372,VizWiz_train_00022098.jpg,train,text,close up of a remote control on a wooden table,FM/AM TAPE 1 PHONE TAPE 2 SURROUND ON/OFF DISPLAY MOOD,2.0,4,0.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0373,VizWiz_val_00005597.jpg,val,text,a person is holding a remote control in front of a jersey,Info Tv Av Comp hdmi Menu/select VOL CH,2.0,4,0.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0374,VizWiz_train_00003204.jpg,train,low_light,a man is sitting in front of a red wall,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0375,VizWiz_train_00004905.jpg,train,text,a laptop computer is displaying the omobo website,oMoby Test IQ Engines image recognition platform,0.25,4,1.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0376,VizWiz_train_00006731.jpg,train,text,a green key is sitting on top of a piece of paper,Santos,0.5,4,0.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0377,VizWiz_train_00014249.jpg,train,clear,a person is holding a cell phone,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0378,VizWiz_train_00007328.jpg,train,text,"The image features a red Coca-Cola can sitting on a table. The can is prominently placed in the center of the scene, occupying a significant portion of the table's surface. The table appears to be a dining table, and the can seems to be the main focus of the image",Coca Cola,2.0,4,2.0,4,2,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0379,VizWiz_train_00012822.jpg,train,low_light,"The image is a black and white photo of the night sky. The sky is filled with stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. Overall, the photo captures the beauty and tranquility of",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0380,VizWiz_train_00020505.jpg,train,blurry,"The image features a wooden desk with various items on it. On the desk, there is a suitcase, a handbag, and a couple of books. The suitcase is positioned towards the right side of the desk, while the handbag is located closer to the center. The books are placed",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0381,VizWiz_train_00010173.jpg,train,blurry,"The image features a close-up view of an open can of soda. The can is positioned in the center of the frame, and the top of the can is visible. The soda appears to be in the process of being poured into a glass. The scene captures the action of pouring the",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0382,VizWiz_train_00011636.jpg,train,blurry,a man sitting on a bench next to a tree,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0383,VizWiz_train_00022299.jpg,train,low_light,"The image is a black and white photo of a night scene. In the foreground, there is a car with its headlights on, illuminating the dark surroundings. The car is positioned towards the left side of the image.
+
+In addition to the car, there are two people visible",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0384,VizWiz_train_00002404.jpg,train,text,a person is holding a laptop with windows 7 on it,Windows 7,2.0,4,2.0,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0385,VizWiz_train_00004905.jpg,train,text,"The image is a close-up view of a laptop computer keyboard. The keyboard features a combination of black and white keys, making it visually appealing. The laptop is placed on a desk, ready for use. The focus of the image is on the keyboard, showcasing its design and layout.",oMoby Test IQ Engines image recognition platform,0.25,4,0.0,4,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0386,VizWiz_train_00001630.jpg,train,low_light,this is a black and white image of a plane flying in the sky,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0387,VizWiz_train_00011649.jpg,train,text,a can of orange juice sitting on a counter,"Picked sand Packed at the Peak of Ripeness
+SERVING SUGGESTIONS
+Delicious over ice cream or frozen yogurt
+Great as a topping over waffles or pancakes.
+Enjoy as a nutritious snack anytime",0.0,4,0.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0388,VizWiz_train_00020253.jpg,train,blurry,"The image features a close-up view of a blue fabric, possibly denim, with a white speck on it. The blue fabric appears to be a piece of clothing, such as a jean jacket or a pair of jeans. The white speck stands out against the blue background, drawing attention",,2.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0389,VizWiz_train_00007899.jpg,train,blurry,a blurry image of a table with a lot of things on it,,1.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0390,VizWiz_train_00000126.jpg,train,blurry,a close up of a person's hand,,0.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0391,VizWiz_train_00017802.jpg,train,clear,a view of the grand canyon from the edge of a cliff,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0392,VizWiz_train_00022894.jpg,train,low_light,a man is riding a horse in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0393,VizWiz_train_00023176.jpg,train,text,a package of chicken in a plastic container,"Special Recipe Birds eye Bake to perfection  2 haddock fillets with white wine, whole grain mustard and spring oion sauce",0.0,4,0.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0394,VizWiz_train_00004349.jpg,train,clear,"The image depicts a cozy living room with various pieces of furniture. There are two chairs in the room, one positioned closer to the left side and the other on the right side. A dining table can be seen in the middle of the room, accompanied by a bowl placed on it",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0395,VizWiz_train_00013833.jpg,train,clear,a coffee mug with a lid sitting on a counter,,0.0,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0396,VizWiz_train_00010774.jpg,train,clear,"The image features a delicious chocolate chip cookie sitting on top of a white napkin. The cookie is placed in the center of the napkin, making it the focal point of the scene. The napkin is placed on a dining table, creating a cozy and inviting atmosphere for enjoying",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0397,VizWiz_train_00003221.jpg,train,blurry,"The image features a beautifully decorated Christmas tree, adorned with glowing green lights. The tree is positioned in the center of the scene, drawing attention to its festive appearance. 
+
+In addition to the tree, there is a couch located on the left side of the image,",,1.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0398,VizWiz_train_00016172.jpg,train,clear,"The image depicts an outdoor patio with a red umbrella covering a dining table. The umbrella is positioned in the center of the patio, providing shade and protection from the elements. 
+
+There are several chairs placed around the dining table, creating a comfortable",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0399,VizWiz_train_00003204.jpg,train,low_light,"The image is a close-up of a red wall, possibly in a dark room. The wall appears to be made of bricks, giving it a textured appearance. The red hue of the wall creates a striking contrast against the darkness of the room.",,1.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0400,VizWiz_train_00001171.jpg,train,low_light,a can of corn with a wire attached to it,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0401,VizWiz_train_00021168.jpg,train,low_light,this is a black and white image of a person riding a skateboard in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0402,VizWiz_val_00005128.jpg,val,clear,"The image features a small glass candle holder with a candle inside. The candle is lit, creating a warm and inviting atmosphere. The candle holder is placed on a dining table, which occupies a significant portion of the scene.
+
+In addition to the candle holder, there is a",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0403,VizWiz_val_00002835.jpg,val,low_light,"The image depicts a close-up view of a person's hand holding a cell phone. The hand is prominently visible in the foreground, while the cell phone can be seen in the background. The focus of the image is on the person's hand and the device they are holding.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0404,VizWiz_train_00021777.jpg,train,blurry,"The image is a black and white photo of a bright sun shining through a window. The sunlight illuminates the room, creating a warm and inviting atmosphere. The photo captures the sun's rays as they pass through the window, creating a visually striking scene.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0405,VizWiz_val_00000057.jpg,val,text,"The image features a bed with a Texas pillow prominently placed on it. The pillow has the word ""Texas"" written on it, showcasing the owner's love for the state. The bed is situated in a room with a blue wall, adding a touch of color to the space.",Texas,1.0,4,2.0,4,2,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0406,VizWiz_train_00010173.jpg,train,blurry,a can of soda with a straw in it,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0407,VizWiz_train_00018434.jpg,train,blurry,a white iphone sitting on top of a keyboard,,0.5,4,,0,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0408,VizWiz_train_00006727.jpg,train,low_light,"The image depicts a cozy living room scene with a group of dolls sitting on a window sill. There are four dolls in total, with one on the left side, two in the middle, and one on the right side of the window. 
+
+In addition to the dolls,",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0409,VizWiz_train_00017670.jpg,train,blurry,"The image depicts a cozy living room filled with various pieces of furniture. There is a couch positioned towards the left side of the room, and another couch is located towards the right side. A chair can be seen in the middle of the room, and a TV is mounted on the wall",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0410,VizWiz_train_00014644.jpg,train,clear,"The image depicts a lush green garden filled with a variety of green plants, including bushes and trees. The plants are spread throughout the scene, with some closer to the foreground and others further in the background. The garden appears to be well-maintained and thriving, showcasing",,1.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0411,VizWiz_train_00023218.jpg,train,clear,"The image features a large, fluffy dog standing on a set of cement stairs. The dog appears to be walking up the stairs, giving the impression that it is climbing the steps. 
+
+In the background, there are two potted plants, one on the left side and the other",,1.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0412,VizWiz_val_00006885.jpg,val,blurry,"The image features a woman with long, curly hair. She is wearing a white shirt, and her hair appears to be in a ponytail. The woman's hair is blowing in the wind, adding a dynamic element to the scene. The focus of the image is on the woman's",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0413,VizWiz_val_00003248.jpg,val,low_light,a man is flying a kite in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0414,VizWiz_val_00005670.jpg,val,clear,"The image features a door with a gold doorknob on it. The doorknob is positioned towards the left side of the door. The door appears to be made of wood, giving it a warm and classic appearance. The focus of the image is on the doorknob, highlighting its",,0.75,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0415,VizWiz_val_00001681.jpg,val,clear,a bulldog laying on the floor,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0416,VizWiz_train_00016651.jpg,train,clear,a bowl of sliced melon sitting on a table,,1.25,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0417,VizWiz_val_00002189.jpg,val,blurry,"In the image, a person is sitting on a chair with their pants pulled down, exposing their underwear. The person is holding a red electrical cord in their hand. The scene appears to be casual and relaxed, as the individual seems to be enjoying their time.",,0.25,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0418,VizWiz_train_00021699.jpg,train,text,"The image features a close-up view of a food product packaging, showcasing the nutritional information and ingredients of the product. The packaging includes details such as the serving size, the number of servings per container, and the nutritional facts like the amount of calories, fat","Everyone in our family loves pizza: for dinner lunch , snacks, parties....",0.0,4,0.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0419,VizWiz_train_00007506.jpg,train,clear,a person holding a pair of black and white shoes,,1.75,4,,0,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0420,VizWiz_train_00005992.jpg,train,text,"The image features a red and white Coca-Cola bottle sitting on a wooden table. The bottle is prominently placed in the center of the scene, occupying a significant portion of the image. The table appears to be made of wood, providing a natural and rustic backdrop for the bott",Coca cola,2.0,4,2.0,4,0,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0421,VizWiz_train_00013833.jpg,train,clear,"The image features a kitchen counter with a purple water bottle prominently placed on it. The bottle has a floral design, adding a touch of color to the scene. There are also a few books scattered around the counter, possibly cookbooks or other reading materials.
+
+In the background, a",,0.0,4,,0,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0422,VizWiz_train_00012212.jpg,train,low_light,"The image depicts a dark room with a refrigerator on the left side and a TV on the right side. In the middle of the room, there is a shadowy figure, possibly a person or an object, casting a shadow on the wall. The room appears to be dimly lit, creating",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0423,VizWiz_val_00003393.jpg,val,blurry,a close up of a person's finger,,0.5,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0424,VizWiz_train_00011015.jpg,train,clear,"The image features a bed with a cell phone placed on top of it. The cell phone is positioned towards the right side of the bed. The bed is covered with a blanket, giving the scene a cozy and comfortable atmosphere.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0425,VizWiz_train_00016174.jpg,train,clear,"In the image, there is a close-up view of a white cup, possibly a coffee mug or a creamer. The cup appears to be spinning, creating a sense of motion in the scene. A person's hand can be seen in the upper part of the image, possibly holding the cup or",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0426,VizWiz_val_00005722.jpg,val,low_light,there is a plane flying in the sky,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0427,VizWiz_train_00000149.jpg,train,blurry,a battery in a metal holder,,1.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0428,VizWiz_train_00016451.jpg,train,text,a bottle of orange juice on a bed,"ORIGINAL
+FROZEN CONCENTRATED
+ORANGE JUICE
+12 FL OZ (355 mL)
+100% ORANGE JUICE",0.5,4,1.0,4,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0429,VizWiz_val_00005063.jpg,val,clear,a black pen on a white surface,,1.75,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0430,VizWiz_train_00022894.jpg,train,low_light,"The image is a black and white photo of the night sky. The sky is filled with stars, creating a beautiful and serene atmosphere. The photo captures the vastness of the night sky and the beauty of the celestial bodies.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0431,VizWiz_train_00010399.jpg,train,text,"The image features a children's book titled ""A Wild Ride"" by Louis Anderson. The book is placed on a surface, possibly a table or a shelf. The cover of the book showcases a dragon, adding to the excitement of the story. The book appears to be a part of a series",A wild ride Louis Anderson,2.0,4,2.0,4,2,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0432,VizWiz_val_00004765.jpg,val,low_light,there is a light shining in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0433,VizWiz_train_00001064.jpg,train,clear,a person is standing next to a heater,,0.5,4,,0,1,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0434,VizWiz_train_00021922.jpg,train,clear,"The image features a purple bat-shaped light on a dining table. The light is positioned towards the left side of the table. Beside the light, there is a bag of nuts placed on the table, adding a touch of color to the scene. The combination of the bat-shaped",,1.25,4,0.0,1,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0435,VizWiz_train_00006727.jpg,train,low_light,three teddy bears sitting on a window sill,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0436,VizWiz_train_00019754.jpg,train,text,"The image features a close-up view of the back of a box containing a variety of food items. The box is filled with different types of food, such as a sandwich, a cake, and a bowl. The sandwich is placed towards the left side of the box, while the cake is",So good for so little look inside for money saving coupon on great banquet products Banquets,0.5,4,0.0,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0437,VizWiz_train_00004728.jpg,train,clear,a person is holding a red dot in their hand,,0.0,4,,0,0,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0438,VizWiz_val_00005587.jpg,val,low_light,"The image is a black and white photo of a night sky. The sky is filled with stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. Overall, the photo captures the beauty of the night sky and",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0439,VizWiz_train_00023218.jpg,train,clear,bernese mountain dog on the stairs,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0440,VizWiz_train_00013076.jpg,train,clear,"The image features a black pen sitting on top of a piece of lined paper. The pen is positioned towards the right side of the paper. The paper appears to be a part of a notebook, and it is placed on a desk. The desk occupies a significant portion of the image, extending",,1.0,4,,0,1,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0441,VizWiz_train_00023129.jpg,train,clear,a small brass ring with a chain attached to it,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0442,VizWiz_train_00005561.jpg,train,blurry,a person is sitting on a bench,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0443,VizWiz_train_00010399.jpg,train,text,a book with the title a wild ride,A wild ride Louis Anderson,2.0,4,1.0,4,2,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0444,VizWiz_train_00014353.jpg,train,low_light,"The image is a close-up of a bottle of milk sitting on a table. The bottle is prominently displayed in the foreground, occupying a significant portion of the scene. The table appears to be a dining table, and the bottle is positioned near the center of the table.",,0.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0445,VizWiz_train_00017670.jpg,train,blurry,a woman is sitting in a living room,,0.0,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0446,VizWiz_train_00012220.jpg,train,low_light,"The image features a white plastic laundry basket with a mesh bottom. The basket is filled with various items, including a pair of scissors. The scissors are positioned in the middle of the basket, surrounded by other items. The basket appears to be in a room, possibly a kitchen or",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0447,VizWiz_train_00015451.jpg,train,text,a package of savoury beef and peas on a wooden floor,Savory Beef Rissoles,2.0,4,1.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0448,VizWiz_val_00001466.jpg,val,low_light,"The image is a black and white photo of a dark room. In the room, there is a clock mounted on the wall. The clock is positioned near the top left corner of the image. The rest of the room appears to be empty, with no other objects or people visible in the scene.",,0.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0449,VizWiz_train_00017339.jpg,train,clear,"The image features a blue couch with two pillows on it. One of the pillows is placed on the left side of the couch, while the other pillow is situated on the right side. The couch is positioned in front of a wooden wall, creating a cozy and inviting atmosphere.",,1.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0450,VizWiz_val_00002698.jpg,val,clear,a cloudy sky over a residential area,,0.5,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0451,VizWiz_train_00015543.jpg,train,clear,There is a bag with a flower pattern on it,,0.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0452,VizWiz_train_00015873.jpg,train,blurry,"The image depicts a red car parked in a parking lot on a rainy day. The car's windshield is covered in raindrops, creating a visually captivating scene. The raindrops are scattered across the windshield, with some closer to the center",,0.5,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0453,VizWiz_train_00018119.jpg,train,text,"The image depicts a computer screen with a blue background. On the screen, there is a message asking the user to lock their computer. Below the message, there is a button labeled ""lock this computer."" The user can click on this button to secure their device.","Lock this computer
+Switch User
+Log off
+Change a password
+Start Task Manager
+Cancel
+Windows Vista Home Premium",0.0,4,0.75,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0454,VizWiz_train_00010445.jpg,train,clear,"The image features a wooden dining table with a salt shaker sitting on top of it. The salt shaker is made of glass and is filled with salt, ready for use. The table occupies the majority of the scene, with the salt shaker being the focal point.",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0455,VizWiz_val_00006541.jpg,val,clear,"The image depicts a spacious library filled with numerous bookshelves. The shelves are stocked with various books of different sizes and colors, creating a visually appealing scene. In addition to the bookshelves, there are several chairs placed throughout the library, providing seating",,2.0,4,,0,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0456,VizWiz_val_00001384.jpg,val,blurry,an image of a person in a blue shirt and a white shirt,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0457,VizWiz_train_00003391.jpg,train,low_light,a person holding a cell phone on a black background,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0458,VizWiz_train_00006338.jpg,train,text,a person is sitting on a person's leg holding a package,Mettalic SecureFit Mettablic bud Compagnon d' orielle a insertion fixe,0.0,4,0.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0459,VizWiz_train_00009162.jpg,train,clear,"The image features a cell phone placed on a wooden table. The cell phone is positioned in the center of the scene, with its screen facing the viewer. The table appears to be made of wood, giving the scene a warm and natural ambiance.",,1.5,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0460,VizWiz_train_00022107.jpg,train,text,a computer keyboard is sitting on a desk,"RAM MOUNTS
+WWW.RAM MOUNT.COM",2.0,4,0.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0461,VizWiz_train_00009037.jpg,train,clear,a bed in a room with curtains,,1.75,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0462,VizWiz_val_00001466.jpg,val,low_light,a dark screen with a clock on it,,0.0,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0463,VizWiz_train_00003447.jpg,train,clear,"In the image, a large brown dog is sitting on the floor next to a person wearing white pants. The dog appears to be sniffing the person's leg, possibly showing curiosity or affection. The scene takes place in a room with a carpeted floor, providing a comfortable environment for the dog",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0464,VizWiz_val_00004321.jpg,val,text,a computer screen with a question on it,"Determine the value of y. D0k(-7, y) - (14, -5) a. 1.25 b. 2.5 c. 5 d. 10",1.5,4,0.0,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0465,VizWiz_val_00002281.jpg,val,clear,a dog is sitting on a person's feet,,0.5,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0466,VizWiz_val_00003431.jpg,val,text,a toshiba laptop with the word toshiba on it,Toshiba leading innovation,0.0,4,1.0,4,2,1.0,True,Salesforce/blip2-flan-t5-xl,False
+C0467,VizWiz_val_00003248.jpg,val,low_light,"The image is a black and white photograph of the night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The photograph captures the beauty of the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0468,VizWiz_train_00007328.jpg,train,text,a can of coca cola sitting on a table,Coca Cola,2.0,4,1.5,4,2,2.0,True,Salesforce/blip2-flan-t5-xl,False
+C0469,VizWiz_train_00022383.jpg,train,low_light,"The image is a black and white photograph of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. The photograph captures the beauty of the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0470,VizWiz_train_00014697.jpg,train,low_light,"The image is a black and white photo of a dark room. The room appears to be empty, with no people or objects visible. The focus of the photo is on the darkness of the room, creating a sense of mystery and intrigue. The black and white nature of the image adds a timeless quality to the",,1.0,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0471,VizWiz_train_00018119.jpg,train,text,windows vista home premium,"Lock this computer
+Switch User
+Log off
+Change a password
+Start Task Manager
+Cancel
+Windows Vista Home Premium",1.25,4,0.75,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0472,VizWiz_val_00007254.jpg,val,text,"The image features a close-up view of a barcode on a piece of paper. The barcode appears to be non-negotiable, as indicated by the label on the paper. The paper is placed on a wooden table, which serves as the background of the scene. The focus of the image is on",Non-negotiable,1.75,4,2.0,4,2,2.0,True,llava-hf/llava-1.5-7b-hf,False
+C0473,VizWiz_train_00004828.jpg,train,clear,close up of a ball of black yarn,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0474,VizWiz_train_00022027.jpg,train,low_light,"The image is a close-up of a cell phone placed on top of a magazine. The cell phone is positioned in the center of the scene, while the magazine is located on the left side of the image. The focus of the image is on the cell phone and the magazine, creating a sense of depth and",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0475,VizWiz_val_00004765.jpg,val,low_light,"The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a captivating and serene atmosphere. The stars are scattered throughout the scene, with some closer to the foreground and others further in the background. Overall, the photo captures the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0476,VizWiz_train_00014249.jpg,train,clear,"The image features a person wearing blue jeans and a blue sweater. The sweater appears to have a stain on it, giving it a worn and used appearance. The person's hand can be seen in the foreground, while the rest of their body is obscured by the sweater. The",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0477,VizWiz_train_00000806.jpg,train,clear,a black and white lighter with a spiral design,,2.0,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0478,VizWiz_val_00005128.jpg,val,clear,a candle on a table next to a laptop,,0.75,4,,0,1,,False,Salesforce/blip2-flan-t5-xl,False
+C0479,VizWiz_train_00011707.jpg,train,blurry,a close up of a teddy bear,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0480,VizWiz_train_00014644.jpg,train,clear,a plant with green leaves and white flowers,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0481,VizWiz_train_00001940.jpg,train,clear,"In the image, there is a striped shirt hanging on a rack, with a tie hanging out of it. The tie appears to be in the process of falling out of the shirt. The shirt is positioned on the left side of the image, while the tie is on the right",,0.0,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0482,VizWiz_train_00022286.jpg,train,blurry,a person holding a bottle of perfume,,1.75,4,,0,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0483,VizWiz_train_00020435.jpg,train,blurry,"The image features a close-up view of a spider on a wall. The spider is positioned in the center of the image, with its legs and body clearly visible. The wall behind the spider appears to be white, providing a contrasting background for the spider's presence.",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0484,VizWiz_val_00007019.jpg,val,low_light,a person is riding a skateboard in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0485,VizWiz_val_00002281.jpg,val,clear,"In the image, there is a large brown dog standing on a carpeted floor. The dog appears to be sleeping or resting, with its eyes closed. The dog is positioned in the center of the scene, taking up a significant portion of the image.
+
+There are two people in the scene",,1.25,4,,0,1,,False,llava-hf/llava-1.5-7b-hf,False
+C0486,VizWiz_train_00019355.jpg,train,low_light,a black background with a light shining on it,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0487,VizWiz_train_00018069.jpg,train,text,"The image features a close-up view of a jar filled with pickles. The jar is placed on a dining table, occupying a significant portion of the table's surface. The pickles inside the jar appear fresh and ready to be enjoyed.","HOT & SPICY
+clauassen
+from vine to jar in 8 days
+SPEARS",1.5,4,0.0,4,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0488,VizWiz_val_00004333.jpg,val,text,"The image is a close-up of a textbook page, focusing on a section related to microorganisms. The textbook is open to a page that discusses microorganisms, including bacteria, fungi, and viruses. The page is filled with information about these microorganisms, including","Longitude Dominant plant species, distance from the equator, month of the year, prevailing winds, microorganisim, light, temperature",0.5,4,0.75,4,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0489,VizWiz_train_00021439.jpg,train,blurry,a blue table with a bottle of water and a cell phone,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0490,VizWiz_train_00000126.jpg,train,blurry,"In the image, there is a close-up view of a person's fingernail. The fingernail appears to be painted yellow, and it is located on the left side of the image. The rest of the image is blurry, focusing on the fingernail as the",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False
+C0491,VizWiz_train_00012358.jpg,train,low_light,a plane flying in the dark,,0.0,4,,0,0,,False,Salesforce/blip2-flan-t5-xl,False
+C0492,VizWiz_train_00007010.jpg,train,blurry,a chair in a room with a bed,,1.5,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0493,VizWiz_train_00000351.jpg,train,text,a carton of almond milk sitting on a counter,"Soy free, Lacyose free Unsweetened.  All natural Blue diamond Almonds. Almond Breese",2.0,4,0.75,4,2,0.0,True,Salesforce/blip2-flan-t5-xl,False
+C0494,VizWiz_train_00019572.jpg,train,clear,a white iphone is sitting on a bed,,2.0,4,,0,2,,False,Salesforce/blip2-flan-t5-xl,False
+C0495,VizWiz_train_00015543.jpg,train,clear,"The image features a vibrant floral print on a piece of clothing, possibly a shirt or a dress. The floral pattern is predominantly pink, with other colors such as blue, yellow, and green also present in the design. The clothing item is placed on a dining table",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0496,VizWiz_train_00011636.jpg,train,blurry,"The image depicts a lush green tree filled with green leaves. The tree appears to be thriving and healthy, with a dense canopy of leaves covering its branches. The tree's foliage extends from the top to the bottom of the frame, showcasing its vibrant and",,2.0,4,,0,2,,False,llava-hf/llava-1.5-7b-hf,False
+C0497,VizWiz_train_00010460.jpg,train,blurry,"The image depicts a person riding a bicycle on a sidewalk. The bicycle is positioned towards the left side of the scene, with the rider seated on it. The person appears to be wearing a backpack, which is visible on their back.
+
+In the",10,0.0,4,0.0,4,0,1.0,True,llava-hf/llava-1.5-7b-hf,False
+C0498,VizWiz_train_00006309.jpg,train,clear,"The image features a close-up view of a wristwatch on a person's wrist. The watch is black in color and has a red second hand. The person's wrist is visible in the foreground, with the wristwatch being the main focus of the scene.",,2.0,4,0.0,1,2,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0499,VizWiz_train_00020757.jpg,train,clear,"The image features a black leather handbag placed on a granite countertop. The handbag is positioned in the center of the scene and appears to be the main focus of the image. 
+
+In addition to the handbag, there are two teddy bears in the scene. One teddy",,1.25,4,,0,0,0.0,True,llava-hf/llava-1.5-7b-hf,False
+C0500,VizWiz_train_00023129.jpg,train,clear,"In the image, there is a piece of jewelry sitting on a blue cloth. The piece of jewelry appears to be a gold or brass ring with a chain attached to it. The ring is positioned in the center of the cloth, drawing attention to its unique design. The blue cloth",,0.0,4,,0,0,,False,llava-hf/llava-1.5-7b-hf,False

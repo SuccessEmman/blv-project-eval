@@ -1,0 +1,15 @@
+,dimension,blurry,clear,low_light,text,All photos,BLIP-2,LLaVA-1.5
+Confident description of an unreadable photo,EH failure type,39,0.0,89.0,0,128,68.0,60.0
+Degenerate output,EH failure type,0,1.0,0.0,1,2,2.0,0.0
+Invented person or body part,EH failure type,11,15.0,2.0,8,36,15.0,21.0
+Invented setting or furniture,EH failure type,7,16.0,5.0,7,35,11.0,24.0
+Vague or over-hedged (3+ of 4 gave 1),EH failure type,8,13.0,1.0,3,25,13.0,12.0
+"Wrong colour, count or position",EH failure type,4,8.0,1.0,2,15,4.0,11.0
+Wrong or invented main object,EH failure type,11,7.0,2.0,9,29,17.0,12.0
+"Wrong text, brand or label",EH failure type,1,0.0,0.0,9,10,4.0,6.0
+All photos,EH failure type,81,60.0,100.0,39,280,,
+Text ignored,TR outcome,1,,,35,36,18.0,18.0
+Text misread,TR outcome,0,,,8,8,3.0,5.0
+Text partly read (key words missed),TR outcome,1,,,38,39,20.0,19.0
+Text read correctly,TR outcome,0,,,19,19,10.0,9.0
+All photos,TR outcome,2,,,100,102,,
