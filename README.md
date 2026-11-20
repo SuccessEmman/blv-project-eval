@@ -69,7 +69,7 @@ and PNG/PDF/SVG figures. No API calls, GPU, or model reruns are required.
 | ------------- | --------------------------------------------- | ------------- |
 | `sampling/`   | 250-image sample, text review, blur scores    | Ebere, Samuel |
 | `captioning/` | BLIP-2 + LLaVA notebooks, captions CSV        | Yvonne        |
-| `judge/`      | LLM-as-judge (EH/TR scoring)                  | Success       |
+| `judge/`      | LLM-as-judge (EH/TR scoring)                  | Success, Ebere |
 | `analysis/`   | Cohen's kappa, Spearman, CIDEr, Kendall's tau | Samuel, Ebere |
 | `demo/`       | Accessible web demo                           | Success       |
 | `report/`     | Report, slides, poster                        | Everyone      |
