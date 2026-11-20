@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "numerical_crosschecks": 61,
+  "human_reviews": 2000,
+  "captions": 500,
+  "images": 250,
+  "all_four_TR_applicable": 102,
+  "TR_applicability_disagreements": 7,
+  "cider_captions": 434,
+  "cider_images": 217,
+  "checks": [
+    "Unique caption IDs and reviewer records; canonical mapping checked during extraction.",
+    "All four reviewers per caption; valid EH/TR values; N/A preserved.",
+    "Human means and group counts independently verified.",
+    "Spearman and Kendall estimates and subset sizes recalculated.",
+    "All 48 kappa estimates independently verified with scikit-learn.",
+    "CIDEr input contains no human-rating columns."
+  ]
+}

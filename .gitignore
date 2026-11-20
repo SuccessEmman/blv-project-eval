@@ -1,15 +1,31 @@
 # secrets - NEVER upload
 .env
+.env.*
+!.env.example
+*.pem
+*.key
 
 # made on each person's own computer
 .venv/
 __pycache__/
+*.pyc
+.ipynb_checkpoints/
 .DS_Store
 
 # big data - lives in the shared Google Drive
 *.zip
 *.jpg
 images/
+raw_data/
+model_weights/
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.mp4
+*.mov
+*.MOV
 val.json
 train.json
 test.json

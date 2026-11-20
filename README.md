@@ -6,6 +6,63 @@ models the same way our rubric does?
 
 **Team:** Success, Yvonne, Ebere, Samuel
 
+## Start here: final human-score analysis
+
+The complete reproducible analysis is in
+[`analysis/blv_current_evaluation`](analysis/blv_current_evaluation/README.md).
+It includes the human-rating workbook, saved Gemini responses, CIDEr inputs,
+scripts, notebook and validated results. No API key or images are needed to
+reproduce the statistics.
+
+```bash
+cd analysis/blv_current_evaluation
+python -m pip install -r requirements.txt
+python refresh_analysis.py
+python prepare_deliverables.py
+```
+
+See [`results/summary.csv`](analysis/blv_current_evaluation/results/summary.csv)
+and [`results/validation.json`](analysis/blv_current_evaluation/results/validation.json).
+The primary judge–human Spearman correlations are EH **0.633686** and TR
+**0.714366**, using the packaged human scores. N/A is never scored as zero.
+
+| Work | Location |
+| --- | --- |
+| Image selection, text review and blur pilot | [`sampling/`](sampling/README.md) |
+| Original caption generations and settings | [`captioning/outputs/generated_captions/`](captioning/outputs/generated_captions/) |
+| Gemini 3.1 Flash-Lite experiment runner | [`analysis/blv_judge_run/`](analysis/blv_judge_run/README.md) |
+| Human agreement, Spearman, Kendall and model summaries | [`analysis/blv_current_evaluation/`](analysis/blv_current_evaluation/README.md) |
+| Report tables, figures and executable plotting notebook | [`analysis/reporting/`](analysis/reporting/README.md) |
+| Optional exploratory failure taxonomy | [`analysis/failure_taxonomy_exploratory/`](analysis/failure_taxonomy_exploratory/README.txt) |
+| Earlier stages and shared data locations | [`docs/DRIVE_DELIVERABLES_RUN_GUIDE.md`](docs/DRIVE_DELIVERABLES_RUN_GUIDE.md) |
+
+`judge/llm_judge.py` is the team's original judge implementation. The adapted
+runner above implements the experiment rubric and model; its obsolete
+`analyze()` entry point is disabled so that human comparisons use the final
+workbook. The sampling-history notebook retains historical paths and manual
+review steps; consult the run guide before replaying it.
+
+The report, poster and presentation remain in the team's
+[Drive deliverables](https://drive.google.com/drive/folders/19oK13yRaaIY4WaRHa359wiKn8d1-uusU).
+
+## Generate report tables and figures
+
+The [reporting notebook](analysis/reporting/BLV%20Report%20Tables%20and%20Figures.ipynb)
+and [reporting guide](analysis/reporting/README.md) reproduce 15 tables and 12 figures
+from the packaged human scores and saved statistics. The
+[figures](analysis/reporting/report_outputs/figures/) and
+[tables](analysis/reporting/report_outputs/tables/) are also committed for immediate use.
+
+From the repository root, with the project Python environment active:
+
+```bash
+python -m pip install -r analysis/reporting/requirements.txt
+python analysis/reporting/make_report.py
+```
+
+The script verifies 61 statistical estimates before exporting CSV/LaTeX tables
+and PNG/PDF/SVG figures. No API calls, GPU, or model reruns are required.
+
 ## Folders
 
 | Folder        | Contents                                      | Owner         |

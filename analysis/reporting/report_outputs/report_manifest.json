@@ -1,0 +1,198 @@
+{
+  "source_workbook": "analysis/blv_current_evaluation/BLV_Combined_Human_Ratings.xlsx",
+  "generator_sha256": "8b43792208fc9303c60d32433ce4bccfa4628a0cf5f2a411499ae82f35f0203e",
+  "input_sha256": {
+    "analysis/blv_current_evaluation/results/analysis_report.json": "7df07dc6373aab8722c99d36bafb08254cb1faa1ff805500e5e25dcd501db4b9",
+    "analysis/blv_current_evaluation/inputs/cider_scores.csv": "1485fc68afb84dd4680a6d112ffde4bb0b1fd3e56aac073a783eb54cd6295a84",
+    "analysis/blv_current_evaluation/inputs/experiment_config.json": "bf299cba600fd0fdf09cc2d51a54965a44db575a8a134cd286f32f9e55b124b7",
+    "analysis/blv_current_evaluation/inputs/judge_inputs.json": "a3b7fadf2a6f71446c65f82421fc8052858e642b090adba7b9a4db2c764b2a3e",
+    "analysis/blv_current_evaluation/inputs/judge_results.jsonl": "66d0e998e887a237b583c92467039a6baee7a4a5d703ccfb732c9ad63c66c058",
+    "analysis/blv_current_evaluation/inputs/model_lookup.json": "ce4d2381437f74381e9162cb2788418cd525230ba4ebe3dca9b2811f07a399fa",
+    "analysis/blv_current_evaluation/BLV_Combined_Human_Ratings.xlsx": "018e4e05e44499cbf0930e026b8a4bfc65fa25e03076acce979e98f09587c0e0",
+    "analysis/blv_current_evaluation/results/caption_level_main.csv": "2a808a99b895af83f79b17b70a1ba375a3aaa103331ef9d9c528802a4482749f",
+    "analysis/blv_current_evaluation/results/cider_matched_main.csv": "9defa4abf974f486095d720a55d0f332a023ca2e03eb15a246ac3c0bcff649fa",
+    "analysis/blv_current_evaluation/results/spearman_results.csv": "387d02f08a7cca3c2d8863c6e8f4f6a2dec3ea21dfc2e9ab258407142877c8d1",
+    "analysis/blv_current_evaluation/results/kendall_tau_results.csv": "bb3ecfd1b22df4b44ef51f423812dd02ac5f3cb7acdafe72bb6daf68355dc3c6",
+    "analysis/blv_current_evaluation/results/pairwise_kappa.csv": "3675a0696b251308219b2271f38aa1ede1773fb0a4a9a00f226293f010350158",
+    "analysis/blv_current_evaluation/results/human_reviews_main.json": "6208f468a7770baeb01faa7e1b6e2beebe18bb734f4b772f250fb3ba0b93c05f",
+    "sampling/outputs/final_sample/sample_manifest_with_blur.csv": "d4d7158ef863176efe2f14db79c6b84a7dce1ab9170a3cffdf543164b7a3608c",
+    "sampling/outputs/blur_calibration/pilot_with_blur_scores.csv": "c27220c01e6350046bfb685b92df7979e762be7fc69f9080f3a65555142c1b7c",
+    "sampling/outputs/blur_calibration/threshold_search.csv": "7a2a8ab0147fac9e5c05aab88e2e2a718373fb53f2025f789dd31620817514b3",
+    "sampling/outputs/blur_calibration/selected_threshold.json": "05db3242725f592163cec1b731bdc18be0e487f70ff13a28049bbcaf16249584",
+    "analysis/failure_taxonomy_exploratory/taxonomy_captions.csv": "351a0d12e35cce8a3d76d447fa3efb5dd591b0a6b6e7d128fd1015a1e6bf3dad"
+  },
+  "statistical_crosschecks": 61,
+  "mean_score_bootstrap_replicates": 2000,
+  "mean_score_seed_start": 20261119,
+  "existing_correlation_intervals": "Reused from final analysis (1,000 image-cluster replicates).",
+  "figures": [
+    {
+      "name": "01_workflow",
+      "title": "Study workflow and evaluation subsets",
+      "note": "The three analysis branches overlap. TR uses the common all-four-applicable subset, while CIDEr excludes images without valid reference captions. The separate blur pilot contains 200 different images.",
+      "section": "Main"
+    },
+    {
+      "name": "02_blur_analysis",
+      "title": "Blur scores, calibration and reserved evaluation",
+      "note": "Whiskers extend to 1.5 IQR; dots are outliers. The score axis is logarithmic and the threshold axis is symmetric-logarithmic. The fixed threshold achieved 77% calibration and 71% reserved-set balanced accuracy. It was not validated for low-light or text classification.",
+      "section": "Main"
+    },
+    {
+      "name": "03_human_scores",
+      "title": "Human scores across image conditions",
+      "note": "Dots are means of four-reviewer caption means; whiskers are image-bootstrap 95% intervals. TR contains 50 text-group images and one blurry image per model. There are no common-applicable TR observations in the clear or low-light groups. No confidence interval is shown for the single blurry image; its value is descriptive only.",
+      "section": "Main"
+    },
+    {
+      "name": "04_reviewer_agreement_unweighted",
+      "title": "Unweighted reviewer agreement",
+      "note": "Unweighted Cohen kappa for each reviewer pair. Mirrored cells repeat the same six pairs; diagonal cells are omitted. Both panels use a fixed 0\u20131 colour scale. TR is pairwise-applicable score agreement. The underlying table preserves full precision.",
+      "section": "Main"
+    },
+    {
+      "name": "05_reviewer_agreement_linear_weighted",
+      "title": "Linear-weighted reviewer agreement",
+      "note": "Linear-weighted Cohen kappa for each reviewer pair. Mirrored cells repeat the same six pairs; diagonal cells are omitted. Both panels use a fixed 0\u20131 colour scale. TR is pairwise-applicable score agreement. The underlying table preserves full precision.",
+      "section": "Appendix"
+    },
+    {
+      "name": "06_score_distributions",
+      "title": "Human rating distributions",
+      "note": "Each bar pools individual ratings for one model: 1,000 EH ratings or 204 common-subset TR ratings. N/A is excluded from TR, never zero. These are individual-rating proportions, not rounded caption-mean scores.",
+      "section": "Appendix"
+    },
+    {
+      "name": "07_correlations",
+      "title": "Spearman and Kendall correlations",
+      "note": "Both panels show ranking associations on \u22121 to 1 scales, with saved image-cluster 95% intervals. Each n is the number of paired caption scores. Model-specific values are descriptive; differences between correlations are not a formal significance test.",
+      "section": "Main"
+    },
+    {
+      "name": "08_tr_applicability",
+      "title": "Human and judge text applicability",
+      "note": "All-four agreement determines the common human TR subset. This is a comparison of applicability judgments, not a correctness confusion matrix. N/A does not enter score correlations as zero.",
+      "section": "Appendix"
+    },
+    {
+      "name": "09_eh_sensitivity",
+      "title": "Generation-flag sensitivity",
+      "note": "The primary and sensitivity estimates use the same fixed judge responses and final human scores. Overlapping intervals are not a formal test of the difference.",
+      "section": "Appendix"
+    },
+    {
+      "name": "10_judge_score_pairs",
+      "title": "Human and judge score pairs",
+      "note": "Each circle represents a score combination; area is proportional to the number of captions. Labels show counts of at least five. The diagonal indicates equal numeric scores and is not a fitted regression line.",
+      "section": "Appendix"
+    },
+    {
+      "name": "11_cider_human_scores",
+      "title": "CIDEr against human scores",
+      "note": "Only captions with valid reference-based CIDEr scores are shown. TR additionally requires all four humans to consider text applicable. Scores keep their original separate axes; no composite score or fitted line is imposed.",
+      "section": "Appendix"
+    },
+    {
+      "name": "12_exploratory_taxonomy",
+      "title": "Exploratory automated failure categories",
+      "note": "Provisional keyword-based categories; not fully validated human coding and not independent validation of Gemini. One primary label per included caption. The majority-EH1 label is displayed without asserting that all such cases are over-hedging. Unlabelled captions are not shown.",
+      "section": "Appendix"
+    }
+  ],
+  "tables": [
+    {
+      "name": "01_dataset",
+      "title": "Dataset composition",
+      "note": "Train/validation describe the source VizWiz splits. These images evaluate pretrained models; they did not train the captioning models.",
+      "rows": 4
+    },
+    {
+      "name": "02_blur_scores",
+      "title": "Laplacian-variance summaries",
+      "note": "Descriptive measurements only. Original annotation-based image groups were retained.",
+      "rows": 4
+    },
+    {
+      "name": "03_blur_performance",
+      "title": "Blur heuristic performance",
+      "note": "Recall and balanced accuracy are proportions. Only calibration data selected the threshold; the reserved set evaluated that fixed rule.",
+      "rows": 2
+    },
+    {
+      "name": "04_blur_confusion",
+      "title": "Reserved-set blur confusion matrix",
+      "note": "Columns are predicted labels. Annotation labels are the reference; they are not assumed to be infallible ground truth.",
+      "rows": 2
+    },
+    {
+      "name": "05_coverage",
+      "title": "Review and analysis coverage",
+      "note": "N/A is not zero. Applicability disagreements remain in the source workbook but are excluded from the common numerical TR subset. EH and TR subsets overlap; do not add them.",
+      "rows": 13
+    },
+    {
+      "name": "06_applicability",
+      "title": "Human and judge TR applicability",
+      "note": "Counts are captions. Disagreement alone does not establish whether the humans or Gemini were correct.",
+      "rows": 3
+    },
+    {
+      "name": "07_human_model_scores",
+      "title": "Human scores by model and image condition",
+      "note": "Mean of per-caption four-reviewer means, on the 0\u20132 scale. Descriptive 95% percentile intervals use 2000 image-bootstrap replicates (seeds 20261119 + row index). No CI for fewer than two images; N/A means no eligible observations. These new mean-score intervals are distinct from the saved correlation intervals.",
+      "rows": 20
+    },
+    {
+      "name": "08_score_distribution",
+      "title": "Human rating distributions",
+      "note": "Individual ratings are descriptive; ratings for the same caption/image are not independent observations. TR uses only the common subset.",
+      "rows": 12
+    },
+    {
+      "name": "09_reviewer_agreement",
+      "title": "Pairwise reviewer agreement",
+      "note": "Six pairs, not a single four-rater Cohen kappa. TR score agreement requires both members of each pair to mark the caption applicable. Exact agreement is a proportion and differs from chance-corrected kappa.",
+      "rows": 18
+    },
+    {
+      "name": "10_team_agreement",
+      "title": "Mean of six reviewer-pair agreement values",
+      "note": "Arithmetic means of the six pairwise statistics. Final human-score snapshot; not a reconstruction of first-pass independent agreement.",
+      "rows": 3
+    },
+    {
+      "name": "11_correlations",
+      "title": "Human-score correlation results",
+      "note": "Saved image-cluster bootstrap 95% intervals (1,000 replicates). Spearman compares judge with human means; Kendall tau-b compares CIDEr with human means. They measure ranking association, not accuracy or exact agreement.",
+      "rows": 13
+    },
+    {
+      "name": "12_eh_sensitivity",
+      "title": "Generation-flag sensitivity analysis",
+      "note": "Primary analysis includes C0104. Sensitivity excludes that generation-flagged caption. This does not include the separate text-review sensitivity analysis, which is outside the main package.",
+      "rows": 2
+    },
+    {
+      "name": "13_score_pairs",
+      "title": "Human/judge score-pair frequencies",
+      "note": "Each caption contributes once. TR uses common applicability. Bubble area is proportional to caption count; numeric labels show counts of five or more.",
+      "rows": 41
+    },
+    {
+      "name": "14_cider_model_comparison",
+      "title": "Models compared on matched CIDEr subsets",
+      "note": "Both metrics in each row use exactly the same captions. EH uses 217 images/model; TR uses 50. CIDEr remains on its raw scale, not multiplied by 100. These are descriptive means, not a significance test or a combined score.",
+      "rows": 4
+    },
+    {
+      "name": "15_exploratory_taxonomy",
+      "title": "Exploratory automated failure categories",
+      "note": "Recorded labels are keyword-rule outputs, not validated human coding. The rule labelled vague/over-hedged includes all majority-EH1 cases and can include colour-only errors. Counts are captions, not images. Judge reasons influence some categories.",
+      "rows": 8
+    }
+  ],
+  "taxonomy": "Exploratory taxonomy included; scores and IDs match the final human-score analysis.",
+  "separate_text_review_sensitivity": "Not included: not part of the main human-score package.",
+  "no_api_calls": true,
+  "inputs_modified": false
+}

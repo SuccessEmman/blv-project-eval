@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="628.2pt" height="452.88pt" viewBox="0 0 628.2 452.88" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T12:47:35.943127</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 452.88 
+L 628.2 452.88 
+L 628.2 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 37.89 135.99216 
+L 369.342 135.99216 
+Q 376.7076 135.99216 376.7076 131.3352 
+L 376.7076 77.004 
+Q 376.7076 72.34704 369.342 72.34704 
+L 37.89 72.34704 
+Q 30.5244 72.34704 30.5244 77.004 
+L 30.5244 131.3352 
+Q 30.5244 135.99216 37.89 135.99216 
+z
+" clip-path="url(#pa468a5dc4b)" style="fill: #e9f2f8; stroke: #7298af; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 424.584 135.99216 
+L 590.31 135.99216 
+Q 597.6756 135.99216 597.6756 131.3352 
+L 597.6756 77.004 
+Q 597.6756 72.34704 590.31 72.34704 
+L 424.584 72.34704 
+Q 417.2184 72.34704 417.2184 77.004 
+L 417.2184 131.3352 
+Q 417.2184 135.99216 424.584 135.99216 
+z
+" clip-path="url(#pa468a5dc4b)" style="fill: #f9eedb; stroke: #7298af; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 142.236 221.36976 
+L 485.964 221.36976 
+Q 493.3296 221.36976 493.3296 216.7128 
+L 493.3296 166.2624 
+Q 493.3296 161.60544 485.964 161.60544 
+L 142.236 161.60544 
+Q 134.8704 161.60544 134.8704 166.2624 
+L 134.8704 216.7128 
+Q 134.8704 221.36976 142.236 221.36976 
+z
+" clip-path="url(#pa468a5dc4b)" style="fill: #e9f2f8; stroke: #7298af; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 19.476 326.15136 
+L 191.34 326.15136 
+Q 198.7056 326.15136 198.7056 321.4944 
+L 198.7056 259.4016 
+Q 198.7056 254.74464 191.34 254.74464 
+L 19.476 254.74464 
+Q 12.1104 254.74464 12.1104 259.4016 
+L 12.1104 321.4944 
+Q 12.1104 326.15136 19.476 326.15136 
+z
+" clip-path="url(#pa468a5dc4b)" style="fill: #e9f2f8; stroke: #7298af; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 228.168 326.15136 
+L 400.032 326.15136 
+Q 407.3976 326.15136 407.3976 321.4944 
+L 407.3976 259.4016 
+Q 407.3976 254.74464 400.032 254.74464 
+L 228.168 254.74464 
+Q 220.8024 254.74464 220.8024 259.4016 
+L 220.8024 321.4944 
+Q 220.8024 326.15136 228.168 326.15136 
+z
+" clip-path="url(#pa468a5dc4b)" style="fill: #e9f2f8; stroke: #7298af; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 436.86 326.15136 
+L 608.724 326.15136 
+Q 616.0896 326.15136 616.0896 321.4944 
+L 616.0896 259.4016 
+Q 616.0896 254.74464 608.724 254.74464 
+L 436.86 254.74464 
+Q 429.4944 254.74464 429.4944 259.4016 
+L 429.4944 321.4944 
+Q 429.4944 326.15136 436.86 326.15136 
+z
+" clip-path="url(#pa468a5dc4b)" style="fill: #e9f2f8; stroke: #7298af; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 203.616 423.17136 
+L 424.584 423.17136 
+Q 431.9496 423.17136 431.9496 418.5144 
+L 431.9496 368.064 
+Q 431.9496 363.40704 424.584 363.40704 
+L 203.616 363.40704 
+Q 196.2504 363.40704 196.2504 368.064 
+L 196.2504 418.5144 
+Q 196.2504 423.17136 203.616 423.17136 
+z
+" clip-path="url(#pa468a5dc4b)" style="fill: #f3f3f3; stroke: #7298af; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(67.155844 100.425948)">Annotation-based selection + manual text review</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(38.968344 113.628955)">250 final images: 70 clear / 70 blurry / 60 low-light / 50 text</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(456.205906 93.824444)">Separate blur pilot</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(421.575672 107.027452)">100 calibration + 100 reserved</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(428.806453 120.230459)">No overlap with final sample</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(202.988828 187.743948)">BLIP-2 + LLaVA: 500 generated captions</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(195.878359 200.946955)">Four human reviewers + one Gemini judge</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 205.561473 135.694349 
+Q 258.858567 148.798939 310.527115 161.503106 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 307.12034 158.605885 
+L 310.527115 161.503106 
+L 306.165274 162.490193 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(67.605813 280.102414)">Error Honesty</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(32.283781 293.305422)">500 captions / 250 images</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(47.823859 306.50843)">2,000 human ratings</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(242.318984 280.102844)">Common Text Recognition</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(244.475156 293.305852)">102 captions / 51 images</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(261.763203 306.508859)">408 human ratings</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(473.495672 280.102844)">CIDEr comparison</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(449.667781 293.305852)">434 captions / 217 images</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(435.396141 306.508859)">33 images lack valid references</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 312.128864 220.923494 
+Q 209.754154 238.057174 109.03349 254.914029 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 113.308753 256.226328 
+L 109.03349 254.914029 
+L 112.648486 252.281198 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 314.1 222.593216 
+Q 314.1 238.058167 314.1 251.846067 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 316.1 247.846067 
+L 314.1 251.846067 
+L 312.1 247.846067 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 316.071136 220.923494 
+Q 418.445846 238.057174 519.16651 254.914029 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 515.551514 252.281198 
+L 519.16651 254.914029 
+L 514.891247 256.226328 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(249.882344 382.944044)">TR eligibility exclusions</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(233.264609 396.147052)">391 captions: all humans N/A</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(208.887578 409.350059)">7 captions: applicability disagreement</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 314.1 327.37908 
+Q 314.1 344.781516 314.1 360.506902 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 316.1 356.506902 
+L 314.1 360.506902 
+L 312.1 356.506902 
+" style="fill: none; stroke: #527086; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+  </g>
+  <g id="text_8">
+   <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle" x="304.2" y="19.3575" transform="rotate(-0 304.2 19.3575)">Study workflow and evaluation subsets</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa468a5dc4b">
+   <rect x="7.2" y="57.6" width="613.8" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,11 @@
+statistic,metric,estimate,caption_pairs,ci_95_lower,ci_95_upper
+Spearman rho,EH,0.6336863588991463,500.0,0.5716242376196159,0.6876504730490527
+Spearman rho,TR,0.7143657906254777,102.0,0.5921742612070884,0.8047152095079589
+Kendall tau-b: CIDEr versus human score,EH,0.2109369171171541,434.0,0.149748187854184,0.2679794087222425
+Kendall tau-b: CIDEr versus human score,TR,0.0756254316417521,100.0,-0.042018100720265,0.1798049160161526
+Mean of six pairwise unweighted_kappa,EH,0.6339589447451359,,,
+Mean of six pairwise linear_weighted_kappa,EH,0.6942570709284636,,,
+Mean of six pairwise unweighted_kappa,TR_score_both_applicable,0.8486952360639618,,,
+Mean of six pairwise linear_weighted_kappa,TR_score_both_applicable,0.8734566923859356,,,
+Mean of six pairwise unweighted_kappa,TR_applicability,0.9789825134511915,,,
+Mean of six pairwise linear_weighted_kappa,TR_applicability,0.9789825134511915,,,

@@ -1,0 +1,5 @@
+Group,Images,Train,Validation,Captions,EH ratings
+Clear,70,55,15,140,560
+Blurry,70,59,11,140,560
+Low-light,60,42,18,120,480
+Text,50,38,12,100,400
