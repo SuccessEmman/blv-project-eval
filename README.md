@@ -36,7 +36,8 @@ The primary judge–human Spearman correlations are EH **0.633686** and TR
 | Optional exploratory failure taxonomy | [`analysis/failure_taxonomy_exploratory/`](analysis/failure_taxonomy_exploratory/README.txt) |
 | Earlier stages and shared data locations | [`docs/DRIVE_DELIVERABLES_RUN_GUIDE.md`](docs/DRIVE_DELIVERABLES_RUN_GUIDE.md) |
 
-`judge/llm_judge.py` is the team's original judge implementation. The adapted
+The `judge/` folder contains the Gemini judge adapted from Success’s original implementation. 
+We ran the study using the [BLV Gemini Judge notebook](analysis/blv_judge_run/BLV%20Gemini%20Judge.ipynb). The adapted
 runner above implements the experiment rubric and model; its obsolete
 `analyze()` entry point is disabled so that human comparisons use the final
 workbook. The sampling-history notebook retains historical paths and manual
